@@ -1,0 +1,159 @@
+[
+    {
+        "title": {
+            "en": "Home",
+            "ar": "الرئيسية"
+        },
+        "path": "/",
+        "type": "link"
+    },
+    {
+        "title": {
+            "en": "University",
+            "ar": "الجامعة"
+        },
+        "type": "dropdown",
+        "submenu": [
+            {
+                "title": {
+                    "en": "About the university",
+                    "ar": "عن الجامعة"
+                },
+                "path": "/about"
+            },
+            {
+                "title": {
+                    "en": "Establishment of the university",
+                    "ar": "تأسيس الجامعة"
+                },
+                "path": "/timeline"
+            },
+            {
+                "title": {
+                    "en": "Vision and mission",
+                    "ar": "الرؤية والرسالة"
+                },
+                "path": "/vision"
+            }
+        ]
+    },
+    {
+        "maincode": "colleges",
+        "title": {
+            "en": "Faculties",
+            "ar": "الكليات"
+        },
+        "type": "dropdown",
+        "submenu": [
+            {
+                "title": {
+                    "en": "Faculty of Medicine",
+                    "ar": "كلية الطب"
+                },
+                "path": "medicine"
+            },
+            {
+                "title": {
+                    "en": "Faculty of Dentistry",
+                    "ar": "كلية طب الأسنان"
+                },
+                "path": "dentistry"
+            },
+            {
+                "title": {
+                    "en": "Faculty of Physical Therapy",
+                    "ar": "كلية العلاج الطبيعي"
+                },
+                "path": "physicaltherapy"
+            },
+            {
+                "title": {
+                    "en": "Faculty of Pharmacy",
+                    "ar": "كلية الصيدلة"
+                },
+                "path": "pharmacy"
+            },
+            {
+                "title": {
+                    "en": "Faculty of Veterinary Medicine",
+                    "ar": "كلية الطب البيطري"
+                },
+                "path": "veterinarymedicine"
+            },
+            {
+                "title": {
+                    "en": "Faculty of Applied Health Sciences Technology",
+                    "ar": "كلية التكنولوجيا الصحية التطبيقية"
+                },
+                "path": "healthsciences"
+            },
+            {
+                "title": {
+                    "en": "Faculty of Nursing",
+                    "ar": "كلية التمريض"
+                },
+                "path": "nursing"
+            },
+            {
+                "title": {
+                    "en": "Faculty of Engineering",
+                    "ar": "كلية الهندسة"
+                },
+                "path": "engineering"
+            },
+            {
+                "title": {
+                    "en": "Faculty of Computer Science and Artificial Intelligence",
+                    "ar": "كلية علوم الحاسب والذكاء الاصطناعي"
+                },
+                "path": "artificialintelligence"
+            },
+            {
+                "title": {
+                    "en": "Faculty of Humanities and Social Sciences",
+                    "ar": "كلية العلوم الإنسانية والاجتماعية"
+                },
+                "path": "humanities"
+            }
+        ]
+    },
+    {
+        "title": {
+            "en": "Electronic platforms",
+            "ar": "المنصات الإلكترونية"
+        },
+        "type": "dropdown",
+        "submenu": [
+            {
+                "title": {
+                    "en": "E-learning platform",
+                    "ar": "منصة التعلم الإلكتروني"
+                },
+                "path": "/elearning"
+            },
+            {
+                "title": {
+                    "en": "Student Portal Platform",
+                    "ar": "بوابة الطالب"
+                },
+                "path": "/studentportalsection"
+            }
+        ]
+    },
+    {
+        "title": {
+            "en": "Sustainable Development",
+            "ar": "التنمية المستدامة"
+        },
+        "path": "/sustainable-development",
+        "type": "link"
+    },
+    {
+        "title": {
+            "en": "Apply",
+            "ar": "تقديم"
+        },
+        "path": "#",
+        "type": "button"
+    }
+]
