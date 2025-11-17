@@ -6,6 +6,7 @@ import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslation } from "react-i18next";
 
+// الصور من public
 const logo = "/images/logo.png";
 const ukFlag = "/images/usa.svg";
 const saFlag = "/images/egypt.svg";
@@ -17,27 +18,29 @@ export default function Navbar() {
     const [loading, setLoading] = useState(false);
     const [navItems, setNavItems] = useState([]);
     const dropdownRef = useRef(null);
-
     const { i18n } = useTranslation();
-    const [currentLang, setCurrentLang] = useState(i18n.language || "en");
 
+    const currentLang = i18n.language || "en";
+
+    // تغيير اللغة
     const toggleLanguage = () => {
         const newLang = currentLang === "ar" ? "en" : "ar";
         setLoading(true);
-        i18n.changeLanguage(newLang).then(() => {
-            setCurrentLang(newLang);
+
+        setTimeout(() => {
+            i18n.changeLanguage(newLang);
             document.documentElement.dir = newLang === "ar" ? "rtl" : "ltr";
             document.documentElement.lang = newLang;
             setLoading(false);
-        });
+        }, 600);
     };
 
-    // تحميل JSON
+    // قراءة JSON من public
     useEffect(() => {
         fetch("/data/NavbarList.json")
             .then((res) => res.json())
             .then((data) => setNavItems(data))
-            .catch((err) => console.error(err));
+            .catch((err) => console.error("Error loading JSON:", err));
     }, []);
 
     useEffect(() => {
@@ -47,6 +50,7 @@ export default function Navbar() {
         return () => window.removeEventListener("resize", checkMobile);
     }, []);
 
+    // إغلاق القائمة عند الضغط خارجها
     useEffect(() => {
         function handleClickOutside(e) {
             if (dropdownRef.current && !dropdownRef.current.contains(e.target)) {
@@ -58,9 +62,9 @@ export default function Navbar() {
     }, []);
 
     const dropdownVariants = {
-        hidden: { opacity: 0, y: -5, pointerEvents: "none" },
-        visible: { opacity: 1, y: 0, pointerEvents: "auto" },
-        exit: { opacity: 0, y: -5, pointerEvents: "none" },
+        hidden: { opacity: 0, y: -5 },
+        visible: { opacity: 1, y: 0 },
+        exit: { opacity: 0, y: -5 },
     };
 
     return (
@@ -70,17 +74,23 @@ export default function Navbar() {
 
                     {/* Logo */}
                     <Link href="/" className="flex items-center">
-                        <Image src={logo} alt="logo" width={80} height={80} className="object-contain" />
+                        <Image
+                            src={logo}
+                            alt="logo"
+                            width={80}
+                            height={80}
+                            className="object-contain"
+                        />
                     </Link>
 
-                    {/* Mobile Btn */}
+                    {/* Mobile Menu Btn */}
                     <button
                         onClick={() => setIsOpen(!isOpen)}
                         type="button"
                         className="md:hidden text-gray-500 hover:bg-gray-100 p-2 rounded-lg"
                     >
-                        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                        <svg className="w-6 h-6" fill="none" stroke="currentColor">
+                            <path strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
                         </svg>
                     </button>
 
@@ -90,44 +100,55 @@ export default function Navbar() {
 
                             {navItems.length === 0 && <li>Loading...</li>}
 
-                            {navItems.map((item, idx) => {
-                                if (item.type === "link")
+                            {navItems.map((item, index) => {
+                                if (item.type === "link") {
                                     return (
-                                        <li key={idx}>
-                                            <Link href={item.path} className="py-2 px-3 block hover:text-blue-600">
-                                                {item.title[currentLang] || item.title.en}
+                                        <li key={index}>
+                                            <Link href={item.path} className="block py-2 px-3 hover:text-blue-600">
+                                                {item.title[currentLang]}
                                             </Link>
                                         </li>
                                     );
+                                }
 
-                                if (item.type === "dropdown")
+                                if (item.type === "dropdown") {
                                     return (
-                                        <li key={idx} className="relative" ref={dropdownRef}>
+                                        <li key={index} className="relative" ref={dropdownRef}>
                                             <button
                                                 onClick={() =>
-                                                    setOpenDropdown(openDropdown === item.title[currentLang] ? null : item.title[currentLang])
+                                                    setOpenDropdown(
+                                                        openDropdown === item.title[currentLang] ? null : item.title[currentLang]
+                                                    )
                                                 }
                                                 className="flex items-center gap-1 py-2 px-3 hover:text-blue-600"
                                             >
-                                                {item.title[currentLang] || item.title.en}
-                                                <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                                                {item.title[currentLang]}
+                                                <svg className="w-4 h-4" fill="currentColor">
                                                     <path d="M5.5 7l4.5 4.5L14.5 7" />
                                                 </svg>
                                             </button>
 
                                             <AnimatePresence>
-                                                {openDropdown === (item.title[currentLang] || item.title.en) && (
+                                                {openDropdown === item.title[currentLang] && (
                                                     <motion.ul
                                                         initial="hidden"
                                                         animate="visible"
                                                         exit="exit"
                                                         variants={dropdownVariants}
-                                                        className={`mt-2 bg-white border rounded shadow-md z-50 ${isMobile ? "pl-4 py-2 space-y-1" : "absolute top-full left-0 w-56"}`}
+                                                        className={`mt-2 bg-white border rounded shadow-md z-50 ${isMobile ? "pl-4 py-2 space-y-1" : "absolute top-full left-0 w-56"
+                                                            }`}
                                                     >
-                                                        {item.submenu?.map((subItem, subIdx) => (
-                                                            <li key={subIdx}>
-                                                                <Link href={subItem.path} className="block px-3 py-2 hover:bg-gray-100 rounded">
-                                                                    {subItem.title[currentLang] || subItem.title.en}
+                                                        {item.submenu?.map((subItem, subIndex) => (
+                                                            <li key={subIndex}>
+                                                                <Link
+                                                                    href={subItem.path}
+                                                                    className="block px-3 py-2 hover:bg-gray-100 rounded"
+                                                                    onClick={() => {
+                                                                        setIsOpen(false);
+                                                                        setOpenDropdown(null);
+                                                                    }}
+                                                                >
+                                                                    {subItem.title[currentLang]}
                                                                 </Link>
                                                             </li>
                                                         ))}
@@ -136,18 +157,22 @@ export default function Navbar() {
                                             </AnimatePresence>
                                         </li>
                                     );
+                                }
 
-                                if (item.type === "button")
+                                if (item.type === "button") {
                                     return (
-                                        <li key={idx}>
-                                            <div className="px-3 py-2 bg-blue-600 text-white rounded">{item.title[currentLang] || item.title.en}</div>
+                                        <li key={index}>
+                                            <div className="px-3 py-2 bg-blue-600 text-white rounded">
+                                                {item.title[currentLang]}
+                                            </div>
                                         </li>
                                     );
+                                }
 
                                 return null;
                             })}
 
-                            {/* زر تغيير اللغة */}
+                            {/* Language Switch Button */}
                             <li>
                                 <button
                                     onClick={toggleLanguage}
@@ -160,6 +185,7 @@ export default function Navbar() {
                                     ) : (
                                         <Image src={ukFlag} alt="EN" width={36} height={36} className="rounded-full" />
                                     )}
+
                                     <span className="font-semibold">{currentLang.toUpperCase()}</span>
                                 </button>
                             </li>
