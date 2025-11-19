@@ -12,11 +12,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className="flex flex-col min-h-screen">
+      <body className="flex flex-col min-h-screen ">
         <I18nProvider>
           <Navbar />
           <main className="flex-grow flex items-center justify-center">
-            <div className="w-full max-w-screen-xl mx-auto px-4">{children}</div>
+            <div className="w-full  mx-auto ">{children}</div>
           </main>
 
         </I18nProvider>
