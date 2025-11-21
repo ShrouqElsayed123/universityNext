@@ -27,6 +27,14 @@ module.exports = {
         'home-section-margin': '20px',
         'home-section-padding': '40px',
       },
+      fontFamily: {
+        arabic: ['var(--font-arabic)', 'sans-serif'],
+        english: ['var(--font-english)', 'sans-serif'],
+        header: ['var(--font-header)', 'serif'],
+        Playwrite: ['"Playwrite CZ"', 'sans-serif']
+
+
+      },
       keyframes: {
         rotate: {
           '0%': { transform: 'perspective(1000px) rotateY(0deg)' },

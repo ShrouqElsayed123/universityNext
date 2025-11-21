@@ -50,70 +50,70 @@
                     "en": "Faculty of Medicine",
                     "ar": "كلية الطب"
                 },
-                "path": "medicine"
+                "path": "/faculties/medicine"
             },
             {
                 "title": {
                     "en": "Faculty of Dentistry",
                     "ar": "كلية طب الأسنان"
                 },
-                "path": "dentistry"
+                "path": "/faculties/dentistry"
             },
             {
                 "title": {
                     "en": "Faculty of Physical Therapy",
                     "ar": "كلية العلاج الطبيعي"
                 },
-                "path": "physicaltherapy"
+                "path": "/faculties/physicaltherapy"
             },
             {
                 "title": {
                     "en": "Faculty of Pharmacy",
                     "ar": "كلية الصيدلة"
                 },
-                "path": "pharmacy"
+                "path": "/faculties/pharmacy"
             },
             {
                 "title": {
                     "en": "Faculty of Veterinary Medicine",
                     "ar": "كلية الطب البيطري"
                 },
-                "path": "veterinarymedicine"
+                "path": "/faculties/veterinarymedicine"
             },
             {
                 "title": {
                     "en": "Faculty of Applied Health Sciences Technology",
                     "ar": "كلية التكنولوجيا الصحية التطبيقية"
                 },
-                "path": "healthsciences"
+                "path": "/faculties/healthsciences"
             },
             {
                 "title": {
                     "en": "Faculty of Nursing",
                     "ar": "كلية التمريض"
                 },
-                "path": "nursing"
+                "path": "/faculties/nursing"
             },
             {
                 "title": {
                     "en": "Faculty of Engineering",
                     "ar": "كلية الهندسة"
                 },
-                "path": "engineering"
+                "path": "/faculties/engineering"
             },
             {
                 "title": {
                     "en": "Faculty of Computer Science and Artificial Intelligence",
                     "ar": "كلية علوم الحاسب والذكاء الاصطناعي"
                 },
-                "path": "artificialintelligence"
+                "path": "/faculties/ai"
             },
             {
                 "title": {
                     "en": "Faculty of Humanities and Social Sciences",
                     "ar": "كلية العلوم الإنسانية والاجتماعية"
                 },
-                "path": "humanities"
+                "path": "/faculties/humanities"
             }
         ]
     },

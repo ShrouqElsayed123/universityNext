@@ -1,9 +1,5 @@
 import './globals.css';
-// import Navbar from './components/Navbar'; // Client Component
-// import Footer from './components/Footer/Footer'; // Client Component
-import I18nProvider from '../components/I18nProvider'; // Client wrapper
-import Navbar from '../components/Navbar/Navbar';
-import Footer from '../components/homecomponent/Footer';
+import ClientRootLayout from './ClientRootLayout';
 
 export const metadata = {
   title: 'Create Next App',
@@ -12,16 +8,8 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body className="flex flex-col min-h-screen ">
-        <I18nProvider>
-          <Navbar />
-          <main className="flex-grow flex items-center justify-center">
-            <div className="w-full  mx-auto ">{children}</div>
-          </main>
-<Footer />
-        </I18nProvider>
-      </body>
+    <html lang="ar">
+      <ClientRootLayout>{children}</ClientRootLayout>
     </html>
   );
 }

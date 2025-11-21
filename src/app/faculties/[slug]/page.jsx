@@ -1,6 +1,10 @@
 // app/faculty/[slug]/page.js
+import FacultyDoctors from "@/components/FaculitiesComponent/FacultyDoctors";
+import FacultyGoals from "@/components/FaculitiesComponent/FacultyGoals";
+import FacultyLevels from "@/components/FaculitiesComponent/FacultyLevels";
 import FacultyOverview from "@/components/FaculitiesComponent/FacultyOverview";
 import Header from "@/components/FaculitiesComponent/Header";
+import PeekSlider from "@/components/FaculitiesComponent/PeekSlider";
 import fs from "fs";
 import path from "path";
 
@@ -40,6 +44,17 @@ export default async function Page({ params }) {
                 images={data.facultyGallery}
                 overviewImage={data.overviewImage}
             />
+
+
+            <FacultyGoals
+                data={data.facultyGoals}
+                img={data.goalsImage}
+            />
+
+            <PeekSlider />
+            <FacultyLevels facultyData={data} />
+            <FacultyDoctors team={data.facultyDoctors} />
+
         </div>
     );
 }

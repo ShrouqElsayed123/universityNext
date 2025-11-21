@@ -6,8 +6,8 @@ import { useTranslation } from "react-i18next";
 
 export default function Header({ links, img }) {
     const pathname = usePathname();
- const { i18n } = useTranslation();
-  const lang = i18n.language; 
+    const { i18n } = useTranslation();
+    const lang = i18n.language;
     return (
         <div className="relative h-80 flex items-center justify-center text-center px-0">
 
