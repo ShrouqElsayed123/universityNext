@@ -1,0 +1,821 @@
+{
+    "header": {
+        "links": [
+            {
+                "to": "/",
+                "label": {
+                    "en": "home",
+                    "ar": "الرئيسية"
+                }
+            },
+            {
+                "to": "/",
+                "label": {
+                    "en": "Faculty of Dentistry",
+                    "ar": " كلية طب الأسنان"
+                }
+            }
+        ],
+        "img": "/images/dentistry/banner1.jpg"
+    },
+    "overview": {
+        "title": {
+            "en": "Overview of the Faculty of Dentistry",
+            "ar": "نظرة عامة على كلية طب الأسنان"
+        },
+        "para1": {
+            "en": "The College of Dentistry is one of the colleges at Menoufia National University, established by Presidential Decree No. 423 of 2022. It aims to contribute to the university's mission and keep pace with advancements in medical sciences and technologies, specializing in the teaching of oral and dental sciences.",
+            "ar": "كلية طب الأسنان هي إحدى كليات جامعة المنوفية، أنشئت بقرار رئاسي رقم 423 لسنة 2022. تهدف إلى الإسهام في رسالة الجامعة ومواكبة التطورات في العلوم الطبية والتقنيات، متخصصة في تعليم علوم الفم والأسنان."
+        },
+        "para2": {
+            "en": "",
+            "ar": ""
+        },
+        "programTitle": {
+            "en": "Overview of Oral and Dental Surgery Program:",
+            "ar": "نظرة عامة على برنامج جراحة الفم والأسنان:"
+        },
+        "programPara": {
+            "en": "The program started in the academic year 2023-2024, with a duration of six years, consisting of five years of study followed by a year of training. It grants students a Bachelor’s degree in Oral and Dental Surgery based on a credit hour system, fulfilling the requirements for academic accreditation. A student will not receive their graduation certificate until they complete the internship year, which is necessary to obtain a professional practice license in the Arab Republic of Egypt.",
+            "ar": "بدأ البرنامج في العام الدراسي 2023-2024، مدته ست سنوات، تتضمن خمس سنوات دراسة تليها سنة تدريبية. يمنح الطلاب درجة البكالوريوس في جراحة الفم والأسنان وفق نظام الساعات المعتمدة، ويستوفي متطلبات الاعتماد الأكاديمي. لن يحصل الطالب على شهادة التخرج إلا بعد إكمال سنة التدريب اللازمة للحصول على رخصة الممارسة المهنية في جمهورية مصر العربية."
+        },
+        "visionPara": {
+            "en": "The Oral and Dental Surgery Program, Menoufia National University aims to be one of the accredited and distinguished educational programs locally and globally in the field of dentistry",
+            "ar": "يهدف برنامج جراحة الفم والأسنان بجامعة المنوفية أن يكون من البرامج التعليمية المعتمدة والمتميزة محليًا وعالميًا في مجال طب الأسنان"
+        },
+        "missionPara": {
+            "en": "The Oral and Dental Surgery Program, Menoufia National University works to prepare skilled professionals in the field of dentistry, who are scientifically and practically distinguished, capable of competing, and keeping pace with modern scientific developments. The program aims to meet the needs of the job market, serve the community, conduct various scientific research, and build local and global partnerships in the fields of dentistry and oral diseases.",
+            "ar": "يعمل برنامج جراحة الفم والأسنان بجامعة المنوفية على إعداد متخصصين مهرة في مجال طب الأسنان، يتميزون علميًا وعمليًا، قادرين على المنافسة ومواكبة التطورات العلمية الحديثة. يهدف البرنامج إلى تلبية احتياجات سوق العمل، خدمة المجتمع، إجراء البحوث العلمية المتنوعة، وبناء شراكات محلية وعالمية في مجالات طب الأسنان وأمراض الفم."
+        }
+    },
+    "facultyGoals": [
+        {
+            "id": "1",
+            "label": {
+                "en": "Program Objectives",
+                "ar": "أهداف البرنامج"
+            },
+            "title": {
+                "en": "The strategic objectives of the Oral and Dental Surgery Program, Menoufia National University encompass three main pillars: education, scientific research, and community service through:",
+                "ar": "تتضمن الأهداف الإستراتيجية لبرنامج طب وجراحة الفم والأسنان جامعة المنوفية الأهلية ثلاثة محاور أساسية: التعليم ، البحث العلمي ، وخدمة المجتمع من خلال:"
+            },
+            "content": [
+                {
+                    "en": " Enhancing students' educational capabilities by activating modern teaching and learning strategies and encouraging continuous education and training to graduate distinguished professionals in various specialties.",
+                    "ar": " تنمية قدرات الطلاب التعليمية بتفعيل الاستراتيجيات الحديثة في التعليم والتعلم وتشجيع الطلاب على التعليم المستمر والتدريب لتخريج كوادر متميزة في التخصصات المختلفةالملحقات"
+                },
+                {
+                    "en": "Graduating qualified and distinguished dentists capable of working in all sectors both inside and outside Egypt.",
+                    "ar": "تخريج طبيب أسنان متميز ومؤهل للعمل فى كافة القطاعات داخل وخارج مصر."
+                },
+                {
+                    "en": "Providing exceptional services in the treatment of oral and dental diseases.",
+                    "ar": "تقديم خدمة متميزة فى علاج أمراض الفم والأسنان "
+                },
+                {
+                    "en": " Developing the scientific and professional competencies of dentists from the governorate through workshops and continuous scientific courses.",
+                    "ar": "تنمية الكفاءه العلمية والمهنية لأطباء الأسنان من أبناء المحافظة من خلال ورش العمل والدورات العلمية المستمرة. "
+                },
+                {
+                    "en": "Strengthening research capabilities in the field of dentistry and linking research to community problems and modern technologies in dentistry.",
+                    "ar": " تعزيز القدرات البحثية فى مجال طب الأسنان وربط الأبحاث بمشكلات المجتمع وبالتقنيات الحديثة فى مجال طب الأسنان."
+                },
+                {
+                    "en": "Organizing conferences, seminars, and medical convoys to elevate the education and training of dentists and treat citizens.",
+                    "ar": "تنظيم المؤتمرات و الندوات و القوافل العلاجية للإرتقاء بمستوي تعليم و تدريب أطباء الأسنان و علاج المواطنين. "
+                },
+                {
+                    "en": "Providing program members with exceptional scientific and research expertise.",
+                    "ar": "توفير أعضاء هيئة تدريس ذوى خبرة ومهارة علمية وبحثية متميزة."
+                },
+                {
+                    "en": "Continuously updating the infrastructure to create a suitable environment for the educational and teaching process.",
+                    "ar": "التحديث المستمر للبنية التحتية من أجل توفير البيئة المناسبة للعملية التعليمية والتدريسية."
+                },
+                {
+                    "en": "Activating partnerships and cooperation protocols with dental colleges and research institutions locally, regionally, and internationally.",
+                    "ar": " تفعيل شراكات وبروتوكلات تعاون مع كليات طب الأسنان ومؤسسات البحث العلمي محلياً وإقليمياً ودولياً."
+                },
+                {
+                    "en": "Formulating effective partnerships with health system stakeholders by providing educational, research, and treatment services to local and regional community organizations through distinguished faculty members.",
+                    "ar": " صياغة شراكة فعالة مع أطراف المنظومة الصحية من خلال تقديم خدمات تعليمية وبحثية وعلاجية لهيئات مجتمعية محلية وإقليمية بواسطة العناصر المتميزة من أعضاء هيئة التدريس."
+                },
+                {
+                    "en": "Implementing self-assessment and continuous improvement to achieve excellence in all aspects of university education and scientific research.",
+                    "ar": "تفعيل التقويم الذاتي والتحسين المستمر لتحقيق التميز في جميع عناصر التعليم الجامعي والبحث العلمي ."
+                },
+                {
+                    "en": "Committing to applying quality standards and striving to implement global quality standards for dental colleges.",
+                    "ar": "الإلتزام بتطبيق معايير الجودة والسعى لتطبيق معايير الجودة العالمية لكليات طب الأسنان."
+                },
+                {
+                    "en": "Focusing on teaching students the concepts and foundations of professional ethics and human rights in public health and medical services.",
+                    "ar": "الاهتمام بتعليم الطلاب مفاهيم وأسس الاخلاقيات المهنية وحقوق الانسان في مجالات الصحة العامة والخدمات الطبية."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "label": {
+                "en": "Career Path and Job Opportunities",
+                "ar": "المسار الوظيفي وفرص العمل"
+            },
+            "title": {
+                "en": "After obtaining a Bachelor’s degree in Oral and Dental Surgery, our graduate can work in the following fields:",
+                "ar": " يستطيع الخريج العمل فى الأماكن الآتية:"
+            },
+            "content": [
+                {
+                    "en": "1. Hospitals, in the field of Dentistry.",
+                    "ar": "1. المستشفيات، في مجال طب الأسنان"
+                },
+                {
+                    "en": "2. Dental Clinics.",
+                    "ar": "2. عيادات الأسنان"
+                },
+                {
+                    "en": "3. Educational and academic fields, performing academic tasks and research.",
+                    "ar": "3. المجال التعليمي والأكاديمي، والقيام ببعض المهام والأبحاث الأكاديمية "
+                },
+                {
+                    "en": "4. Insurance companies specializing in dental care and treatment.",
+                    "ar": "4. شركات التأمين المختصة بطب وعلاج الفم والأسنان"
+                },
+                {
+                    "en": "5. Research institutions and centers focusing on Dentistry studies.",
+                    "ar": "5. مؤسسات والمراكز البحثية التي تُركِّز دراساتها على طب الأسنان"
+                }
+            ]
+        }
+    ],
+    "overviewImage": "/images/dentistry/overview.jpg",
+    "goalsImage": "/images/dentistry/dentistgoal.jpg",
+     "facultyGallery": [
+        "/images/f1.jpg",
+        "/images/f2.jpg",
+        "/images/f3.jpg",
+        "/images/f4.jpg",
+        "/images/f5.jpg"
+    ],
+    "facultyDoctors": [
+        {
+            "name": "Samanta Smith",
+            "role": {
+                "en": "Head manager",
+                "ar": "المدير الرئيسي"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Lucy Albea",
+            "role": {
+                "en": "Investor",
+                "ar": "مستثمر"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        }
+    ],
+    "facultyLevels": [
+        {
+            "id": "1",
+            "name": {
+                "en": "Level 1",
+                "ar": "المستوى 1"
+            },
+            "semesters": [
+                {
+                    "id": "1-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Quality control",
+                                "ar": "مدخل الى الجودة والاعتماد فى مؤسسات التعليم العالى 101"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Human Rights 102",
+                                "ar": "حقوق الانسان102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biochemistry 101",
+                                "ar": "الكيمياء الحيوى 101"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biochemistry 102",
+                                "ar": "الكيمياء الحيوى 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Bio Physics 101",
+                                "ar": "الفيزياء الحيوى 101"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Bio Physics 102",
+                                "ar": "الفيزياء الحيوى 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Anatomy 101",
+                                "ar": "التشريح العام101"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Anatomy 102",
+                                "ar": "التشريح العام102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Physiology 101",
+                                "ar": "الفسيولوجيا العامه 101"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Physiology 102",
+                                "ar": "الفسيولوجيا العامه 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Histology 101",
+                                "ar": "الهستولوجيا العامه 101"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Histology 102",
+                                "ar": "الهستولوجيا العامه 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Dental Anatomy 101",
+                                "ar": "التشريح الوصفى للأسنان 101"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Dental Anatomy 102",
+                                "ar": "التشريح الوصفى للأسنان 102"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": []
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": {
+                "en": "Level 2",
+                "ar": "المستوى 2"
+            },
+            "semesters": [
+                {
+                    "id": "2-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Dental Biomaterial 201",
+                                "ar": "مواد الأسنان الحيوية 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Dental Biomaterial 202",
+                                "ar": "مواد الأسنان الحيوية 202"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Oral Biology 201",
+                                "ar": "بيولوجيا الفم 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Oral Biology 202",
+                                "ar": "بيولوجيا الفم 202"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Operative Dentistry 201",
+                                "ar": "تقنية العلاج التحفظى 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Operative Dentistry 202",
+                                "ar": "تقنية العلاج التحفظى 202"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Prosthodontics 201",
+                                "ar": "تقنية الإستعاضة الصناعية المتحركه 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Prosthodontics 202",
+                                "ar": "تقنية الإستعاضة الصناعية المتحركه 202"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Fixed Prosthodontics 201",
+                                "ar": "تقنية الإستعاضة السنية المثبته 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Fixed Prosthodontics 202",
+                                "ar": "تقنية الإستعاضة السنية المثبته 202"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Pathology 201",
+                                "ar": "الباثولوجيا العامه 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Pharmacology 201",
+                                "ar": "الفارما كولوجى العامه 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Pharmacology 202",
+                                "ar": "الفارما كولوجى العامه 202"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Microbiology201",
+                                "ar": "الميكروبيولوجى 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Microbiology202",
+                                "ar": "Microbiology202"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective 201",
+                                "ar": "مقرر إختيارى 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective 202",
+                                "ar": "مقرر إختيارى 202"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": []
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": {
+                "en": "Level 3",
+                "ar": "المستوى 3"
+            },
+            "semesters": [
+                {
+                    "id": "3-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Oral Pathology 301",
+                                "ar": "باثولوجيا الفم 301"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Operative Dentistry301",
+                                "ar": "العلاج التحفظى 301"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Prosthodontics301",
+                                "ar": "الإستعاضة الصناعية المتحركه 301"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Fixed Prosthodontics 301",
+                                "ar": "الإستعاضة السنية المثبته 301"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Medicine 301",
+                                "ar": "الأمراض الباطنية 301"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Surgery 301",
+                                "ar": "الجراحة العامه 301"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Infection Control 301",
+                                "ar": "مكافحة العدوى 301"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective 301",
+                                "ar": "مقرر إختيارى 301"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "3-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Oral Pathology 302",
+                                "ar": "باثولوجيا الفم 302"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Operative Dentistry302",
+                                "ar": "العلاج التحفظى 302"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Prosthodontics302",
+                                "ar": "الإستعاضة الصناعية المتحركه 302"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Fixed Prosthodontics 302",
+                                "ar": "الإستعاضة السنية المثبته 302"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Medicine 302",
+                                "ar": "الأمراض الباطنية 302"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Surgery 302",
+                                "ar": "الجراحة العامه 302"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective 302",
+                                "ar": "مقرر إختيارى 302"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": {
+                "en": "Level 4",
+                "ar": "المستوى 4"
+            },
+            "semesters": [
+                {
+                    "id": "4-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Oral Surgery 401",
+                                "ar": "جراحة الفم والتخدير 401"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Oral &Maxillofacial Radiology 401",
+                                "ar": "أشعة الفم والوجة والفكين401"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Endodontics 401",
+                                "ar": "تقنية علاج الجذور 401"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Operative Dentistry401",
+                                "ar": "العلاج التحفظى 401"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Prosthodontics401",
+                                "ar": "الإستعاضة الصناعية المتحركه 401"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Fixed Prosthodontics 401",
+                                "ar": "الإستعاضة السنية المثبته 401"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Orthodontics 401",
+                                "ar": "تقويم الأسنان 401"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Diagnosis 401",
+                                "ar": "التشخيص 401"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective 401",
+                                "ar": "مقرر إختيارى 401"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "4-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Oral Surgery 402",
+                                "ar": "جراحة الفم والتخدير 402"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Oral &Maxillofacial Radiology 402",
+                                "ar": "أشعة الفم والوجة والفكين402"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Endodontics 402",
+                                "ar": "تقنية علاج الجذور 402"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Operative Dentistry402",
+                                "ar": "العلاج التحفظى 402"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Prosthodontics402",
+                                "ar": "الإستعاضة الصناعية المتحركه 402"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Fixed Prosthodontics 402",
+                                "ar": "الإستعاضة السنية المثبته 402"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Orthodontics 402",
+                                "ar": "تقويم الأسنان 402"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Diagnosis 402",
+                                "ar": "التشخيص 402"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective 402",
+                                "ar": "مقرر إختيارى 402"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": {
+                "en": "Level 5",
+                "ar": "المستوى 5"
+            },
+            "semesters": [
+                {
+                    "id": "5-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Oral & Maxillofacial Surgery 501",
+                                "ar": "جراحة الفم والوجه والفكين 501"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pedodontics & Public Health 501",
+                                "ar": "طب أسنان الأطفال والصحه العامه 501"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Endodontics 501",
+                                "ar": "علاج الجذور 501"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Operative Dentistry 501",
+                                "ar": "العلاج التحفظى 501"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Prosthodontics501",
+                                "ar": "الإستعاضة الصناعية المتحركه 501"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Fixed Prosthodontics 501",
+                                "ar": "الإستعاضة السنية المثبته 501"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Oral Medicine 501",
+                                "ar": "طب الفم 501"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Periodontics 501",
+                                "ar": "علاج اللثه 501"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective 501",
+                                "ar": "مقرر إختيارى 501"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Oral & Maxillofacial Surgery 502",
+                                "ar": "جراحة الفم والوجه والفكين 502"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pedodontics & Public Health 502",
+                                "ar": "طب أسنان الأطفال والصحه العامه 502"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Endodontics 502",
+                                "ar": "علاج الجذور 502"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Advanced Operative Dentistry 502",
+                                "ar": "العلاج التحفظى المتقدم 502"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Advanced Prosthodontics502",
+                                "ar": "الإستعاضة الصناعية المتحركه المتقدمه 502"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Advanced Fixed Prosthodontics 502",
+                                "ar": "الإستعاضة السنية المثبته المتقدمه 502"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Oral Medicine 502",
+                                "ar": "طب الفم 502"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Periodontics 502",
+                                "ar": "علاج اللثه 502"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective 502",
+                                "ar": "مقرر إختيارى 502"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

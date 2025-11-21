@@ -1,0 +1,597 @@
+{
+    "header": {
+        "links": [
+            {
+                "to": "/",
+                "label": {
+                    "en": "home",
+                    "ar": "الرئيسية"
+                }
+            },
+            {
+                "to": "/",
+                "label": {
+                    "en": "Faculty of Engineering",
+                    "ar": "كلية الهندسة"
+                }
+            }
+        ],
+        "img": "/images/engineer/banner.jpg"
+    },
+    "overview": {
+        "title": {
+            "en": "",
+            "ar": "  "
+        },
+        "para1": {
+            "en": "",
+            "ar": "  "
+        },
+        "para2": {
+            "en": "",
+            "ar": "  "
+        },
+        "programTitle": {
+            "en": "",
+            "ar": "  "
+        },
+        "programPara": {
+            "en": "",
+            "ar": "  "
+        },
+        "visionPara": {
+            "en": "",
+            "ar": "  "
+        },
+        "missionPara": {
+            "en": "",
+            "ar": "  "
+        }
+    },
+    "overviewImage": "/images/engineer/overview.jpg",
+    "facultyGoals": [
+        {
+            "id": "1",
+            "label": {
+                "en": "Program Objectives",
+                "ar": "أهداف البرنامج"
+            },
+            "title": {
+                "en": "The strategic objectives of the Oral and Dental Surgery Program, Menoufia National University encompass three main pillars: education, scientific research, and community service through:",
+                "ar": "تتضمن الأهداف الإستراتيجية لبرنامج طب وجراحة الفم والأسنان جامعة المنوفية الأهلية ثلاثة محاور أساسية: التعليم ، البحث العلمي ، وخدمة المجتمع من خلال:"
+            },
+            "content": [
+                {
+                    "en": " Enhancing students' educational capabilities by activating modern teaching and learning strategies and encouraging continuous education and training to graduate distinguished professionals in various specialties.",
+                    "ar": " تنمية قدرات الطلاب التعليمية بتفعيل الاستراتيجيات الحديثة في التعليم والتعلم وتشجيع الطلاب على التعليم المستمر والتدريب لتخريج كوادر متميزة في التخصصات المختلفةالملحقات"
+                },
+                {
+                    "en": "Graduating qualified and distinguished dentists capable of working in all sectors both inside and outside Egypt.",
+                    "ar": "تخريج طبيب أسنان متميز ومؤهل للعمل فى كافة القطاعات داخل وخارج مصر."
+                },
+                {
+                    "en": "Providing exceptional services in the treatment of oral and dental diseases.",
+                    "ar": "تقديم خدمة متميزة فى علاج أمراض الفم والأسنان "
+                },
+                {
+                    "en": " Developing the scientific and professional competencies of dentists from the governorate through workshops and continuous scientific courses.",
+                    "ar": "تنمية الكفاءه العلمية والمهنية لأطباء الأسنان من أبناء المحافظة من خلال ورش العمل والدورات العلمية المستمرة. "
+                },
+                {
+                    "en": "Strengthening research capabilities in the field of dentistry and linking research to community problems and modern technologies in dentistry.",
+                    "ar": " تعزيز القدرات البحثية فى مجال طب الأسنان وربط الأبحاث بمشكلات المجتمع وبالتقنيات الحديثة فى مجال طب الأسنان."
+                },
+                {
+                    "en": "Organizing conferences, seminars, and medical convoys to elevate the education and training of dentists and treat citizens.",
+                    "ar": "تنظيم المؤتمرات و الندوات و القوافل العلاجية للإرتقاء بمستوي تعليم و تدريب أطباء الأسنان و علاج المواطنين. "
+                },
+                {
+                    "en": "Providing program members with exceptional scientific and research expertise.",
+                    "ar": "توفير أعضاء هيئة تدريس ذوى خبرة ومهارة علمية وبحثية متميزة."
+                },
+                {
+                    "en": "Continuously updating the infrastructure to create a suitable environment for the educational and teaching process.",
+                    "ar": "التحديث المستمر للبنية التحتية من أجل توفير البيئة المناسبة للعملية التعليمية والتدريسية."
+                },
+                {
+                    "en": "Activating partnerships and cooperation protocols with dental colleges and research institutions locally, regionally, and internationally.",
+                    "ar": " تفعيل شراكات وبروتوكلات تعاون مع كليات طب الأسنان ومؤسسات البحث العلمي محلياً وإقليمياً ودولياً."
+                },
+                {
+                    "en": "Formulating effective partnerships with health system stakeholders by providing educational, research, and treatment services to local and regional community organizations through distinguished faculty members.",
+                    "ar": " صياغة شراكة فعالة مع أطراف المنظومة الصحية من خلال تقديم خدمات تعليمية وبحثية وعلاجية لهيئات مجتمعية محلية وإقليمية بواسطة العناصر المتميزة من أعضاء هيئة التدريس."
+                },
+                {
+                    "en": "Implementing self-assessment and continuous improvement to achieve excellence in all aspects of university education and scientific research.",
+                    "ar": "تفعيل التقويم الذاتي والتحسين المستمر لتحقيق التميز في جميع عناصر التعليم الجامعي والبحث العلمي ."
+                },
+                {
+                    "en": "Committing to applying quality standards and striving to implement global quality standards for dental colleges.",
+                    "ar": "الإلتزام بتطبيق معايير الجودة والسعى لتطبيق معايير الجودة العالمية لكليات طب الأسنان."
+                },
+                {
+                    "en": "Focusing on teaching students the concepts and foundations of professional ethics and human rights in public health and medical services.",
+                    "ar": "الاهتمام بتعليم الطلاب مفاهيم وأسس الاخلاقيات المهنية وحقوق الانسان في مجالات الصحة العامة والخدمات الطبية."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "label": {
+                "en": "Career Path and Job Opportunities",
+                "ar": "المسار الوظيفي وفرص العمل"
+            },
+            "title": {
+                "en": "After obtaining a Bachelor’s degree in Oral and Dental Surgery, our graduate can work in the following fields:",
+                "ar": " يستطيع الخريج العمل فى الأماكن الآتية:"
+            },
+            "content": [
+                {
+                    "en": "1. Hospitals, in the field of Dentistry.",
+                    "ar": "1. المستشفيات، في مجال طب الأسنان"
+                },
+                {
+                    "en": "2. Dental Clinics.",
+                    "ar": "2. عيادات الأسنان"
+                },
+                {
+                    "en": "3. Educational and academic fields, performing academic tasks and research.",
+                    "ar": "3. المجال التعليمي والأكاديمي، والقيام ببعض المهام والأبحاث الأكاديمية "
+                },
+                {
+                    "en": "4. Insurance companies specializing in dental care and treatment.",
+                    "ar": "4. شركات التأمين المختصة بطب وعلاج الفم والأسنان"
+                },
+                {
+                    "en": "5. Research institutions and centers focusing on Dentistry studies.",
+                    "ar": "5. مؤسسات والمراكز البحثية التي تُركِّز دراساتها على طب الأسنان"
+                }
+            ]
+        }
+    ],
+    "goalsImage": "/images/engineer/engineergoal.jpg",
+    "facultyGallery": [
+        "/images/f1.jpg",
+        "/images/f2.jpg",
+        "/images/f3.jpg",
+        "/images/f4.jpg",
+        "/images/f5.jpg"
+    ],
+    "facultyDoctors": [
+        {
+            "name": "Samanta Smith",
+            "role": {
+                "en": "Head manager",
+                "ar": "المدير الرئيسي"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Lucy Albea",
+            "role": {
+                "en": "Investor",
+                "ar": "مستثمر"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        }
+    ],
+    "facultyLevels": [
+        {
+            "id": "1",
+            "name": {
+                "en": "Level 1",
+                "ar": "المستوى 1"
+            },
+            "terms": [
+                {
+                    "id": "1-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c2",
+                            "name": {
+                                "en": "Biology",
+                                "ar": "علم الأحياء"
+                            }
+                        },
+                        {
+                            "id": "c3",
+                            "name": {
+                                "en": "Chemistry",
+                                "ar": "الكيمياء"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "id": "c1",
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "التشريح"
+                            }
+                        },
+                        {
+                            "id": "c2",
+                            "name": {
+                                "en": "Biology",
+                                "ar": "علم الأحياء"
+                            }
+                        },
+                        {
+                            "id": "c3",
+                            "name": {
+                                "en": "Chemistry",
+                                "ar": "الكيمياء"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": {
+                "en": "Level 2",
+                "ar": "المستوى 2"
+            },
+            "terms": [
+                {
+                    "id": "2-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "id": "c6",
+                            "name": {
+                                "en": "Physiology",
+                                "ar": "علم وظائف الأعضاء"
+                            }
+                        },
+                        {
+                            "id": "c7",
+                            "name": {
+                                "en": "Biochemistry",
+                                "ar": "الكيمياء الحيوية"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "id": "c8",
+                            "name": {
+                                "en": "Microbiology",
+                                "ar": "علم الأحياء الدقيقة"
+                            }
+                        },
+                        {
+                            "id": "c9",
+                            "name": {
+                                "en": "Pathology",
+                                "ar": "علم الأمراض"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": {
+                "en": "Level 3",
+                "ar": "المستوى 3"
+            },
+            "terms": [
+                {
+                    "id": "3-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "id": "c10",
+                            "name": {
+                                "en": "Physiology",
+                                "ar": "علم وظائف الأعضاء"
+                            }
+                        },
+                        {
+                            "id": "c11",
+                            "name": {
+                                "en": "Biochemistry",
+                                "ar": "الكيمياء الحيوية"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "3-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "id": "c12",
+                            "name": {
+                                "en": "Microbiology",
+                                "ar": "علم الأحياء الدقيقة"
+                            }
+                        },
+                        {
+                            "id": "c13",
+                            "name": {
+                                "en": "Pathology",
+                                "ar": "علم الأمراض"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": {
+                "en": "Level 4",
+                "ar": "المستوى 4"
+            },
+            "terms": [
+                {
+                    "id": "4-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "id": "c14",
+                            "name": {
+                                "en": "Physiology",
+                                "ar": "علم وظائف الأعضاء"
+                            }
+                        },
+                        {
+                            "id": "c15",
+                            "name": {
+                                "en": "Biochemistry",
+                                "ar": "الكيمياء الحيوية"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "4-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "id": "c16",
+                            "name": {
+                                "en": "Microbiology",
+                                "ar": "علم الأحياء الدقيقة"
+                            }
+                        },
+                        {
+                            "id": "c17",
+                            "name": {
+                                "en": "Pathology",
+                                "ar": "علم الأمراض"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": {
+                "en": "Level 5",
+                "ar": "المستوى 5"
+            },
+            "terms": [
+                {
+                    "id": "5-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "id": "c18",
+                            "name": {
+                                "en": "Physiology",
+                                "ar": "علم وظائف الأعضاء"
+                            }
+                        },
+                        {
+                            "id": "c19",
+                            "name": {
+                                "en": "Biochemistry",
+                                "ar": "الكيمياء الحيوية"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "id": "c20",
+                            "name": {
+                                "en": "Microbiology",
+                                "ar": "علم الأحياء الدقيقة"
+                            }
+                        },
+                        {
+                            "id": "c21",
+                            "name": {
+                                "en": "Pathology",
+                                "ar": "علم الأمراض"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

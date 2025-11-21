@@ -1,0 +1,363 @@
+{
+    "header": {
+        "links": [
+            {
+                "to": "/",
+                "label": {
+                    "en": "home",
+                    "ar": "الرئيسية"
+                }
+            },
+            {
+                "to": "/",
+                "label": {
+                    "en": "Faculty of Pharmacy",
+                    "ar": "  كلية الصيدلة"
+                }
+            }
+        ],
+        "img": "/images/pharmacy/banner.jpg"
+    },
+    "overview": {
+        "title": {
+            "en": "Overview of the Faculty of Pharmacy ​",
+            "ar": " نظرة عامة على كلية الصيدلة "
+        },
+        "para1": {
+            "en": "The Faculty of Pharmacy at Menoufia National University was established as part of the university's efforts to provide high-quality education in the field of health sciences. The faculty aims to meet the local and regional market needs for specialized pharmacists. Additionally, the faculty is equipped with modern laboratories and advanced educational facilities, which enhance the learning process and assist students in applying the knowledge and skills they acquire.",
+            "ar": " تأسست كلية الصيدلة بجامعة المنوفية الأهلية ضمن جهود الجامعة لتقديم تعليم عالي الجودة في مجالات العلوم الصحية. تهدف الكلية إلى تلبية احتياجات السوق المحلي والإقليمي من الصيادلة المتخصصين. كما تم تزويد الكلية بمختبرات حديثة ومرافق تعليمية متطورة، مما يعزز العملية التعليمية ويساعد الطلاب على تطبيق ما اكتسبوه من معارف ومهارات.  "
+        },
+        "para2": {
+            "en": "",
+            "ar": "  "
+        },
+        "programTitle": {
+            "en": "Overview of the Pharm D Clinical Pharmacy Program",
+            "ar": " نبذة عن برنامج الفارم دي صيدلة إكلينيكية"
+        },
+        "programPara": {
+            "en": "The Clinical Pharmacy program at Menoufia National University began in the academic year 2023 - 2024 Graduates of the program are awarded a Bachelor of Pharmacy (Pharm D) degree in Clinical Pharmacy under a credit hour system, which is the primary university degree required for obtaining a license to practice in all available pharmaceutical fields. This degree also qualifies graduates for enrollment in master's and doctoral programs in any scientific specialization within the faculty. The duration of the program is five academic years (five levels over ten semesters) according to the credit hour system, followed by one year of advanced training (internship) in work sites (5+1). Additionally, students are required to complete 100 hours of practical field training in community and government pharmacies, as well as hospital pharmacies, during the summer vacations after the third level and before starting the internship year. Each academic level is divided into two main semesters (fall and spring), with each semester lasting fifteen weeks. The Medical Sector Council may offer some courses during an eight-week summer semester of intensive study, including examinations.",
+            "ar": " بدأت الدراسة في برنامج الصيدلة الإكلينيكية بجامعة المنوفية الأهلية في العام الدراسي 2023-2024. يٌمنح خريج البرنامج درجة بكالوريوس الصيدلة (فارم دي - Pharm D) (صيدلة اكلينيكية) بنظام الساعات المعتمدة وهي الدرجة الجامعية الأولى في مجال الصيدلة اللازمة للحصول على ترخيص ممارسة المهنة في جميع المجالات الصيدلية المتاحة، كما تؤهل الخريج للتسجيل لدرجة الماجستير والدكتوراه في أي من التخصصات العلمية بالكلية. مدة الدراسة بالبرنامج خمس سنوات دراسية (خمس مستويات على عشر فصول دراسية) طبقا لنظام الساعات المعتمدة وسنة تدريب متقدم (امتياز) في مواقع العمل (5+1). بالإضافة إلى عدد 100 ساعة تدريب ميداني فعلية في الصيدليات الأهلية والحكومية وصيدليات المستشفيات تتم خلال الإجازات الصيفية لسنوات الدراسة بعد نهاية المستوى الثالث وقبل البدء في سنة الامتياز ينقسم كل مستوى (عام) دراسي إلى فصلين دراسيين رئيسيين (الخريف والربيع) ومدة كل فصل دراسي خمسة عشر أسبوعا. ويجوز لمجلس القطاع الطبي طرح بعض المقررات في فصل دراسي صيفي مدته ثمانية أسابيع من الدراسة المكثفة شاملة الامتحانات."
+        },
+        "visionPara": {
+            "en": "To achieve scientific excellence and continuous development to serve the therapeutic healthcare system and attain a prestigious global status in the field of clinical pharmacy. ",
+            "ar": "التميز العلمي والتطوير المستمر لخدمة المنظومة الصحية العلاجية والوصول لمكانة مرموقة عالميا في مجال الصيدلة الإكلينيكية."
+        },
+        "missionPara": {
+            "en": "To excel in offering a program that prepares qualified pharmacists with the latest pharmaceutical and medical concepts, enabling them to contribute to enhancing the efficiency of the therapeutic system at both local and regional levels in the field of clinical pharmacy. This includes collaborating with the healthcare team in hospitals and providing pharmacy services at a professional skill level in both public and private pharmacies, pharmaceutical companies, drug control laboratories, and food analysis. Additionally, it encompasses working in pharmaceutical marketing and communication, as well as actively participating in scientific research through research centers and universities to conduct advanced scientific studies that contribute to the development of the pharmaceutical industry to meet community needs.",
+            "ar": "التميز في إعداد صيادلة مؤهلين بأحدث المفاهيم الصيدلية والطبية حتى يمكنهم المساهـمة في رفع كفاءة المنظومة العلاجية على المستوى المحلي والإقليمي في مجال الصيدلة الإكلينيكية من خلال التعامل مع الفريق الصحي في المستشفيات وتقديم الخدمات الصيدلية بمستوى مهاري محترف بالصيدليات العامة والخاصة وشركات الأدوية ومعامل الرقابة الدوائية وتحليل الأغذية بالإضافة إلى العمل في مجال الإعلام والتسويق الدوائي والمشاركة بفاعلية في البحث العلمي من خلال مراكز البحوث والجامعات لأجراء بحوث علمية متطورة تساهم في تطوير صناعة الدواء لخدمة و تلبية احتياجات المجتمع ."
+        }
+    },
+    "overviewImage": "/images/pharmacy/overview.jpg",
+    "facultyGoals": [
+        {
+            "id": "1",
+            "label": {
+                "en": "Program Objectives",
+                "ar": "أهداف البرنامج"
+            },
+            "title": {
+                "en": "",
+                "ar": ""
+            },
+            "content": [
+                {
+                    "en": "Focus on the pharmacist's role in providing appropriate healthcare to patients both inside and outside hospitals by monitoring their medication regimen and studying the principles of clinical pharmacokinetics and its applications in treating various medical conditions.",
+                    "ar": "التركيز على دور الصيدلي في تقديم الرعاية الصحية المناسبة للمريض بداخل المستشفيات وخارجها من خلال متابعة النظام الدوائي له ودراسة مبادئ حركية الدواء الإكلينيكية وتطبيقاتها في العلاج في الحالات المرضية المختلفة."
+                },
+                {
+                    "en": "Emphasize the pharmacist's role in developing suitable therapeutic regimens in collaboration with the treating physician, resulting in improved patient care and reduced risks and drug interactions.",
+                    "ar": "التركيز على دور الصيدلي في إيجاد الأنظمة العلاجية المناسبة وذلك بالتعاون مع الطبيب المعالج مما ينتج عنه تحسين الرعاية الصحية للمرضى وتقليل مخاطر وتفاعلات الأدوية."
+                },
+                {
+                    "en": "Graduate a distinguished pharmacist qualified to work in public and private pharmacies, pharmaceutical companies, drug control laboratories, food analysis, as well as in media, marketing, clinical applications, research, and academia.",
+                    "ar": "تخريج صيدلي متميز مؤهل للعمل بالصيدليات العامة والخاصة وشركات الأدوية ومعامل الرقابة الدوائية وتحليل الأغذية والعمل في مجال الاعلام والتسويق، والتطبيقات الإكلينيكية، والبحوث، والجامعات."
+                },
+                {
+                    "en": "Enhance the competitiveness of program graduates at the regional level through academic and training programs.",
+                    "ar": "زيادة القدرة التنافسية لخريجي البرنامج على المستوى الإقليمي من خلال البرامج الدراسية والتدريبية."
+                },
+                {
+                    "en": "Activate student exchange during the academic and training program at both local and regional levels for program students.",
+                    "ar": "تفعيل التبادل الطلابي خلال البرنامج الدراسي والتدريبي على المستوى المحلي والإقليمي لطلاب البرنامج."
+                },
+                {
+                    "en": "Participate in community service and environmental development, providing a tangible economic return through the rational use of medications in hospitals, as well as increasing health awareness and reducing medication literacy issues in the community.",
+                    "ar": "المشاركة في خدمة المجتمع وتنمية البيئة وتوفير عائد اقتصادي ملموس من خلال ترشيد استخدام الأدوية في المستشفيات وكذلك زيادة الوعي الصحي ومحو الامية الدوائية للمجتمع."
+                },
+                {
+                    "en": "Commit to achieving quality standards in pharmaceutical education through interactive learning and a focus on self-directed study.",
+                    "ar": "الإلتزام بتحقيق معايير الجودة في التعليم الصيدلي من خلال التعليم التفاعلي والإهتمام بالتعلم الذاتي."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "label": {
+                "en": "Career Path and Job Opportunities",
+                "ar": "المسار الوظيفي وفرص العمل"
+            },
+            "title": {
+                "en": "",
+                "ar": ""
+            },
+            "content": [
+                {
+                    "en": "Graduates of this program can work in the field of clinical pharmacy as well as in other pharmaceutical areas.",
+                    "ar": "يمكن لخريجي هذا البرنامج العمل في مجال الصيدلة الإكلينيكية وأي من المجالات الصيدلية الأخرى."
+                },
+                {
+                    "en": "They can specialize in the field they choose during the internship and their graduation project, allowing them to become specialized pharmacists in various clinical disciplines.",
+                    "ar": "يمكنهم العمل في مجال التخصص الذي اختاره خلال فترة الإمتياز ومشروع التخرج ليصبح بعدها صيدلي متخصص في أحد التخصصات المهنية (التخصصات الإكلينيكية المختلفة)."
+                },
+                {
+                    "en": "Additionally, they can pursue various pharmaceutical practice areas, including work in community or government pharmacies.",
+                    "ar": "بالإضافة إلى أي من مجالات الممارسة الصيدلية المختلفة بما في ذلك العمل في الصيدليات الأهلية أو الحكومية."
+                },
+                {
+                    "en": "Graduates are also qualified for academic careers (teaching and scientific research) and are prepared for further academic pursuits (master's and doctoral degrees).",
+                    "ar": "يمكنهم العمل في المجال الأكاديمي (تدريس وبحث علمي) وتؤهله للمسار الأكاديمي (ماجستير ودكتوراه)."
+                }
+            ]
+        }
+    ],
+    "goalsImage": "/images/pharmacy/pharmacygoal.jpg",
+    "facultyGallery": [
+        "/images/f1.jpg",
+        "/images/f2.jpg",
+        "/images/f3.jpg",
+        "/images/f4.jpg",
+        "/images/f5.jpg"
+    ],
+    "facultyDoctors": [
+        {
+            "name": "Samanta Smith",
+            "role": {
+                "en": "Head manager",
+                "ar": "المدير الرئيسي"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Lucy Albea",
+            "role": {
+                "en": "Investor",
+                "ar": "مستثمر"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        }
+    ],
+    "facultyLevels": [
+        {
+            "id": "1",
+            "name": {
+                "en": "Level 1",
+                "ar": "المستوى 1"
+            },
+            "semesters": [
+                {
+                    "id": "1-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": {
+                "en": "Level 2",
+                "ar": "المستوى 2"
+            },
+            "semesters": [
+                {
+                    "id": "2-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": {
+                "en": "Level 3",
+                "ar": "المستوى 3"
+            },
+            "semesters": [
+                {
+                    "id": "3-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "3-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": {
+                "en": "Level 4",
+                "ar": "المستوى 4"
+            },
+            "semesters": [
+                {
+                    "id": "4-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "4-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": {
+                "en": "Level 5",
+                "ar": "المستوى 5"
+            },
+            "semesters": [
+                {
+                    "id": "5-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+  "en": [
+    {
+      "icon": "book-open",
+      "number": 500,
+      "label": "Programs Number"
+    },
+    {
+      "icon": "user-graduate",
+      "number": 1900,
+      "label": "Students Number"
+    },
+    {
+      "icon": "building-columns",
+      "number": 750,
+      "label": "Faculties Number"
+    },
+    {
+      "icon": "chalkboard-user",
+      "number": 30,
+      "label": "Doctors Number"
+    }
+  ],
+  "ar": [
+    {
+      "icon": "book-open",
+      "number": 500,
+      "label": "عدد البرامج"
+    },
+    {
+      "icon": "user-graduate",
+      "number": 1900,
+      "label": "اجمالي الطلاب"
+    },
+    {
+      "icon": "building-columns",
+      "number": 750,
+      "label": "عدد الكليات"
+    },
+    {
+      "icon": "chalkboard-user",
+      "number": 30,
+      "label": "اجمالي الدكاترة"
+    }
+  ]
+}

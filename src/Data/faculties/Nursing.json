@@ -1,0 +1,371 @@
+{
+    "header": {
+        "links": [
+            {
+                "to": "/",
+                "label": {
+                    "en": "home",
+                    "ar": "الرئيسية"
+                }
+            },
+            {
+                "to": "/",
+                "label": {
+                    "en": "Faculty of Nursing  ",
+                    "ar": "كلية التمريض  "
+                }
+            }
+        ],
+        "img": "/images/nursing/banner2.jpg"
+    },
+    "overview": {
+        "title": {
+            "en": "Overview of the Faculty of Nursing",
+            "ar": "نظرة عامة على كلية التمريض"
+        },
+        "para1": {
+            "en": "The College of Nursing is one of the colleges of Menoufia National University, established by Presidential Decree No. 423 of 2022. Its mission is to contribute to the university's objectives and keep pace with advancements in health sciences and medical technologies, specializing in the teaching of nursing and specialized nursing.",
+            "ar": " كلية التمريض هى إحدى كليات جامعة المنوفية الأهلية والتى تأسست بقرار رئيس الجمهورية رقم 423 لسنة 2022 لتشارك في تأدية رسالة الجامعة ومواكبة التطور فى العلوم الصحية والتقنيات الطبية حيث تختص بتدريس علوم التمريض والتمريض التخصصي."
+        },
+        "para2": {
+            "en": "",
+            "ar": "  "
+        },
+        "programTitle": {
+            "en": "Overview of the Bachelor of nursing : ",
+            "ar": "نبذة عن برنامج بكالوريوس التمريض :"
+        },
+        "programPara": {
+            "en": "Bachelor of nursing sciences program was developed to provide scientific knowledge and expertise in nursing sciences and nursing specialties. This program helps for graduating qualified nurses who can meet nursing care for individual, family and community through theoretical and clinical study. The program grants a bachelor degree in specialized nursing based on credit hours on one of the tracks (midwifery- emergency and neonatal nursing). The program is composed of four levels. Each level contains two semesters along with one year for internship.",
+            "ar": "  لقد تم تطوير برنامج بكالوريوس التمريض لكي يقدم المعارف والخبرات العلمية في مجال علوم التمريض والتمريض التخصصي. هذا البرنامج يساعد على تخريج ممرضين مؤهلين قادرين على تلبية احتياجات الرعاية التمريضية للفرد والأسرة والمجتمع من خلال الدراسة النظرية والعملية. يمنح البرنامج درجة البكالوريوس في التمريض التخصصي بنظام الساعات المعتمدة ويشمل أحد المسارات (القبالة- الطوارئ وتمريض حديثي الولادة). يتكون البرنامج من أربع مستويات كل مستوي يحتوي فصلين دراسين بالإضافة الى سنة الامتياز التدريبية."
+        },
+        "visionPara": {
+            "en": "Achieving excellence in specialized nursing education to keep pace with advances of modern sciences and meet the needs of society and the requirements of local, regional, and international market.",
+            "ar": "تحقيق التميز في التعليم التمريضي المتخصص لكي يواكب التقدم في العلوم الحديثة وتحقيق احتياجات المجتمع ومتطلبات سوق العمل المحلية والإقليمية والدولية."
+        },
+        "missionPara": {
+            "en": "The program aims at graduating a qualified nurse with general and specialized nursing competencies that help in providing a comprehensive and specialized nursing care that meets the needs of society through scientific research and practice based on evidence.",
+            "ar": "يهدف البرنامج الي تخريج ممرض يتمتع بالجدارات التمريضية العامة والتخصصية التي تساعده على تقديم رعاية تمريضية شاملة وتخصصية تلبي احتياجات المجتمع من خلال البحث العلمي والممارسة القائمة على دلائل الأبحاث."
+        }
+    },
+    "overviewImage": "/images/nursing/overview.jpg",
+    "facultyGoals": [
+        {
+            "id": "1",
+            "label": {
+                "en": "Program Objectives",
+                "ar": "أهداف البرنامج"
+            },
+            "title": {
+                "en": "",
+                "ar": ""
+            },
+            "content": [
+                {
+                    "en": "Preparing scientific competencies and qualified nursing staff.",
+                    "ar": "إعداد الكفاءات العلمية والكوادر المؤهلة لتقديم الرعاية التمريضية المبنية على الكفاءات العامة والمتخصصة."
+                },
+                {
+                    "en": "Enhancing students' abilities in effective professional communication and communication with colleagues, patients, the community, and members of the health team.",
+                    "ar": "تعزيز قدرات الطلاب على الإتصال والتواصل المهني الفعال مع الزملاء والمرضى والمجتمع وأعضاء الفريق الصحي."
+                },
+                {
+                    "en": "Raise health awareness by enhancing students' leadership role in society and their participation in improving the quality of health care and keeping abreast of professional developments.",
+                    "ar": "رفع الوعي الصحي في المجتمع من خلال تعزيز دور الطلاب القيادي ومشاركتهم في تحسين نوعية الرعاية الصحية."
+                },
+                {
+                    "en": "Providing students with the necessary information, skills and attitudes, and solving problems related to their future work.",
+                    "ar": "تأهيل الطلاب بالمعلومات والمهارات والاتجاهات التمريضية الأساسية لتأدية دورهم وحل المشكلات المرتبطة بعملهم المستقبلي."
+                },
+                {
+                    "en": "Providing students with specialized knowledge and skills to evaluate and solve patient problems to enhance healthcare quality.",
+                    "ar": "إكساب الطلاب المعلومات والمهارات التخصصية التي تساعدهم لتقييم وحل مشاكل المريض لتعزيز جودة الرعاية الصحية."
+                },
+                {
+                    "en": "Preparing nurses who possess the required professional morals and ethics, believe in the values of work perfection and honesty, and can adapt and work in a team spirit.",
+                    "ar": "إعداد ممرضين يتحلون بآداب وأخلاقيات المهنة المطلوبة، ويؤمنون بقيم إتقان العمل والأمانة في تنفيذه، وقادرون على التأقلم والعمل بروح الفريق الواحد."
+                },
+                {
+                    "en": "Preparing competencies capable of dealing with information technology and the modern techniques used.",
+                    "ar": "إعداد كفاءات قادرة على التعامل مع تكنولوجيا المعلومات والتقنيات الحديثة المستخدمة."
+                },
+                {
+                    "en": "Preparing advanced curricula compatible with international curricula.",
+                    "ar": "إعداد مناهج متطورة متوافقة مع المناهج الدولية."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "label": {
+                "en": "Career Path and Job Opportunities",
+                "ar": "المسار الوظيفي وفرص العمل"
+            },
+            "title": {
+                "en": "",
+                "ar": ""
+            },
+            "content": [
+                {
+                    "en": "Working in treatment and health rehabilitation in various public and private hospitals.",
+                    "ar": "العمل في قطاعات العلاج والتأهيل الصحي في المستشفيات العامة والخاصة المختلفة."
+                },
+                {
+                    "en": "Working in health prevention sector in health centers of health awareness.",
+                    "ar": "العمل في قطاع الوقاية الصحية في المراكز الخاصة بنشر الوعي الصحي."
+                },
+                {
+                    "en": "Working in maternal and childcare centers and family planning centers.",
+                    "ar": "العمل في مراكز رعاية الأم والطفل ومراكز تنظيم الأسرة."
+                },
+                {
+                    "en": "Pursuing post graduate studies in universities.",
+                    "ar": "العمل في قطاع هيئة التدريس في الجامعات من خلال الحصول على الدراسات العليا."
+                },
+                {
+                    "en": "Working in specialized medical centers.",
+                    "ar": "العمل في المراكز الطبية المتخصصة."
+                }
+            ]
+        }
+    ],
+    "goalsImage": "/images/nursing/nursinggoal.jpg",
+    "facultyGallery": [
+        "/images/f1.jpg",
+        "/images/f2.jpg",
+        "/images/f3.jpg",
+        "/images/f4.jpg",
+        "/images/f5.jpg"
+    ],
+    "facultyDoctors": [
+        {
+            "name": "Samanta Smith",
+            "role": {
+                "en": "Head manager",
+                "ar": "المدير الرئيسي"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Lucy Albea",
+            "role": {
+                "en": "Investor",
+                "ar": "مستثمر"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        }
+    ],
+    "facultyLevels": [
+        {
+            "id": "1",
+            "name": {
+                "en": "Level 1",
+                "ar": "المستوى 1"
+            },
+            "semesters": [
+                {
+                    "id": "1-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": {
+                "en": "Level 2",
+                "ar": "المستوى 2"
+            },
+            "semesters": [
+                {
+                    "id": "2-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": {
+                "en": "Level 3",
+                "ar": "المستوى 3"
+            },
+            "semesters": [
+                {
+                    "id": "3-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "3-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": {
+                "en": "Level 4",
+                "ar": "المستوى 4"
+            },
+            "semesters": [
+                {
+                    "id": "4-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "4-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": {
+                "en": "Level 5",
+                "ar": "المستوى 5"
+            },
+            "semesters": [
+                {
+                    "id": "5-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

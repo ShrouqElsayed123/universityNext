@@ -1,0 +1,27 @@
+{
+    "title": {
+        "en": "About Us",
+        "ar": "من نحن"
+    },
+    "para1": {
+        "en": "Menoufia Community University is located on an area of 18 acres, and its construction and equipment cost about 3 He pointed out that the university includes a main building with Main offices, banquet and conference rooms, a theater, a university council hall, and all the halls equipped with the latest technical and audio technologies, in addition to a number of facilities equipped with state-of-the-art equipment. They include (Medical Sciences Building, Engineering Sciences Building, Humanities Building, Laboratories Building), as well as A recreational area and cafeteria.",
+        "ar": "جامعة المنوفية الأهلية تقع على مساحة 18 فدانًا، وتصل تكلفة إنشاءاتها وتجهيزاتها إلى قرابة 3 مليارات جنيه، ومُصممة على أحدث مستوى معماري، مشيرًا إلى أن الجامعة تضم مبنى رئيسي به المكاتب الرئيسية، وقاعات للاحتفالات والمؤتمرات، ومسرح، وقاعة مجلس الجامعة، وجميع القاعات مُجهزة بأحدث التقنيات الفنية والصوتية، بالإضافة إلى عدد من المنشآت مجهزة بأحدث الأجهزة، وتشمل (مبنى العلوم الطبية، مبنى العلوم الهندسية، مبنى العلوم الإنسانية، مبنى المعامل)، فضلاً عن منطقة ترفيهية وكافتيريا."
+    },
+    "para2": {
+        "en": "The university includes (10) colleges, namely (Medicine and Surgery - Dentistry - Physical Therapy - Pharmacy - Health Sciences Technology - Nursing - Engineering - Computer and Artificial Intelligence - Veterinary Medicine - Humanities and Social Sciences -) with a capacity of approximately 9500 students.",
+        "ar": " الجامعة تضم (10) كليات هي (الطب والجراحة - طب وجراحة الأسنان - العلاج الطبيعي –الصيدلة –تكنولوجيا العلوم الصحية – التمريض – الهندسة –الحاسوب والذكاء الاصطناعي – الطب البيطري – العلوم الإنسانيةوالاجتماعية –) بقدرة استيعابية للجامعة تصل إلى 9500 طالب تقريبًا. "
+    },
+    "message": {
+        "en": "A smart university with an advanced global ranking.",
+        "ar": "جامعة ذكية ذات ترتيب عالمي متقدم ."
+    },
+    "vision": {
+        "en": "Preparing qualified and trained human cadres.  ",
+        "ar": "اعداد كوادر بشرية مؤهلة ومدربة ."
+    },
+    "images": [
+        "/about1.jfif",
+        "/about2.jfif",
+        "/about3.jfif"
+    ]
+}

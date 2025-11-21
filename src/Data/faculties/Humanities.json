@@ -1,0 +1,483 @@
+{
+    "header": {
+        "links": [
+            {
+                "to": "/",
+                "label": {
+                    "en": "home",
+                    "ar": "الرئيسية"
+                }
+            },
+            {
+                "to": "/",
+                "label": {
+                    "en": "كلية العلوم الإنسانية والاجتماعية  ",
+                    "ar": "Faculty of Humanities and Social Sciences "
+                }
+            }
+        ],
+        "img": "/images/humanities/bannre.jpg"
+    },
+    "overview": {
+        "title": {
+            "en": "Overview of The Faculty of Humanities : ",
+            "ar": "نظرة عامة على كلية العلوم الإنسانية : "
+        },
+        "para1": {
+            "en": "The Faculty of Humanities, Menoufia National University, was established based on Presidential Decree No. 423 of 2022, for supporting human thought and becoming one of the cultural beacons in Menoufia Governorate and the Middle Delta Region.",
+            "ar": " أنشئت كلية العلوم الإنسانية- جامعة المنوفية الأهلية بناء على قرار رئيس الجمهورية رقم 423 لسنة 2022م، وذلك لدعم الفكر الإنساني؛ لتصبح إحدى المنارات الثقافية في محافظة المنوفية بإقليم وسط الدلتا."
+        },
+        "para2": {
+            "en": "",
+            "ar": "  "
+        },
+        "programTitle": {
+            "en": "Overview of the English Language and Specialized Translation Program : ",
+            "ar": "نبذة عن برنامج اللغة الإنجليزية والترجمة التخصصية :"
+        },
+        "programPara": {
+            "en": "The program commenced its studies in the academic year 2023/2024. The curriculum includes various approaches to address the multiple aspects of literary, linguistic, translation studies, and language skills in speaking, listening, writing, and reading. The program aims to graduate qualified individuals who can engage with other cultures, keep pace with contemporary intellectual currents, proficiently handle contemporary literary criticism, and communicate and translate to and from English, while being aware of and understanding societal cultural diversity.",
+            "ar": " انتظمت الدراسة بالبرنامج في العام الجامعي 2023/2024م. المقررات الدراسية للبرنامج تشمل عدة اتجاهات للتعامل مع الجوانب المتعددة للدراسات الأدبية واللغوية والترجمة والمهارات اللغوية تحدثا واستماعا وكتابة وقراءة. وذلك لتخريج كوادر مؤهلة للتعامل مع الثقافات الأخرى, قادرة على مواكبة تيارات الفكر الحديث, متمكنة من تداول النقد الأدبي المعاصر, متحدثة ومترجمة من والى اللغة الانجليزية, واعية ومدركة للتنوع الثقافي المجتمعي."
+        },
+        "visionPara": {
+            "en": " The Program of English Language and Specialized Translation, Faculty of Humanities, Menoufia National University aspires to have a distinguished and prestigious position among the qualitative programs in Egyptian universities, and to provide a distinguished environment for effective teaching, learning and scientific research, in order to prepare specialized and qualified alumni to meet the needs of the labor market in order to qualify today's generation for future requirements.",
+            "ar": "أن يكون لبرنامج اللغة الإنجليزية والترجمة التخصصية بكلية العلوم الإنسانية، جامعة المنوفية الأهلية مكانة متميزة ومرموقة بين البرامج النوعية بالجامعات المصرية، وأن يوفر بيئة متميزة للتعليم والتعلم الفعال والبحث العلمي، وذلك لإعداد كوادر متخصصة ومؤهلة لتلبية احتياجات سوق العمل؛ من أجل تأهيل جيل اليوم لمتطلبات الغد."
+        },
+        "missionPara": {
+            "en": "The Program of English Language and Specialized Translation, Faculty of Humanities, Menoufia National University seeks to accomplish excellence in the field of English language and specialized translation to prepare alumni capable of meeting the needs of the local and international labor market and scientific research and achieving effective contribution to serving the community and communicating with other cultures in line with the challenges and requirements of the era..",
+            "ar": "يسعى برنامج اللغة الإنجليزية والترجمة التخصصية بكلية العلوم الإنسانية، جامعة المنوفية الأهلية إلى تحقيق التميز في مجال اللغة الإنجليزية والترجمة التخصصية؛ لإعداد خريج قادر على تلبية احتياجات سوق العمل محليًا ودوليًا والبحث العلمي، وتحقيق الإسهام الفعال في خدمة المجتمع، والتواصل مع الثقافات الأخرى، بما يتماشى مع تحديات ومتطلبات العصر."
+        }
+    },
+    "overviewImage": "/images/medicine/overview.jpg",
+    "facultyGoals": [
+        {
+            "id": "1",
+            "label": {
+                "en": "Program Objectives",
+                "ar": "أهداف البرنامج"
+            },
+            "title": {
+                "en": "",
+                "ar": ""
+            },
+            "content": [
+                {
+                    "en": "Preparing alumni qualified to meet the requirements and needs of the labor market in the fields of English language and specialized translation.",
+                    "ar": "إعداد خريج مؤهل لمتطلبات واحتياجات سوق العمل في مجالات اللغة الإنجليزية والترجمة التخصصية."
+                },
+                {
+                    "en": "Keeping pace with modern developments in preparing effective professional alumni capable of scientific production and intellectual and cultural communication.",
+                    "ar": "مسايرة التطورات الحديثة في إعداد كوادر مهنية فعالة قادرة على الإنتاج العلمي والتواصل الفكري والثقافي."
+                },
+                {
+                    "en": "Interacting with modern technologies and approved data sources to deal with various communication media in English and Arabic.",
+                    "ar": "التفاعل مع التقنيات الحديثة ومصادر البيانات المعتمدة؛ للتعامل مع وسائط الاتصال المتنوعة باللغتين الإنجليزية والعربية."
+                },
+                {
+                    "en": "Raising alumni’ linguistic and professional efficiency so that they can communicate with people of other cultures.",
+                    "ar": "رفع كفاءة الخريج لغويًا ومهنيًا؛ حتى يتمكن من التواصل مع أبناء الثقافات الأخرى."
+                },
+                {
+                    "en": "Preparing alumni capable of specialized translation in its various intellectual, literary, qualitative, scientific and practical contexts.",
+                    "ar": "إعداد خريج قادر على الترجمة التخصصية بمختلف سياقاتها الفكرية والأدبية والنوعية والعلمية والعملية."
+                },
+                {
+                    "en": "Providing students with professional skills for written and oral translation from English into Arabic, and from Arabic into English.",
+                    "ar": "إكساب الطلاب المهارات المهنية للترجمة التحريرية والشفهية من الإنجليزية إلى العربية، ومن العربية إلى الإنجليزية."
+                },
+                {
+                    "en": "Providing students with the necessary language skills to raise their efficiency in the field of written translation from and into English.",
+                    "ar": "إكساب الطلاب المهارات اللغوية اللازمة لرفع كفاءاتهم في مجال الترجمة التحريرية من اللغة الإنجليزية وإليها."
+                },
+                {
+                    "en": "Developing the students’ skills in English and Arabic to refine their linguistic proficiency and translation skills from and into English.",
+                    "ar": "تنمية مهارات الطالب في اللغتين الإنجليزية والعربية، بما يصقل ملكته اللغوية ومهاراته في الترجمة من وإلى اللغة الإنجليزية."
+                },
+                {
+                    "en": "Acquiring a second foreign language in addition to English.",
+                    "ar": "إكساب الطلاب لغة أجنبية ثانية إلى جانب اللغة الإنجليزية."
+                },
+                {
+                    "en": "Providing students with the skill of translation from English to a second foreign language and vice versa.",
+                    "ar": "إكساب الطلاب مهارة الترجمة من اللغة الإنجليزية إلى اللغة الأجنبية الثانية، ومنها إلى اللغة الإنجليزية."
+                },
+                {
+                    "en": "Familiarity with professional problems in written and oral translation in the fields of English and various translations.",
+                    "ar": "الإلمام بالمشكلات المهنية في الترجمة التحريرية والشفهية في مجالات اللغة الإنجليزية والترجمة المتنوعة."
+                },
+                {
+                    "en": "Familiarity with economic, legal, technical and scientific semesters in the language of specialization and in Arabic, and knowing the differences among them.",
+                    "ar": "الإلمام بالمصطلحات الاقتصادية والقانونية والتقنية والعلمية بلغة التخصص وباللغة العربية، ومعرفة الاختلافات بينها."
+                },
+                {
+                    "en": "Developing the students’ capabilities within the simultaneous translation lab to meet the needs of the labor market.",
+                    "ar": "تنمية قدرات الطلاب داخل معمل الترجمة الفورية لإعداد خريج يفي باحتياجات سوق العمل."
+                },
+                {
+                    "en": "Developing the students’ creative abilities to prepare a graduate capable of conducting research in the field of English and translation.",
+                    "ar": "تطوير قدرات الطلاب الإبداعية لإعداد خريج قادر على إجراء بحوث في مجال اللغة الإنجليزية والترجمة فيما بعد."
+                },
+                {
+                    "en": "Using technological means and media in translation to qualify alumni for the labor market in the fields of specialized written translation.",
+                    "ar": "استخدام الوسائل التكنولوجية والوسائط في الترجمة؛ وذلك لتأهيل الخريج لسوق العمل في مجالات الترجمة التحريرية التخصصية."
+                },
+                {
+                    "en": "Introducing students to international organizations, their importance, and the role they play globally.",
+                    "ar": "تعريف الطلاب بالمنظمات الدولية وأهميتها، والدور الذي تضطلع به عالميا."
+                },
+                {
+                    "en": "Introducing the approaches to interdisciplinary studies in various fields of specialization.",
+                    "ar": "التعريف بمداخل الدراسات البينية في مجالات التخصص المختلفة."
+                },
+                {
+                    "en": "Refining the skill of understanding texts with different contexts, training students in specialized translation fields, and preparing them for the labor market.",
+                    "ar": "تعزيز مهارة فهم النصوص مختلفة السياق، وتدريب الطلاب على مجالات الترجمة المتخصصة، وإعدادهم لسوق العمل."
+                },
+                {
+                    "en": "Introducing students to the theoretical and practical foundations of dictionaries used in translation fields and how to formulate and generate specialized terminology in Arabic and English.",
+                    "ar": "تعريف الطلاب بالأسس النظرية والعملية للمعاجم التي تستخدم في مجالات الترجمة، وكيفية صياغة المصطلح التخصصي وتوليده في اللغتين العربية والإنجليزية."
+                },
+                {
+                    "en": "Developing the ability to critically analyze and translate.",
+                    "ar": "تنمية القدرة على التحليل النقدي والنقد الترجمي."
+                },
+                {
+                    "en": "Developing the ability to lead a team in the field of English language and written translation through different presentation methods.",
+                    "ar": "تنمية القدرة على قيادة فريق العمل في مجال اللغة الإنجليزية والترجمة التحريرية؛ من خلال طرق العرض المختلفة."
+                },
+                {
+                    "en": "Introducing the culture of others in a way that contributes to the development of society.",
+                    "ar": "التعريف بثقافة الآخر، بما يسهم في تنمية المجتمع."
+                },
+                {
+                    "en": "Linking acquired knowledge and skills to community service.",
+                    "ar": "ربط المعارف والمهارات المكتسبة بخدمة المجتمع."
+                },
+                {
+                    "en": "Employing knowledge and positive moral values to serve humanity.",
+                    "ar": "توظيف المعارف والقيم الأخلاقية الإيجابية لخدمة الإنسانية."
+                },
+                {
+                    "en": "Effectively contributing to various civilizational projects that serve the purposes of sustainable development.",
+                    "ar": "الإسهام الفعال في المشروعات الحضارية المختلفة، بما يخدم أغراض التنمية المستدامة."
+                },
+                {
+                    "en": "Preserving national identity while respecting other opinions.",
+                    "ar": "الحفاظ على الهوية القومية مع احترام الرأي الآخر."
+                },
+                {
+                    "en": "Commitment to professional ethics, transparency and integrity in translation.",
+                    "ar": "الالتزام بأخلاقيات المهنة والشفافية والنزاهة في الترجمة."
+                },
+                {
+                    "en": "Meeting the needs of the labor market and society for the distinguished scientific services of the program.",
+                    "ar": "تلبية احتياجات سوق العمل والمجتمع من الخدمات العلمية المميزة للبرنامج."
+                },
+                {
+                    "en": "Directing scientific and research work to solve societal problems.",
+                    "ar": "توجيه العمل العلمي والبحثي لحل المشكلات المجتمعية."
+                },
+                {
+                    "en": "Creating partnerships with English language centers, and translation locally, regionally and internationally.",
+                    "ar": "خلق شراكات مع مراكز اللغة الإنجليزية، والترجمة محليا وإقليميا ودوليا."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "label": {
+                "en": "Career Path and Job Opportunities",
+                "ar": "المسار الوظيفي وفرص العمل"
+            },
+            "title": {
+                "en": " Sectors related to the program:",
+                "ar": " العمل في قطاعات المجتمع ذات الصلة بالبرنامج:"
+            },
+            "content": [
+                {
+                    "en": "Tourism and antiquities",
+                    "ar": "قطاع السياحة والآثار"
+                },
+                {
+                    "en": "Cultural centers",
+                    "ar": "دور الثقافة"
+                },
+                {
+                    "en": "Translation centers",
+                    "ar": "مراكز الترجمة"
+                },
+                {
+                    "en": "International and language schools",
+                    "ar": "المدارس الدولية واللغات"
+                },
+                {
+                    "en": "Directorate affairs",
+                    "ar": "شئون المديريات"
+                },
+                {
+                    "en": "Government and private universities",
+                    "ar": "الجامعات الحكومية والخاصة"
+                },
+                {
+                    "en": "Language institutes and training centers",
+                    "ar": "معاهد اللغات ومراكز التدريب"
+                },
+                {
+                    "en": "International organizations, companies and bodies",
+                    "ar": "المنظمات والشركات والهيئات الدولية"
+                },
+                {
+                    "en": "News agencies",
+                    "ar": "وكالات الأنباء"
+                },
+                {
+                    "en": "Television, radio and cinema sectors",
+                    "ar": "قطاع التليفزيون والإذاعة والسينما"
+                },
+                {
+                    "en": "Communication companies and customer service fields",
+                    "ar": "شركات الاتصال ومجال خدمة العملاء"
+                }
+            ]
+        }
+    ],
+    "goalsImage": "/images/humanities/humanitiesgoal.png",
+    "facultyGallery": [
+        "/images/f1.jpg",
+        "/images/f2.jpg",
+        "/images/f3.jpg",
+        "/images/f4.jpg",
+        "/images/f5.jpg"
+    ],
+    "facultyDoctors": [
+        {
+            "name": "Samanta Smith",
+            "role": {
+                "en": "Head manager",
+                "ar": "المدير الرئيسي"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Lucy Albea",
+            "role": {
+                "en": "Investor",
+                "ar": "مستثمر"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        }
+    ],
+    "facultyLevels": [
+        {
+            "id": "1",
+            "name": {
+                "en": "Level 1",
+                "ar": "المستوى 1"
+            },
+            "semesters": [
+                {
+                    "id": "1-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": {
+                "en": "Level 2",
+                "ar": "المستوى 2"
+            },
+            "semesters": [
+                {
+                    "id": "2-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": {
+                "en": "Level 3",
+                "ar": "المستوى 3"
+            },
+            "semesters": [
+                {
+                    "id": "3-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "3-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": {
+                "en": "Level 4",
+                "ar": "المستوى 4"
+            },
+            "semesters": [
+                {
+                    "id": "4-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "4-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": {
+                "en": "Level 5",
+                "ar": "المستوى 5"
+            },
+            "semesters": [
+                {
+                    "id": "5-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

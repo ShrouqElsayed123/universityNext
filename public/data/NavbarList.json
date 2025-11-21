@@ -19,21 +19,21 @@
                     "en": "About the university",
                     "ar": "عن الجامعة"
                 },
-                "path": "/about"
+                "path": "/AboutUniversity"
             },
             {
                 "title": {
                     "en": "Establishment of the university",
                     "ar": "تأسيس الجامعة"
                 },
-                "path": "/timeline"
+                "path": "/UniversityHistory"
             },
             {
                 "title": {
                     "en": "Vision and mission",
                     "ar": "الرؤية والرسالة"
                 },
-                "path": "/vision"
+                "path": "/Vision&Mission"
             }
         ]
     },

@@ -1,0 +1,375 @@
+{
+    "header": {
+        "links": [
+            {
+                "to": "/",
+                "label": {
+                    "en": "home",
+                    "ar": "الرئيسية"
+                }
+            },
+            {
+                "to": "/",
+                "label": {
+                    "en": "Faculty of Physical Therapy",
+                    "ar": "كلية العلاج الطبيعي  "
+                }
+            }
+        ],
+        "img": "/images/physicaltherapy/banner.jpg"
+    },
+    "overview": {
+        "title": {
+            "en": "Overview of the Faculty of Physical Therapy",
+            "ar": "نظرة عامة على كلية العلاج الطبيعي"
+        },
+        "para1": {
+            "en": "The Faculty of Physical Therapy at Menoufia national University was established as part of the university's efforts to provide high-quality education in the fields of health sciences. The college aims to meet the needs of the local and regional market for specialists in the field of physical therapy. The college is also equipped with advanced laboratories, therapeutic means and educational facilities, which enhance the educational process and helps students apply the knowledge and skills they have acquired.",
+            "ar": " تأسست كلية العلاج الطبيعي بجامعة المنوفية الأهلية ضمن جهود الجامعة لتقديم تعليم عالي الجودة في مجالات العلوم الصحية. تهدف الكلية إلى تلبية احتياجات السوق المحلي والإقليمي من المتخصصين في مجال العلاج الطبيعي . كما تم تزويد الكلية بمعامل ووسائل علاجية ومرافق تعليمية متطورة، مما يعزز العملية التعليمية ويساعد الطلاب على تطبيق ما اكتسبوه من معارف ومهارات."
+        },
+        "para2": {
+            "en": "",
+            "ar": "  "
+        },
+        "programTitle": {
+            "en": "Overview of Physical Therapy Program :",
+            "ar": "نبذة عن برنامج العلاج الطبيعى :"
+        },
+        "programPara": {
+            "en": " - Studying at the program began in the academic year 2023/2024. The academic system is the credit hours in which the academic year is divided into two main semesters (Fall and Spring) in addition to the summer semester. The language of study for specialized courses is English. The program consists of five levels over five years in which the student has completed the academic program for credit hours in addition to the internship year (12 months of clinical training), which is a mandatory training year in teaching hospitals under the supervision of the faculty and supervisors appointed by the medical sector council to supervise the training with the work of a graduation project and the submission of a complete project for the training period .",
+            "ar": " - بدأت الدراسة بالبرنامج فى العام الجامعى 2023/2024، نظام الدراسة هو الساعات المعتمدة ينقسم فيه العام الأكاديمى إلى فصلين دراسيين أساسيين (الخريف والربيع) بالإضافة إلى الفصل الدراسى الصيفى. لغة الدراسة للمقررات المتخصصة هي اللغة الإنجليزية . يتكون البرنامج من خمس مستويات على مدى خمس سنوات يكون فيها الطالب قد أكمل البرنامج الأكاديمي للساعات المعتمدة بالإضافة إلى سنة الإمتياز (12شهر تدريب إكلينيكي) وهي سنة تدريبية إجبارية بالمستشفيات التعليمية تحت إشراف أعضاء هيئة التدريس بالكلية والمشرفين الذين يعينهم مجلس القطاع الطبي للإشراف على التدريب مع عمل مشروع للتخرج وتقديم مشروع كامل عن فترة التدريب."
+        },
+        "visionPara": {
+            "en": "Preparing graduates in the field of physical therapy with high academic and professional competence through continuous learning and training so that the Faculty of Physical Therapy, Menoufia national University becomes a leader in the profession of physical therapy at all local, regional and international levels.",
+            "ar": "إعداد خريجين فى مجال العلاج الطبيعى لهم قدرة عالية من الكفاءة الأكاديمية والمهنية عن طريق التعلم والتدريب المستمر بحيث تصبح كلية العلاج الطبيعى جامعة المنوفية الأهلية لها الريادة فى مهنة العلاج الطبيعى على كافة المستويات المحلية والإقليمية والدولية"
+        },
+        "missionPara": {
+            "en": "Preparing graduates in the field of physical therapy who have a special academic level and distinguished professional performance within the framework of high and noble professional ethics through distinguished educational programs and creative scientific research to serve the community. Whereas the educational process at the university links teaching, scientific research and practical application with a group of human sciences to produce a creative and innovative mind.",
+            "ar": "إعداد خريجين في تخصص العلاج الطبيعي يتمتعون بمستوى علمي متميز وأداء مهني عالي، مع الالتزام بالأخلاقيات المهنية الرفيعة. يتم ذلك من خلال برامج تعليمية متفوقة وبحث علمي مبتكر يخدم المجتمع. حيث ترتبط العملية التعليمية في الجامعة بدمج التدريس والبحث العلمي والتطبيق العملي مع مجموعة من العلوم الإنسانية، مما يسهم في تخريج عقول مبدعة وخلاقة."
+        }
+    },
+    "overviewImage": "/images/physicaltherapy/overview.jpg",
+    "facultyGoals": [
+        {
+            "id": "1",
+            "label": {
+                "en": "Program Objectives",
+                "ar": "أهداف البرنامج"
+            },
+            "title": {
+                "en": "",
+                "ar": ""
+            },
+            "content": [
+                {
+                    "en": "Preparing a professional physical therapy graduate with a highly competitive ability, creative and capable of providing a distinguished health service.",
+                    "ar": "إعداد خريج علاج طبيعى محترف ذو قدرة تنافسية عالية، مبدع وقادر على تقديم خدمة صحية متميزة."
+                },
+                {
+                    "en": "Preparing a creative physical therapy graduate.",
+                    "ar": "تزويد خريج البرنامج بمهارات إبداعية."
+                },
+                {
+                    "en": "Providing a high-quality educational and research service that enables students to develop their personality and minds.",
+                    "ar": "تقديم خدمة تعليمية و بحثية عالية الجودة تُمكّن الطلاب من تنمية شخصيتهم وعقولهم."
+                },
+                {
+                    "en": "Enabling students to gain a comprehensive understanding of development issues and their practical paths.",
+                    "ar": "تمكين الطلاب من اكتساب فهم شامل لقضايا التنمية و دروبها العملية."
+                },
+                {
+                    "en": "Developing communication and cooperation between students and the community.",
+                    "ar": "تنمية الاتصال والتعاون بين الطلاب والمجتمع."
+                },
+                {
+                    "en": "Training students to develop individual skills and instill moral values that qualify them to meet the requirements of the labor market through initiative and innovation in business management in a way that achieves community development.",
+                    "ar": "تدريب الطلاب لتنمية المهارات الفردية و غرس القيم الأخلاقية التي تؤهلهم لمواجهة متطلبات سوق العمل من خلال المبادرة و الابتكار في ادارة الاعمال بما يحقق تنمية المجتمع."
+                },
+                {
+                    "en": "Enabling students to identify and achieve their own goals and activate their contribution to their community and the world in general.",
+                    "ar": "تمكين الطلاب من تحديد وتحقيق أهدافهم الشخصية وتعزيز مساهمتهم في مجتمعهم."
+                },
+                {
+                    "en": "Developing the creative and innovative aspects of the personality in a way that helps provide the best health service to patients.",
+                    "ar": "تنمية الجوانب الإبداعية في الشخصية بما يسهم في تقديم أفضل خدمة صحية للمرضى."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "label": {
+                "en": "Career Path and Job Opportunities",
+                "ar": "المسار الوظيفي وفرص العمل"
+            },
+            "title": {
+                "en": " The fields of work for graduates of the Faculty of Physical Therapy are many, including, but not limited to, the following:",
+                "ar": " تتعدد مجالات العمل لخريج كلية العلاج الطبيعي، فتشمل، على سبيل المثال وليس الحصر، الآتي:"
+            },
+            "content": [
+                {
+                    "en": "The right to license two physical therapy centers from the Ministry of Health and Population.",
+                    "ar": "الأحقية في ترخيص مركزين للعلاج الطبيعي من وزارة الصحة والسكان."
+                },
+                {
+                    "en": "Completing the assignment period in the hospitals of the Ministry of Health and Health Insurance.",
+                    "ar": "إتمام فترة التكليف بمستشفيات وزارة الصحة والتأمين الصحي."
+                },
+                {
+                    "en": "The medical staff of sports clubs.",
+                    "ar": "الجهاز الطبي للأندية الرياضية."
+                },
+                {
+                    "en": "Physiotherapy departments in private hospitals.",
+                    "ar": "أقسام العلاج الطبيعي بالمستشفيات الخاصة."
+                },
+                {
+                    "en": "Homes for the elderly and people with special needs.",
+                    "ar": "دور المسنين وذوي الاحتياجات الخاصة."
+                },
+                {
+                    "en": "Medical rehabilitation centers.",
+                    "ar": "مراكز التأهيل الطبي."
+                }
+            ]
+        }
+    ],
+    "goalsImage": "/images/physicaltherapy/physicaltherapygoal.jpg",
+    "facultyGallery": [
+        "/images/f1.jpg",
+        "/images/f2.jpg",
+        "/images/f3.jpg",
+        "/images/f4.jpg",
+        "/images/f5.jpg"
+    ],
+    "facultyDoctors": [
+        {
+            "name": "Samanta Smith",
+            "role": {
+                "en": "Head manager",
+                "ar": "المدير الرئيسي"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Lucy Albea",
+            "role": {
+                "en": "Investor",
+                "ar": "مستثمر"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        }
+    ],
+    "facultyLevels": [
+        {
+            "id": "1",
+            "name": {
+                "en": "Level 1",
+                "ar": "المستوى 1"
+            },
+            "semesters": [
+                {
+                    "id": "1-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": {
+                "en": "Level 2",
+                "ar": "المستوى 2"
+            },
+            "semesters": [
+                {
+                    "id": "2-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": {
+                "en": "Level 3",
+                "ar": "المستوى 3"
+            },
+            "semesters": [
+                {
+                    "id": "3-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "3-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": {
+                "en": "Level 4",
+                "ar": "المستوى 4"
+            },
+            "semesters": [
+                {
+                    "id": "4-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "4-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": {
+                "en": "Level 5",
+                "ar": "المستوى 5"
+            },
+            "semesters": [
+                {
+                    "id": "5-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

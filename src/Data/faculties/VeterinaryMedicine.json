@@ -1,0 +1,431 @@
+{
+    "header": {
+        "links": [
+            {
+                "to": "/",
+                "label": {
+                    "en": "home",
+                    "ar": "الرئيسية"
+                }
+            },
+            {
+                "to": "/",
+                "label": {
+                    "en": "Faculty of Veterinary Medicine ",
+                    "ar": " كلية الطب البيطرى "
+                }
+            }
+        ],
+        "img": "/images/veterinary/banner.jfif"
+    },
+    "overview": {
+        "title": {
+            "en": "Overview of the Faculty of Veterinary Medicine",
+            "ar": "نظرة عامة على كلية الطب البيطري"
+        },
+        "para1": {
+            "en": "The Faculty of Veterinary Medicine at Menoufia National University was established as one of the university's faculties by Presidential Decree No. 423 of 2022, and the academic year 2023-2024 marks the beginning of its studies.",
+            "ar": "  تم إنشاء كلية الطب البيطرى جامعة المنوفية الأهلية كإحدى كليات الجامعة بقرار رئيس الجمهورية رقم 423 لسنة 2022 وبدأت الدراسة بها بالعام الجامعي 2023-2024. "
+        },
+        "para2": {
+            "en": "The faculty aims to contribute to the university's mission, keep pace with advancements in veterinary medical sciences and technologies, and enhance the quality of veterinary services",
+            "ar": "لتشارك في تأدية رسالة الجامعة ومواكبة التطور فى العلوم والتقنيات الطبية البيطرية ورفع كفاءة الخدمات البيطرية"
+        },
+        "programTitle": {
+            "en": "Overview of the Program of Veterinary Medicine:",
+            "ar": "نبذة عن برنامج الطب البيطرى :"
+        },
+        "programPara": {
+            "en": "   Studying at the program began in the academic year 2023-2024. The duration of study is six years, with five academic years followed by a year of training. It grants students the degree of Bachelor of Veterinary Medicine on a credit-hour system in order to fulfill the requirements for academic accreditation. Thus, the program’s journey continues to achieve the goals and mission, but the process of work and giving to the program of Veterinary Medicine, Menoufia National University, will not stop until the goal is achieved, which is to reach quality standards in performance at all levels to the level of international standards",
+            "ar": "بدأت الدراسة بالبرنامج فى العام الجامعى 2023-2024. ومدة الدراسة ستة سنوات بواقع خمس سنوات دراسية ويعقبها سنه للتدريب وتقوم بمنح الطلاب درجة بكالوريوس الطب البيطرى بنظام الساعات المعتمدة وذلك تحقيقاً لمتطلبات الإعتماد الأكاديمى وهكذا تمضى مسيرة الكلية لتحقيق الأهداف والرسالة ولكن مسيرة العمل والعطاء لبرنامج الطب البيطرى جامعة المنوفية الاهلية ، لن تتوقف حتى يتم تحقيق الجودة فى الأداء على كافة الأصعدة والوصول إلى مستوى المقاييس العالمية ."
+        },
+        "visionPara": {
+            "en": "Veterinary Medicine Program seeks to be one of the distinguished academic and research colleges in the field of veterinary medicine at the local, regional and international levels.",
+            "ar": "يسعى برنامج الطب البيطرى بجامعة المنوفية الأهلية لأن يكون أحد البرامج المتميزة أكاديميًا وبحثيا فى مجال الطب البيطرى على المستوى المحلي والإقليمي والدولي."
+        },
+        "missionPara": {
+            "en": "Veterinary Medicine Program seeks to supply the local and regional labor market with distinguished veterinarians through distinguished educational programs to develop livestock and fisheries and ensure Food health and safety, and provides distinguished community services and veterinary consultations in accordance with Egypt’s vision for sustainable development 2030",
+            "ar": "يسعى برنامج الطب البيطري لإمداد سوق العمل المحلى والإقليمى بأطباء بيطريين متميزين من خلال برامج تعليمية مميزة لتنمية الثروة الحيوانية والسمكية وضمان صحة وسلامة الغذاء، وتوفير خدمات مجتمعية واستشارات بيطرية متميزة وفقاً لرؤية مصر نحو التنمية المستدامة 2030"
+        }
+    },
+    "overviewImage": "/images/veterinary/overview.jpg",
+    "facultyGoals": [
+        {
+            "id": "1",
+            "label": {
+                "en": "Program Objectives",
+                "ar": "أهداف البرنامج"
+            },
+            "title": {
+                "en": "The Bachelor of Veterinary Medical Sciences program is focusing on:​",
+                "ar": "يركز برنامج بكالوريوس العلوم الطبية البيطرية على:"
+            },
+            "content": [
+                {
+                    "en": "Apply the knowledge and skills relevant for Veterinary Medicine profession in the field of veterinary medical education, practice and research.",
+                    "ar": "تطبيق المعارف والمهارات ذات الصلة بمهنة الطب البيطري في مجال التعليم الطبي البيطري والممارسة والبحث."
+                },
+                {
+                    "en": "Prepare a practitioner veterinarian who possesses the knowledge, skills and provide an appropriate academic environment.",
+                    "ar": "إعداد طبيب بيطري ممارس يمتلك المعارف والمهارات وتوفير البيئة الأكاديمية المناسبة."
+                },
+                {
+                    "en": "Increasing the volume of practical clinical training to upgrade students' technical and professional skills.",
+                    "ar": "زيادة حجم التدريب العملي لرفع المهارات الفنية والمهنية للطلاب."
+                },
+                {
+                    "en": "Commit to ethical and professional values and principles.",
+                    "ar": "الالتزام بالقيم والمبادئ الأخلاقية والمهنية."
+                },
+                {
+                    "en": "Adapting a cyclic and renewable plan for laboratories and equipment.",
+                    "ar": "تبني خطة دورية ومتجددة للمختبرات والمعدات."
+                },
+                {
+                    "en": "Establish an advanced scientific research system, and supporting international publishing, in a way that improve the competitive status of the program.",
+                    "ar": "إنشاء نظام بحث علمي متقدم، ودعم النشر الدولي، بما يحسن الوضع التنافسي للبرنامج."
+                },
+                {
+                    "en": "Promote, maximize and achieve distinction in the social responsibility, in a way that contributes to gaining the confidence of the surrounding community.",
+                    "ar": "تعزيز وتعظيم وتحقيق التميز في المسؤولية الاجتماعية، بما يساهم في كسب ثقة المجتمع المحيط."
+                },
+                {
+                    "en": "Develop the capabilities of the human resources to achieve distinguished academic and administrative performance.",
+                    "ar": "تطوير قدرات الموارد البشرية لتحقيق أداء أكاديمي وإداري متميز."
+                },
+                {
+                    "en": "Strength and develop the physical and financial resources.",
+                    "ar": "تعزيز وتنمية الموارد المادية والمالية."
+                },
+                {
+                    "en": "Promote continuously the quality culture, and the system of quality assurance and academic accreditation.",
+                    "ar": "تعزيز ثقافة الجودة ونظام ضمان الجودة والاعتماد الأكاديمي بشكل مستمر."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "label": {
+                "en": "Career Path and Job Opportunities",
+                "ar": "المسار الوظيفي وفرص العمل"
+            },
+            "title": {
+                "en": "General Authority for Veterinary Services:",
+                "ar": "الهيئة العامة للخدمات البيطرية :"
+            },
+            "content": [
+                {
+                    "en": "General monitoring of veterinary prevention",
+                    "ar": "المراقبة العامة للوقاية البيطرية"
+                },
+                {
+                    "en": "Department of rinderpest",
+                    "ar": "قسم الطاعون البقرى"
+                },
+                {
+                    "en": "Poultry Epidemiology Department",
+                    "ar": "قسم أوبئة الدواجن"
+                },
+                {
+                    "en": "Monitoring veterinary quarries",
+                    "ar": "مراقبة المحاجر البيطرية"
+                },
+                {
+                    "en": "Veterinary Hospitals Department",
+                    "ar": "قسم المستشفيات البيطرية"
+                },
+                {
+                    "en": "Monitor reproductive care and artificial insemination",
+                    "ar": "مراقبة الرعاية التناسلية والتلقيح الصناعى"
+                },
+                {
+                    "en": "General monitoring of common diseases",
+                    "ar": "المراقبة العامة للأمراض المشتركة"
+                },
+                {
+                    "en": "General monitoring of slaughterhouses and animal waste",
+                    "ar": "المراقبة العامة للمجازر والمخلفات الحيوانية"
+                },
+                {
+                    "en": "General monitoring of veterinary services",
+                    "ar": "المراقبة العامة للخدمات البيطرية"
+                },
+                {
+                    "en": "Livestock Insurance Department",
+                    "ar": "قسم التأمين على الماشية"
+                },
+                {
+                    "en": "Registration Department",
+                    "ar": "قسم التسجيل"
+                },
+                {
+                    "en": "Medical Supply Department",
+                    "ar": "قسم التموين الطبى"
+                },
+                {
+                    "en": "General monitoring of veterinary guidance",
+                    "ar": "المراقبة العامة للإرشاد البيطرى"
+                },
+                {
+                    "en": "Veterinary and human medicine companies, where they can work as: Publicity representative, Medicine preparation expert, Veterinary pharmacist",
+                    "ar": "شركات الدواء البيطرى والبشرى وفيها يعمل: مندوب دعاية، خبير تحضير دواء، صيدلى بيطرى"
+                },
+                {
+                    "en": "Animal, poultry and fish production farms: Healthcare physician - responsible for nutrition and production - responsible for management and marketing",
+                    "ar": "مزارع الانتاج الحيوانى والداجنى والسمكى: طبيب للرعاية الصحية - مسئول عن التغذية والإنتاج - مسئول عن الإدارة والتسويق"
+                },
+                {
+                    "en": "Hotels and tourism: Nutrition Officer - Responsible for inspecting meat, dairy and their products",
+                    "ar": "الفنادق و السياحة: مسئول التغذية - مسئول فحص اللحوم والألبان ومنتجاتها"
+                },
+                {
+                    "en": "The Armed Forces and the Police: Nutrition and production officer - Meat, dairy and products inspection supervisor - Animal health care doctor",
+                    "ar": "القوات المسلحة والشرطة: مسئول تغذية وإنتاج - مشرف فحص اللحوم والألبان ومنتجاتها - طبيب للرعاية الصحية للحيوانات"
+                },
+                {
+                    "en": "Private veterinary work: A private veterinary clinic - a veterinary medical consultation office - a medical analysis laboratory - an exhibition of medicines and veterinary products - establishing a center for analyzing feed materials and formulating relationships",
+                    "ar": "العمل البيطرى الخاص: عيادة بيطرية خاصة - مكتب إستشارات طبية بيطرية - معمل تحاليل طبية - معرض للأدوية والمنتجات البيطرية - إقامة مركز تحاليل مواد العلف وتكوين علائق"
+                }
+            ]
+        }
+    ],
+    "goalsImage": "/images/veterinary/veterinarygoal.jpg",
+    "facultyGallery": [
+        "/images/f1.jpg",
+        "/images/f2.jpg",
+        "/images/f3.jpg",
+        "/images/f4.jpg",
+        "/images/f5.jpg"
+    ],
+    "facultyDoctors": [
+        {
+            "name": "Samanta Smith",
+            "role": {
+                "en": "Head manager",
+                "ar": "المدير الرئيسي"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Colin Power",
+            "role": {
+                "en": "Partner",
+                "ar": "شريك"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        },
+        {
+            "name": "Lucy Albea",
+            "role": {
+                "en": "Investor",
+                "ar": "مستثمر"
+            },
+            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+        }
+    ],
+    "facultyLevels": [
+        {
+            "id": "1",
+            "name": {
+                "en": "Level 1",
+                "ar": "المستوى 1"
+            },
+            "semesters": [
+                {
+                    "id": "1-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "1-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": {
+                "en": "Level 2",
+                "ar": "المستوى 2"
+            },
+            "semesters": [
+                {
+                    "id": "2-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": {
+                "en": "Level 3",
+                "ar": "المستوى 3"
+            },
+            "semesters": [
+                {
+                    "id": "3-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "3-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": {
+                "en": "Level 4",
+                "ar": "المستوى 4"
+            },
+            "semesters": [
+                {
+                    "id": "4-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "4-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": {
+                "en": "Level 5",
+                "ar": "المستوى 5"
+            },
+            "semesters": [
+                {
+                    "id": "5-1",
+                    "name": {
+                        "en": "Term 1",
+                        "ar": "الفصل الدراسي 1"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "5-2",
+                    "name": {
+                        "en": "Term 2",
+                        "ar": "الفصل الدراسي 2"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "",
+                                "ar": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

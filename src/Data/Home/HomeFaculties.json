@@ -1,0 +1,82 @@
+[
+    {
+        "name": {
+            "ar": "الطب والجراحة",
+            "en": "Medicine"
+        },
+        "path": "/medicine",
+        "code": "med"
+    },
+    {
+        "name": {
+            "ar": "طب وجراحة الأسنان",
+            "en": "Dentistry"
+        },
+        "path": "/dentistry",
+        "code": "dent"
+    },
+    {
+        "name": {
+            "ar": "العلاج الطبيعي",
+            "en": "Physiotherapy"
+        },
+        "path": "/physiotherapy",
+        "code": "phy"
+    },
+    {
+        "name": {
+            "ar": "الطب البيطري",
+            "en": "Veterinary"
+        },
+        "path": "/veterinary",
+        "code": "vet"
+    },
+    {
+        "name": {
+            "ar": "الصيدلة",
+            "en": "Pharmacy"
+        },
+        "path": "/pharmacy",
+        "code": "phar"
+    },
+    {
+        "name": {
+            "ar": "التمريض",
+            "en": "Nursing"
+        },
+        "path": "/nursing",
+        "code": "nur"
+    },
+    {
+        "name": {
+            "ar": "العلوم الصحية",
+            "en": "Health Sciences"
+        },
+        "path": "/health-sciences",
+        "code": "hci"
+    },
+    {
+        "name": {
+            "ar": "الحاسوب والذكاء الاصطناعي",
+            "en": "Computer & AI"
+        },
+        "path": "/ai",
+        "code": "ai"
+    },
+    {
+        "name": {
+            "ar": "العلوم الإنسانية والاجتماعية",
+            "en": "Humanities & Social Sciences"
+        },
+        "path": "/humanities",
+        "code": "hc"
+    },
+    {
+        "name": {
+            "ar": "الهندسة",
+            "en": "Engineering"
+        },
+        "path": "/engineering",
+        "code": "eng"
+    }
+]
