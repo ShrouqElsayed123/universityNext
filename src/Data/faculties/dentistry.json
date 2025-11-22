@@ -1,4 +1,5 @@
 {
+    "type": "normal",
     "header": {
         "links": [
             {
@@ -150,7 +151,7 @@
     ],
     "overviewImage": "/images/dentistry/overview.jpg",
     "goalsImage": "/images/dentistry/dentistgoal.jpg",
-     "facultyGallery": [
+    "facultyGallery": [
         "/images/f1.jpg",
         "/images/f2.jpg",
         "/images/f3.jpg",

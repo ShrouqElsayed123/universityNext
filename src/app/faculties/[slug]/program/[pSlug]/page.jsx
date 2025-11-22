@@ -1,20 +1,19 @@
-// app/faculty/[slug]/page.js
+
 import FacultyDoctors from "@/components/FaculitiesComponent/FacultyDoctors";
 import FacultyGoals from "@/components/FaculitiesComponent/FacultyGoals";
 import FacultyLevels from "@/components/FaculitiesComponent/FacultyLevels";
-import FacultyOverview from "@/components/FaculitiesComponent/FacultyOverview";
 import Header from "@/components/FaculitiesComponent/Header";
 import PeekSlider from "@/components/FaculitiesComponent/PeekSlider";
 import ProgramCards from "@/components/FaculitiesComponent/ProgramCards";
+import ProgramOverview from "@/components/FaculitiesComponent/ProgramOverview";
 import fs from "fs";
 import path from "path";
+export default async function ProgramPage({ params }) {
+    const { slug, pSlug } = params;
 
-// **Server Component**: لا تضع "use client" هنا
-export default async function Page({ params }) {
-    const { slug } = await params;
 
     // مسار الملف
-    const filePath = path.join(process.cwd(), "src", "Data", "faculties", `${slug}.json`);
+    const filePath = path.join(process.cwd(), "src", "Data", "faculties", `${pSlug}.json`);
 
     // قراءة الملف
     const jsonData = fs.readFileSync(filePath, "utf8");
@@ -34,35 +33,31 @@ export default async function Page({ params }) {
 
             {/* باقي مكونات الصفحة يمكن إضافتها هنا */}
 
-            <FacultyOverview
+            <ProgramOverview
                 title={data.overview.title}
                 para1={data.overview.para1}
                 para2={data.overview.para2}
-                programTitle={data.overview.programTitle}
-                programPara={data.overview.programPara}
+
                 visionPara={data.overview.visionPara}
                 missionPara={data.overview.missionPara}
-                images={data.facultyGallery}
+
                 overviewImage={data.overviewImage}
             />
 
 
-            {data.type == "hasPrograms" ?
-                (
-                    <ProgramCards />
-                ) : (
-                    <>
-                        <FacultyGoals
-                            data={data.facultyGoals}
-                            img={data.goalsImage}
-                        />
 
-                        <PeekSlider />
-                        <FacultyLevels facultyData={data} />
-                        <FacultyDoctors team={data.facultyDoctors} />
-                    </>
-                )
-            }
+
+            <FacultyGoals
+                data={data.facultyGoals}
+                img={data.goalsImage}
+            />
+
+            <PeekSlider />
+            <FacultyLevels facultyData={data} />
+            <FacultyDoctors team={data.facultyDoctors} />
+
+
+
 
         </div>
     );

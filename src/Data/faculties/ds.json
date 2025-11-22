@@ -12,41 +12,48 @@
             {
                 "to": "/",
                 "label": {
-                    "en": "Faculty of Medicine",
-                    "ar": " كلية الطب والجراحة"
+                    "en": "Faculty of Computers and Artificial Intelligence",
+                    "ar": " كلية الحاسبات والذكاء الاصطناعي"
+                }
+            },
+            {
+                "to": "/",
+                "label": {
+                    "en": "Data Sciences Program",
+                    "ar": " برنامج علوم البيانات"
                 }
             }
         ],
-        "img": "/images/medicine/banner.jpg"
+        "img": "/images/ai/banner.jfif"
     },
     "overview": {
         "title": {
-            "en": "Overview of the Faculty of Medicine",
-            "ar": "نظرة عامة على كلية الطب"
+            "en": "Overview of the Data Sciences Program ",
+            "ar": "نبذه عن برنامج علوم البيانات"
         },
         "para1": {
-            "en": "The Faculty of Medicine was established to train highly qualified doctors capable of meeting the healthcare needs of society while emphasizing comprehensive, evidence-based medical care. The faculty offers an integrated academic program that combines basic medical education, clinical training, and research, fostering the development of students' skills and enhancing their professional competence.",
-            "ar": " تأسست كلية الطب بهدف إعداد أطباء مؤهلين تأهيلاً عالياً وقادرين على تلبية احتياجات المجتمع الصحية، مع التركيز على تقديم رعاية طبية شاملة ومبنية على أسس علمية حديثة. تقدم الكلية برنامجًا أكاديميًا متكاملاً يشمل التعليم الطبي الأساسي، التدريب السريري، والبحث العلمي، مما يساهم في تطوير مهارات الطلاب وتعزيز كفاءتهم العملية. "
+            "en": "The Data Science Program is an academic program designed to equip students with the knowledge and skills to understand, process, and analyze big data using advanced technologies and intelligent algorithms. The program focuses on preparing graduates with comprehensive expertise in tools and methodologies essential for extracting valuable insights from data and applying them across various fields, such as healthcare, industry, business, and the public sector.",
+            "ar": "برنامج علوم البيانات هو برنامج أكاديمي يهدف إلى تأهيل الطلاب لفهم ومعالجة وتحليل البيانات الضخمة باستخدام التقنيات المتقدمة والخوارزميات الذكية. يركز البرنامج على إعداد خريجين لديهم معرفة شاملة بالأدوات والأساليب اللازمة لاستخراج المعلومات القيمة من البيانات وتطبيقها في مختلف المجالات مثل الصحة، الصناعة، الأعمال، والقطاع الحكومي."
         },
         "para2": {
-            "en": "The faculty focuses on graduating doctors equipped with clinical expertise, critical thinking abilities, and a commitment to lifelong learning. It also aims to promote innovation in medical education and research through a supportive and collaborative learning environment.",
-            "ar": "تركز الكلية على تخريج أطباء يمتلكون المهارات السريرية، التفكير النقدي، والقدرة على التعلم المستمر. كما تسعى إلى تعزيز الابتكار في التعليم الطبي والبحث العلمي من خلال بيئة تعليمية داعمة وتعاونية."
+            "en": " ",
+            "ar": " "
         },
         "programTitle": {
-            "en": "Overview of the Medicine and Surgery Program",
-            "ar": "نبذة عن برنامج الطب والجراحة :  "
+            "en": " ",
+            "ar": " "
         },
         "programPara": {
-            "en": "The Medicine and Surgery Program aims to prepare competent doctors capable of providing comprehensive and evidence-based medical care. The program offers an integrated academic curriculum that combines basic and clinical sciences, enabling students to understand the fundamentals of medicine and apply them to diverse medical cases. The program comprises 5 educational levels distributed as 10 semesters including academic and clinical modules, and intensive clinical training in hospitals and healthcare centers, where students gain practical experience in patient care and day-to-day medical challenges. Additionally, it focuses on developing research skills and critical thinking, equipping graduates to contribute to healthcare advancements and scientific research.",
-            "ar": "يهدف برنامج الطب والجراحة إلى إعداد أطباء أكفاء قادرين على تقديم رعاية طبية شاملة ومبنية على أحدث الأدلة العلمية. يُقدم البرنامج منهجًا أكاديميًا متكاملاً يمزج بين العلوم الأساسية والسريرية، مما يُمكَن الطلاب من فهم أساسيات الطب وتطبيقها على الحالات المرضية المختلفة. يتكون البرنامج من 5 مستويات دراسية على عشرة فصول و سنتين امتياز و يشمل موديولات أكاديمية و إكلينيكية و فترات تدريب سريرية مكثفة في المستشفيات والمراكز الصحية، حيث يكتسب الطلاب الخبرة العملية في التعامل مع المرضى والتحديات الطبية اليومية. كما يركز البرنامج على تطوير مهارات البحث العلمي والتفكير النقدي، مما يؤهل الخريجين للمساهمة في تطوير القطاع الصحي والبحث العلمي."
+            "en": " ",
+            "ar": " "
         },
         "visionPara": {
-            "en": "To become a leading program in delivering outstanding medical education, producing globally competent physicians capable of advancing individual and community health, while fostering innovation, research, and community service.",
-            "ar": "أن يكون برنامج الطب والجراحة رائدًا في تقديم تعليم طبي متميز، وإعداد أطباء ذوي كفاءة عالمية، قادرين على المساهمة في تحسين صحة الأفراد والمجتمعات، مع التركيز على الابتكار والبحث العلمي وخدمة المجتمع."
+            "en": " Creating a creative generation capable of harnessing data science and developing its technologies to analyze data, enhance technological advancement, and achieve progress and prosperity.",
+            "ar": "   الرؤية  خلق جيل مبدع قادر على تسخير علوم البيانات وتطوير تقنياتها لتحليل البيانات لتعزيز التطور التقني وتحقق لتحقيق التطور والنماء."
         },
         "missionPara": {
-            "en": "The Medicine and Surgery Program aims to provide comprehensive medical education that integrates theoretical knowledge and practical training. It strives to prepare distinguished physicians with clinical skills, professional competencies, and a strong commitment to medical ethics, contributing effectively to healthcare improvement and scientific research at both local and global levels",
-            "ar": "يهدف برنامج الطب والجراحة إلى تقديم تعليم طبي متكامل يجمع بين المعرفة النظرية والتدريب العملي، لإعداد أطباء متميزين يمتلكون المهارات السريرية والكفاءات المهنية، مع الالتزام بأخلاقيات المهنة الطبية والمساهمة الفعالة في تطوير الرعاية الصحية والبحث العلمي لخدمة المجتمع المحلي والعالمي."
+            "en": "Preparing specialized and distinguished scientific cadres equipped with deep skills and knowledge in the field of data science and analysis, enabling them to keep pace with rapid advancements and effectively utilize data. Supporting the production of innovative research and applications capable of competing locally, regionally, and internationally, while contributing to community development and enhancing various industries, in alignment with Egypt's sustainable development vision. ",
+            "ar": "إعداد كوادر علمية متخصصة ومتميزة تمتلك المهارات والمعرفة العميقة في مجال علوم البيانات وتحليلها، بما يمكنها من مواكبة التطورات السريعة واستثمار البيانات بفعالية. ودعم إنتاج أبحاث وتطبيقات مبتكرة قادرة على المنافسة محليًا وإقليميًا ودوليًا، مع الإسهام في تنمية المجتمع وتعزيز الصناعات المختلفة، بما يتماشى مع رؤية مصر للتنمية المستدامة."
         }
     },
     "overviewImage": "/images/medicine/overview.jpg",
@@ -58,33 +65,61 @@
                 "ar": "أهداف البرنامج"
             },
             "title": {
-                "en": "Goals",
-                "ar": "الأهداف"
+                "en": "",
+                "ar": ""
             },
             "content": [
                 {
-                    "en": "Equip students with a strong foundation in basic and clinical medical sciences following the latest global standards.",
-                    "ar": "إعداد الطلاب بأساس قوي في العلوم الطبية الأساسية والسريرية وفقًا لأحدث المعايير العالمية."
+                    "en": "Gain foundational knowledge in data analysis, statistical modeling, and data visualization techniques.",
+                    "ar": "الحصول على معرفة أساسية في تحليل البيانات، النمذجة الإحصائية، وتقنيات تصور البيانات."
                 },
                 {
-                    "en": "Train students to conduct medical examinations, diagnose conditions, and develop effective treatment plans using a scientific approach.",
-                    "ar": "تدريب الطلاب على إجراء الفحوصات الطبية، التشخيص، ووضع خطط علاجية فعالة باستخدام نهج علمي."
+                    "en": "Understand and apply statistical methods and probability theory to interpret and analyze data.",
+                    "ar": "فهم وتطبيق الطرق الإحصائية ونظرية الاحتمالات لتفسير وتحليل البيانات."
                 },
                 {
-                    "en": "Encourage students to engage in research and contribute to addressing local and global health challenges.",
-                    "ar": "تشجيع الطلاب على المشاركة في الأبحاث العلمية والمساهمة في حل التحديات الصحية محليًا وعالميًا."
+                    "en": "Address ethical challenges, privacy concerns, and the broader societal implications of data-driven decisions.",
+                    "ar": "معالجة التحديات الأخلاقية، القضايا المتعلقة بالخصوصية، والآثار المجتمعية الأوسع للقرارات المعتمدة على البيانات."
                 },
                 {
-                    "en": "Instill values of integrity, empathy, and respect for patients in all aspects of medical practice.",
-                    "ar": "غرس قيم النزاهة، التعاطف، واحترام المرضى في جميع جوانب الممارسة الطبية."
+                    "en": "Acquire expertise in programming languages for effective data manipulation and analysis.",
+                    "ar": "اكتساب الخبرة في لغات البرمجة لمعالجة البيانات وتحليلها بشكل فعال."
                 },
                 {
-                    "en": "Empower graduates to take responsibility and work efficiently in multidisciplinary healthcare teams.",
-                    "ar": "تمكين الخريجين من تحمل المسؤولية والعمل بكفاءة في فرق طبية متعددة التخصصات."
+                    "en": "Develop skills in data cleaning, transformation, and feature selection to prepare datasets for analysis and modeling.",
+                    "ar": "تطوير المهارات في تنظيف البيانات، تحويلها، واختيار الميزات لتحضير مجموعات البيانات للتحليل والنمذجة."
                 },
                 {
-                    "en": "Prepare graduates to provide holistic healthcare and contribute to public health improvement and community service.",
-                    "ar": "تأهيل الخريجين لتقديم رعاية صحية متكاملة والمساهمة في تحسين الصحة العامة وخدمة المجتمع."
+                    "en": "Master the use of libraries and tools for data analysis and machine learning.",
+                    "ar": "إتقان استخدام المكتبات والأدوات لتحليل البيانات والتعلم الآلي."
+                },
+                {
+                    "en": "Develop practical skills in designing, training, evaluating, and deploying predictive and descriptive data models.",
+                    "ar": "تطوير المهارات العملية في تصميم وتدريب وتقييم ونشر نماذج البيانات التنبؤية والوصفية."
+                },
+                {
+                    "en": "Solve practical challenges in various domains such as healthcare, finance, marketing, and environmental science using data-driven approaches.",
+                    "ar": "حل التحديات العملية في مجالات متنوعة مثل الرعاية الصحية، والمالية، والتسويق، وعلوم البيئة باستخدام منهجيات معتمدة على البيانات."
+                },
+                {
+                    "en": "Cultivate the ability to identify opportunities for data-driven insights and solutions through innovative problem-solving.",
+                    "ar": "تنمية القدرة على تحديد الفرص لاستخراج الرؤى والحلول المعتمدة على البيانات من خلال التفكير الابتكاري."
+                },
+                {
+                    "en": "Promote innovation and creativity in developing novel applications of data science to address complex problems.",
+                    "ar": "تعزيز الابتكار والإبداع في تطوير تطبيقات جديدة لعلوم البيانات لمعالجة المشكلات المعقدة."
+                },
+                {
+                    "en": "Keep abreast of the latest trends, tools, and techniques in data science and related fields.",
+                    "ar": "متابعة أحدث الاتجاهات والأدوات والتقنيات في علوم البيانات والمجالات ذات الصلة."
+                },
+                {
+                    "en": "Build skills to work collaboratively with interdisciplinary teams and communicate data-driven insights effectively.",
+                    "ar": "بناء المهارات للعمل بشكل تعاوني مع فرق متعددة التخصصات والتواصل الفعّال للرؤى المستخلصة من البيانات."
+                },
+                {
+                    "en": "Learn to convey complex data science concepts and findings clearly and effectively to both technical and non-technical stakeholders.",
+                    "ar": "تعلم كيفية نقل مفاهيم ونتائج علوم البيانات المعقدة بوضوح وفعالية للأطراف المعنية التقنية وغير التقنية."
                 }
             ]
         },
@@ -95,29 +130,45 @@
                 "ar": "المسار الوظيفي وفرص العمل"
             },
             "title": {
-                "en": "The Medicine and Surgery Program opens up a wide range of career opportunities in healthcare, including clinical practice, research, and healthcare management. Graduates can pursue various specializations based on their interests and skills.",
-                "ar": "يمنح برنامج الطب والجراحة للخريجين فرصًا واسعة في مجال الرعاية الصحية، سواءً في الممارسة السريرية أو البحث العلمي أو الإدارة الصحية. يمكن للخريجين اختيار تخصصات متعددة بناءً على اهتماماتهم ومهاراتهم."
+                "en": "",
+                "ar": ""
             },
             "content": [
                 {
-                    "en": "1. Internship Doctor: Graduates start their medical careers as interns, gaining practical experience and clinical training in various specialties.",
-                    "ar": "1.     طبيب امتياز: يبدأ الخريج بممارسة الطب كطبيب امتياز للحصول على الخبرة العملية والتدريب السريري في مختلف التخصصات."
+                    "en": "Data Analyst: Analyzing big data using artificial intelligence and machine learning techniques to extract patterns and insights that support decision-making.",
+                    "ar": "محلل بيانات: تحليل البيانات الضخمة باستخدام تقنيات الذكاء الاصطناعي والتعلم الآلي لاستخراج الأنماط والرؤى المفيدة لدعم اتخاذ القرار."
                 },
                 {
-                    "en": "2. Medical Specialization:General Surgery- Internal Medicine- Pediatrics- Family Medicine- Subspecialties (e.g., Cardiology, Neurosurgery, or Plastic Surgery).",
-                    "ar": "2.     التخصص الطبي:الجراحة العامة -    الطب الباطني -   طب الأطفال -    طب الأسرة -  التخصصات الدقيقة (مثل طب القلب، جراحة الأعصاب، أو جراحة التجميل)."
+                    "en": "Data Analyst: Processing and interpreting data to generate detailed reports that support business strategies and improve processes.",
+                    "ar": "محلل بيانات: معالجة البيانات وتفسيرها لتقديم تقارير تفصيلية تدعم استراتيجيات الأعمال وتحسين العمليات."
                 },
                 {
-                    "en": "3. Research: Work as a researcher in biomedical or clinical sciences, contributing to the development of new technologies and treatments.",
-                    "ar": "3.     البحث العلمي: العمل كباحث في مجالات الطب الحيوي أو العلوم السريرية والمساهمة في تطوير تقنيات جديدة وتحسين العلاج."
+                    "en": "Data Engineer: Designing and building infrastructure for storing, transferring, and processing data efficiently, ensuring its quality and integrity.",
+                    "ar": "مهندس بيانات: تصميم وإنشاء بنية تحتية لتخزين ونقل ومعالجة البيانات بفعالية، وضمان جودتها وسلامتها."
                 },
                 {
-                    "en": "4. Healthcare Administration:Take on leadership roles in hospitals or healthcare institutions.",
-                    "ar": "4.     الإدارة الصحية: تولي مناصب قيادية في المستشفيات أو المؤسسات الصحية."
+                    "en": "Business Intelligence Analyst: Analyzing data to support strategic decisions and providing recommendations for improving institutional performance.",
+                    "ar": "محلل ذكاء الأعمال: تحليل البيانات لدعم القرارات الاستراتيجية وتقديم توصيات لتحسين الأداء المؤسسي."
                 },
                 {
-                    "en": "5. Medical Education:Teach in medical schools or train students and new doctors.",
-                    "ar": "5.     التعليم الطبي: التدريس في كليات الطب أو تدريب الطلاب والأطباء الجدد."
+                    "en": "Machine Learning Engineer: Developing machine learning models to analyze data and build intelligent solutions based on prediction and decision-making.",
+                    "ar": "مهندس تعلم الآلة: تطوير نماذج التعلم الآلي لتحليل البيانات وبناء حلول ذكية تعتمد على التنبؤ واتخاذ القرار."
+                },
+                {
+                    "en": "Big Data Specialist: Managing and analyzing large data using platforms like Hadoop and Spark to generate strategic insights.",
+                    "ar": "متخصص في البيانات الضخمة: إدارة وتحليل البيانات الكبيرة باستخدام منصات مثل Hadoop وSpark، لتحقيق رؤى استراتيجية."
+                },
+                {
+                    "en": "Data Visualization Developer: Designing tools and platforms to visually present data in a way that helps users understand patterns and trends.",
+                    "ar": "مطور أدوات التصور البياني: تصميم أدوات ومنصات لعرض البيانات بشكل بصري يساعد المستخدمين على فهم الأنماط والاتجاهات."
+                },
+                {
+                    "en": "Predictive Analytics Expert: Developing models that use historical data to forecast future trends.",
+                    "ar": "خبير في التحليلات التنبؤية: تطوير نماذج تستخدم البيانات التاريخية لتوقع الاتجاهات المستقبلية."
+                },
+                {
+                    "en": "Database Administrator: Managing databases and ensuring their efficiency and security.",
+                    "ar": "مدير قواعد البيانات: إدارة قواعد البيانات وضمان كفاءتها وأمانها."
                 }
             ]
         }
