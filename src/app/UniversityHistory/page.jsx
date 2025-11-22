@@ -17,8 +17,8 @@ export default function Page() {
         {
             "to": "/",
             "label": {
-                "en": "Faculty of Computers and Artificial Intelligence",
-                "ar": " كلية الحاسبات والذكاء الاصطناعي"
+                "en": "Establishment of the university",
+                "ar": " نشأة الجامعة"
             }
         }
     ];
