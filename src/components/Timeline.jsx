@@ -7,63 +7,83 @@ import { useTranslation } from "react-i18next";
 
 const timelineData = [
     {
-        label: {
-            en: "The origin",
-            ar: "البداية",
+        label: { en: "University Approval", ar: "موافقة إنشاء الجامعة" },
+
+        date: {
+            en: "27/1/2021",
+            ar: "٢٧/١/٢٠٢١",
         },
-        date: "May, 2020",
         title: {
-            en: "Acme was founded in Milan, Italy",
-            ar: "تأسست شركة Acme في ميلانو بإيطاليا",
+            en: "Supreme Council Approves Establishment",
+            ar: "الموافقة على إنشاء جامعة المنوفية الأهلية"
         },
         content: {
-            en: "Pretium lectus quam id leo. Urna et pharetra pharetra massa massa.",
-            ar: "تم تأسيس الشركة بهدف تقديم حلول مبتكرة وخدمات عالية الجودة.",
+            en: "the President of Menoufia University announced the approval of the Supreme Council of Universities to establish the Menoufia Community University at the animal production farm, and legal procedures are being taken to obtain the approval of the President of the Republic and include it among the private universities being established to provide distinguished educational services to the people of the governorate.",
+            ar: "أعلن رئيس جامعة المنوفية موافقة المجلس الأعلى للجامعات على إنشاء جامعة المنوفية الأهلية بمزرعة الإنتاج الحيواني وجارى اتخاذ الإجراءات القانونية لاستصدار ملاستصوافقة رئيس الجمهورية وإدراجها ضمن الجامعات الأهلية الجارى إنشائها لتقديم خدمة تعليمية متميزة لأبناء المحافظة.",
         },
     },
     {
-        label: {
-            en: "The milestone",
-            ar: "مرحلة مهمة",
+        label: { en: "Project Planning", ar: "تخطيط المشروع" },
+        date: {
+            en: "16/2/2021",
+            ar: "١٦/٢/٢٠٢١",
         },
-        date: "May, 2021",
         title: {
-            en: "Reached 5K customers",
-            ar: "الوصول إلى 5000 عميل",
+            en: "Formation of Higher Committee for Implementation",
+            ar: "تشكيل لجنة عليا لمتابعة الإجراءات"
         },
         content: {
-            en: "Pretium lectus quam id leo. Urna et pharetra pharetra massa massa.",
-            ar: "نجحت الشركة في توسيع قاعدة عملائها بشكل ملحوظ.",
+            en: "the President of Menoufia University announced that its establishment will start after taking the necessary legal procedures in accordance with the latest educational systems and the general perception of private universities at the state level, indicating that a higher committee will be formed to follow up the procedures and implementation mechanisms, wishing success in achieving this huge project and the new challenge to prove the ability of the university team to achieve all achievements.",
+            ar: " أعلن رئيس جامعة المنوفية أنه سيتم البدء في إنشائها عقب اتخاذ الإجراءات القانونية اللازمة  طبقا لأحدث النظم التعليمية والتصور العام للجامعات الأهلية على مستوى الدولة  مشيرا إلى أنه سيتم تشكيل لجنة عليا لمتابعة الإجراءات وآليات التنفيذ، متمنيا التوفيق في تحقيق هذا المشروع الضخم والتحدى الجديد لاثبات قدرة فريق عمل الجامعة على تحقيق جميع الإنجازات.",
         },
     },
     {
-        label: {
-            en: "The acquisitions",
-            ar: "الاستحواذات",
+        label: { en: "Site Inspection", ar: "تفقد الموقع" },
+
+        date: {
+            en: "9/8/2021",
+            ar: "٩/٨/٢٠٢١",
         },
-        date: "May, 2022",
         title: {
-            en: "Acquired various companies, including Technology Inc.",
-            ar: "الاستحواذ على عدة شركات منها Technology Inc.",
+            en: "Inspection of Menoufia Private University Site",
+            ar: "تفقد موقع جامعة المنوفية الأهلية"
         },
         content: {
-            en: "Pretium lectus quam id leo. Urna et pharetra pharetra massa massa.",
-            ar: "واصلت الشركة توسعها من خلال الاستحواذ على شركات تقنية متعددة.",
+            en: "The President of Menoufia University inspected the general site of Menoufia Private University in Toukh Tanbesha, which is spread over an area of ​​18 acres and costs more than 2.5 billion pounds. It is designed according to the latest architectural standards to follow up on the progress of work in the facilities, which include an administration building, a medical sciences building, an engineering sciences building, a humanities building, and a four-story laboratory building that includes all medical, engineering, and humanities laboratories, in addition to a recreational area and a cafeteria. The university's capacity is expected to be 9,500 students.",
+            ar: "تفقد رئيس جامعة المنوفية، الموقع العام لجامعة المنوفية الأهلية بطوخ طنبشا على مساحة 18 فدانا وبتكلفة أكثر من 2 ونصف مليار جنيه، ومصممة على أحدث مستوى معمارى لمتابعة سير العمل بالمنشآت التي تضم مبنى إدارة، مبنى العلوم الطبية، مبنى العلوم الهندسية، مبنى العلوم الإنسانية، ومبنى المعامل أربع أداور يضم جميع المعامل الطبية والهندسية والإنسانية، بالإضافة إلى منطقة ترفيهية وكافتريا، ومن المتوقع أن القدرة الاستيعابية للجامعة 9500 طالب",
         },
     },
     {
-        label: {
-            en: "The IPO",
-            ar: "الاكتتاب العام",
+        label: { en: "Progress Review", ar: "مراجعة التقدم" },
+
+        date: {
+            en: "16/11/2021",
+            ar: "١٦/١١/٢٠٢١",
         },
-        date: "May, 2023",
         title: {
-            en: "Acme went public at the New York Stock Exchange",
-            ar: "طرحت Acme أسهمها في بورصة نيويورك",
+            en: "University Council Inspection Tour",
+            ar: "جولة تفقدية لمجلس الجامعة"
         },
         content: {
-            en: "Pretium lectus quam id leo. Urna et pharetra pharetra massa massa.",
-            ar: "أصبحت الشركة متداولة رسمياً في سوق الأسهم.",
+            en: "he President of Menoufia University took the members of the University Council on an inspection tour of Menoufia Community University in Toukh Tanbasha to see the amount of work done on the general site so far, and to inspect the buildings that include an administration building, a building Medical sciences ، building Engineering sciences humanities building, and lab building.",
+            ar: "قام رئيس جامعة المنوفية باصطحاب أعضاء مجلس الجامعة في جولة تفقدية لجامعة المنوفية الأهلية لمشاهدة حجم العمل الذي تم بالموقع العام حتى الآن، وتفقد المبانى التي تشمل مبنى إدارة، مبنى  العلوم الطبية ، مبنى  العلوم الهندسية ، مبنى العلوم الإنسانية، ومبنى المعامل.",
+        },
+    },
+    {
+        label: { en: "University Opening", ar: "بدء الدراسة" },
+
+
+        date: {
+            en: "1/10/2022",
+            ar: "١/١٠/٢٠٢٢",
+        },
+        title: {
+            en: "National University Begins Classes",
+            ar: "بدء الدراسة بالجامعة الأهلية"
+        },
+        content: {
+            en: "National University will begin classes in October 2022",
+            ar: "  بدأ الدراسة بالجامعةالأهلية  فى أكتوبر ٢٠٢٢",
         },
     },
 ];
@@ -94,7 +114,7 @@ const TimelineItem = ({ item, isLast }) => {
                 ${isLast ? "group-last:before:hidden" : ""}`}
             >
                 <time className="sm:absolute font-Playwrite left-0 translate-y-0.5 inline-flex items-center justify-center text-[8px] font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600 bg-emerald-100 rounded-full">
-                    {item.date}
+                    {item.date[lang]}
                 </time>
 
                 <div className="text-xl font-bold text-slate-900">
@@ -116,7 +136,7 @@ export default function Timeline() {
 
     return (
         <div className="bg-white py-12" dir={lang === "ar" ? "rtl" : "ltr"}>
-            <div className="flex flex-col md:flex-row items-center justify-between max-w-7xl mx-auto gap-8">
+            <div className="flex flex-col md:flex-row items-start justify-between max-w-7xl mx-auto gap-8">
 
                 {/* Timeline List */}
                 <div className="md:w-2/3 w-full">
@@ -129,14 +149,29 @@ export default function Timeline() {
                     ))}
                 </div>
 
-                {/* Image */}
-                <div className="md:w-1/3 w-full flex justify-center">
+                {/* Images */}
+                <div className="md:w-1/3 w-full flex flex-col justify-between items-center gap-16">
+                    {/* هنا استخدمنا gap-16 علشان المسافة بين الصور تكون طويلة */}
                     <Image
                         src="/images/timeline2.jpg"
-                        width={600}
-                        height={600}
+                        width={700} // زودنا الحجم شوية
+                        height={700}
                         alt="Timeline Illustration"
-                        className="w-full h-auto rounded-lg object-cover"
+                        className="w-full h-auto object-cover rounded-full"
+                    />
+                    <Image
+                        src="/images/timeline3.jpg"
+                        width={700}
+                        height={700}
+                        alt="Timeline Illustration"
+                        className="w-full h-auto object-cover rounded-full"
+                    />
+                    <Image
+                        src="/images/slider-image-3.jfif"
+                        width={700}
+                        height={700}
+                        alt="Timeline Illustration"
+                        className="w-full h-auto object-cover rounded-full"
                     />
                 </div>
             </div>

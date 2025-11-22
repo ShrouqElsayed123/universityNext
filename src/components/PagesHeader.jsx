@@ -8,7 +8,7 @@ export default function PagesHeader({ links, img }) {
     const pathname = usePathname();
 
     return (
-        <div className='relative h-52 flex items-center justify-center text-center mb-10'>
+        <div className='relative h-72 flex items-center justify-center text-center mb-10'>
 
             {/* Background Image */}
             <div

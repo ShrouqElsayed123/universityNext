@@ -9,7 +9,7 @@ export default function Header({ links, img }) {
     const { i18n } = useTranslation();
     const lang = i18n.language;
     return (
-        <div className="relative h-80 flex items-center justify-center text-center px-0">
+        <div className="relative h-72 flex items-center justify-center text-center px-0">
 
             {/* Background Image */}
             <div
