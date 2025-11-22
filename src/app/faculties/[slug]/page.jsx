@@ -65,7 +65,7 @@ export default async function Page({ params }) {
             <FacultyDoctors team={data.facultyDoctors} />
             {data.type == "hasPrograms" ?
                 (
-                  <AiProgram />
+                  <AiProgram data={data.programData} />
                 ) : (
                     <>
                         <FacultyGoals

@@ -1,36 +1,36 @@
 "use client";
 import ProgramCards from './ProgramCards'
 import { useTranslation } from 'react-i18next';
-const data = [
-    {
-        id: 1,
-        img: "/images/ai/dsprogram2.jpg",
-        path: "/faculties/ai/program/ds",
-        title: {
-            en: "Data Sciences Program",
-            ar: "برنامج علوم البيانات"
-        }
-    },
-    {
-        id: 2,
-        img: "/images/ai/mlprogram.jpg",
-        path: "/faculties/ai/program/ml",
-        title: {
-            en: "Machine Intelligence Program",
-            ar: "برنامج ذكاء الآلة"
-        }
-    },
-    {
-        id: 3,
-        img: "/images/ai/iotprogram.jpg",
-        path: "/faculties/ai/program/iot",
-        title: {
-            en: "Internet of Things and Big Data Analytics Program",
-            ar: "برنامج انترنت الأشياء وتحليل البيانات الضخمة"
-        }
-    },
-]
-export default function AiProgram() {
+// const data = [
+//     {
+//         id: 1,
+//         img: "/images/ai/dsprogram2.jpg",
+//         path: "/faculties/ai/program/ds",
+//         title: {
+//             en: "Data Sciences Program",
+//             ar: "برنامج علوم البيانات"
+//         }
+//     },
+//     {
+//         id: 2,
+//         img: "/images/ai/mlprogram.jpg",
+//         path: "/faculties/ai/program/ml",
+//         title: {
+//             en: "Machine Intelligence Program",
+//             ar: "برنامج ذكاء الآلة"
+//         }
+//     },
+//     {
+//         id: 3,
+//         img: "/images/ai/iotprogram.jpg",
+//         path: "/faculties/ai/program/iot",
+//         title: {
+//             en: "Internet of Things and Big Data Analytics Program",
+//             ar: "برنامج انترنت الأشياء وتحليل البيانات الضخمة"
+//         }
+//     },
+// ]
+export default function AiProgram({data}) {
 
 
     const { i18n } = useTranslation();
