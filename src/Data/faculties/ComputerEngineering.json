@@ -10,30 +10,30 @@
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/engineer",
                 "label": {
-                    "en": "home",
-                    "ar": "الرئيسية"
+                    "en": "Faculty of Engineering",
+                    "ar": "كلية الهندسة"
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/engineer/program/ComputerEngineering",
                 "label": {
-                    "en": "Faculty of Medicine",
-                    "ar": " كلية الطب والجراحة"
+                    "en": "Computer Engineering Program ",
+                    "ar": "برنامج هندسة الحاسوب "
                 }
             }
         ],
-        "img": "/images/ai/banner.jfif"
+        "img": "/images/engineer/banner2.jpg"
     },
     "overview": {
         "title": {
-            "en": "Overview of the Data Sciences Program ",
-            "ar": "نبذه عن برنامج علوم البيانات"
+            "en": "Computer Engineering Program ",
+            "ar": "برنامج هندسة الحاسوب "
         },
         "para1": {
-            "en": "",
-            "ar": ""
+            "en": "In line with the tangible renaissance witnessed in all aspects of life and in accordance with Egypt’s sustainable development strategy, the Computer Engineering Program was established. This strategy aims to leverage technology to support sustainable development goals, in alignment with Egypt’s Vision 2030. To keep up with the ongoing advances in the digital era and the rapid technological developments, it has become essential to prepare modern educational programs. These programs aim to graduate engineers and developers who possess the skills to build, operate, manage, and maintain the technological infrastructure required to compete in the job market.",
+            "ar": "فى اطار النهضة الحقيقية التي أصبحت ملموسة في كل جوانب الحياة وطبقاً لإستراتيجية التنمية المستدامة التي أطلقتها مصر بهدف استخدام التكنولوجيا في دعم تحقيق أهداف التنمية المستدامة وبما يتفق مع \"رؤية مصر 2030\" التي أقرتها الدولة وحرصا من الدولة على التفاعل مع معطيات العصر الرقمي الذي تتوالى فيه المُستجدات التكنولوجية كل يوم، صار لزاماً إعداد برامج دراسية حديثة تواكب هذا التطور لتخريج مهندسين ومطورين لديهم القدرة على بناء وتشغيل وإدارة وصيانة البنية التحتية في ظل المنافسة الكبيرة في سوق العمل."
         },
         "para2": {
             "en": " ",
@@ -48,15 +48,15 @@
             "ar": " "
         },
         "visionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "To establish a distinguished academic program in the field of Computer Engineering with its various specialized tracks: • Cloud Computing • High-Performance Computing (HPC) • Cybersecurity The program strives to keep up with modern technological developments and to excel in terms of academic content, teaching, scientific research, community service, and comprehensive development. ",
+            "ar": " إنشاء برنامج أكاديمي متميز في مجال هندسة الحاسوب بمساراته التخصصية المتنوعة: • الحوسبة السحابية • الحوسبة عالية الأداء (HPC) • الأمن السيبراني ويسعى البرنامج إلى مواكبة التطورات التكنولوجية الحديثة والتميز في المحتوى الأكاديمي والتدريس والبحث العلمي وخدمة المجتمع والتنمية الشاملة."
         },
         "missionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "To prepare distinguished graduates equipped with foundational and specialized knowledge, as well as practical and scientific skills in the field of Computer Engineering and its tracks (Cloud Computing, High-Performance Computing, and Cybersecurity). Graduates will be capable of competing in the labor market, adapting to changes in the field, and contributing to technological and economic development.",
+            "ar": "إعداد خريجين متميزين مزودين بالمعارف الأساسية والتخصصية، ومهارات عملية وعلمية في مجال هندسة الحاسوب بفروعها (الحوسبة السحابية، والحوسبة عالية الأداء، والأمن السيبراني). سيكون الخريجون قادرين على المنافسة في سوق العمل، والتكيف مع متغيرات هذا المجال، والمساهمة في التنمية التكنولوجية والاقتصادية."
         }
     },
-    "overviewImage": "/images/medicine/overview.jpg",
+    "overviewImage": "/images/engineer/banner.jpg",
     "facultyGoals": [
         {
             "id": "1",
@@ -65,13 +65,53 @@
                 "ar": "أهداف البرنامج"
             },
             "title": {
-                "en": "Goals",
-                "ar": "الأهداف"
+                "en": "The Computer Engineering Program aims to:",
+                "ar": "يهدف برنامج هندسة الحاسوب إلى :"
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Prepare skilled specialists in the field of computer engineering in general and in specific tracks (Cloud Computing, High-Performance Computing, and Cybersecurity) by developing an understanding of the fundamental principles of computer engineering. The program aims to equip students with the necessary skills to develop, build, operate, manage, and protect computing environments, as well as develop software for this environment, optimize its potential, and use it to operate and manage various applications. Students will also learn to solve high-performance computing problems, implement and apply security technologies and systems, protect information assets, analyze data, and identify and resolve security vulnerabilities.",
+                    "ar": "إعداد متخصصين بارعين في مجال هندسة الحاسوب بصفة عامة وفي أحد المسارات (الحوسبة السحابية - الحوسبة عالية الكفاءة - الأمن السيبراني) بصفة خاصة من خلال فهم المبادئ الأساسية لهندسة الحاسوب وتكوين المهارات اللازمة لتطوير وبناء وتشغيل وإدارة وحماية بيئة الحوسبة وتكوين المهارات اللازمة لتطوير برمجيات للعمل في هذه البيئة واستغلال امكانياتها الاستغلال الأمثل واستخدامها في تشغيل وإدارة التطبيقات المختلفة وحل المشاكل كثيفة الأداء، وتطبيق وتنفيذ التقنيات والأنظمة الأمنية، لغرض حماية أمن وأصول المعلومات، وتحليل البيانات، وتحديد وإصلاح الثغرات الأمنية."
+                },
+                {
+                    "en": "Equip graduates with theoretical and practical skills as well as technical capabilities to work with institutions and companies that operate within these computing environments. Graduates will also be prepared to deal with companies that face increasing risks and cybercrimes punishable by law, which threaten the information systems and computer networks of such organizations.",
+                    "ar": "إعداد الخريجين لاكتساب المهارات العلمية والنظرية والقدرات التقنية للتعامل مع المؤسسات والشركات التي تستخدم هذه البيئة والتعامل مع الشركات التي تواجه أخطاراً متزايدة وجرائم إلكترونية يعاقب عليها القانون والتي تهدد نظم المعلومات وشبكات الحاسب لهذه المؤسسات والشركات."
+                },
+                {
+                    "en": "Enhance the role of Menoufia University as a regional institution with a historic role in providing professional and public services to communities throughout the country.",
+                    "ar": "تعزيز دور جامعة المنوفية الأهلية كمؤسسة إقليمية لها دور تاريخي يمكنها من تقديم الخدمات المهنية والعامة للمجتمعات في جميع أنحاء الدولة."
+                },
+                {
+                    "en": "Enable students to analyze problems and identify and define appropriate computing requirements to develop effective solutions.",
+                    "ar": "القدرة على تحليل المشكلة، وتحديد وتعريف متطلبات الحوسبة المناسبة لحلها."
+                },
+                {
+                    "en": "Prepare graduates with strong competitiveness in local, regional, and global institutions in these new specialties. Graduates will be capable of using modern technologies to solve complex problems, develop software for these environments, and analyze and evaluate digital evidence obtained from criminal investigations. They will also be able to apply appropriate procedural principles to this evidence.",
+                    "ar": "إعداد خريجين لهم القدرة العالية على المنافسة في المؤسسات المحلية والإقليمية والعالمية في هذه التخصصات الجديدة بحيث يكون لديهم القدرة على استخدام التكنولوجيا الحديثة في حل المشاكل المعقدة وتطوير برمجيات للعمل في هذه البيئة ولديهم القدرة على تحليل وتقدير الأدلة الرقمية (وتفسيرات تلك الأدلة) التي تم الحصول عليها من التحقيقات الجنائية في مجال الحاسب وتطبيق المبادئ الإجرائية المناسبة على تلك الأدلة."
+                },
+                {
+                    "en": "Build students' capacity for forensic analysis of cyber incidents and assist in the restoration of operational processes.",
+                    "ar": "القدرة علي التحليل الشرعي للحوادث السيبرانية والمساعدة في استعادة العمليات."
+                },
+                {
+                    "en": "Prepare highly skilled and specialized cadres in the collection, discovery, and analysis of digital forensic evidence, serving criminal investigation and national security. This enables support for investigative authorities and law enforcement agencies in achieving justice.",
+                    "ar": "إعداد كوادر متخصصة وذات كفاءة عالية في جمع واكتشاف وتحليل الأدلة الجنائية الرقمية بما يخدم البحث الجنائي والأمن القومي ويساعد جهات التحقيق ومؤسسات إنفاذ القانون في تحقيق العدالة."
+                },
+                {
+                    "en": "Offer a high-quality program that emphasizes self-learning and creative thinking, with the application of performance evaluation and quality assurance systems.",
+                    "ar": "تقديم برنامج عالي الجودة يعتمد على التعليم الذاتي والتفكير الإبداعي مع تطبيق نظم تقييم الأداء وضمان الجودة."
+                },
+                {
+                    "en": "Provide a program based on the globally recognized credit-hour system, enabling students to study at their own pace according to their abilities, interests, and inclinations.",
+                    "ar": "تقديم برنامج يعتمد على نظام الساعات المعتمدة المعروف عالمياً الذي يتيح للطلاب الدراسة حسب قدراتهم وميولهم واهتماماتهم."
+                },
+                {
+                    "en": "Provide students with extensive opportunities for practical and laboratory training that aligns with labor market demands across all state institutions.",
+                    "ar": "توفير مساحة أكبر للطلاب للتدريبات العملية والمعملية التي تواكب متطلبات العمل في جميع مؤسسات الدولة."
+                },
+                {
+                    "en": "Highlight and empower academically distinguished students to achieve their scientific aspirations and prepare graduates who are aware of the importance of lifelong learning as a means to advance in their professional careers.",
+                    "ar": "إبراز وتمكين الطلاب المميزين علمياً من تحقيق طموحاتهم العلمية، وإعداد خريجين مدركين لأهمية التعلم مدى الحياة للتقدم في حياتهم المهنية."
                 }
             ]
         },
@@ -82,13 +122,93 @@
                 "ar": "المسار الوظيفي وفرص العمل"
             },
             "title": {
-                "en": "The Medicine and Surgery Program opens up a wide range of career opportunities in healthcare, including clinical practice, research, and healthcare management. Graduates can pursue various specializations based on their interests and skills.",
-                "ar": "يمنح برنامج الطب والجراحة للخريجين فرصًا واسعة في مجال الرعاية الصحية، سواءً في الممارسة السريرية أو البحث العلمي أو الإدارة الصحية. يمكن للخريجين اختيار تخصصات متعددة بناءً على اهتماماتهم ومهاراتهم."
+                "en": "",
+                "ar": ""
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Cloud Computing Career Opportunities: Graduates of the Cloud Computing track have access to diverse job opportunities. They can work in designing, developing, operating, building, and protecting cloud infrastructure and applications in various fields. The shift towards cloud-based solutions supports the country's pursuit of sustainable development goals under Vision 2030, which has increased demand for specialized engineers in this field.",
+                    "ar": "فرص عمل خريج هندسة الحاسوب مسار الحوسبة السحابية: تتنوع فرص العمل لخريجي هذا البرنامج من خلال العمل على تصميم وتطوير وتشغيل وبناء وحماية السحابة وتطبيقاتها في كافة المجالات، وخاصة مع الاعتماد على التكنولوجيا في دعم تحقيق أهداف التنمية المستدامة وبما يتفق مع رؤية 2030 مما يستدعي الحاجة إلى مهندسين متخصصين في هذا المجال."
+                },
+                {
+                    "en": "Cloud Services Engineer",
+                    "ar": "مهندس خدمات سحابية"
+                },
+                {
+                    "en": "Cloud Software Developer",
+                    "ar": "مطور برمجيات السحابة"
+                },
+                {
+                    "en": "DevOps Specialist",
+                    "ar": "مختص عمليات تطوير"
+                },
+                {
+                    "en": "Cloud Services Manager",
+                    "ar": "مدير خدمات السحابة"
+                },
+                {
+                    "en": "Cloud Infrastructure Architect",
+                    "ar": "خبير بنية الخدمات السحابية"
+                },
+                {
+                    "en": "Cloud Database Administrator",
+                    "ar": "مدير قواعد بيانات السحابة"
+                },
+                {
+                    "en": "Cloud Security Manager",
+                    "ar": "مدير أمن السحابة"
+                },
+                {
+                    "en": "High-Performance Computing (HPC) Career Opportunities: Graduates of the HPC track can work in areas related to the development of software for high-performance devices. Their skills enable them to protect software in these environments and develop and use services available within this field. Many companies are shifting to HPC due to its cost-saving potential and its ability to solve complex problems at extraordinary speeds.",
+                    "ar": "فرص عمل خريج هندسة الحاسوب مسار الحوسبة عالية الكفاءة: تتنوع فرص العمل لخريجي هذا البرنامج من خلال تطوير برمجيات للعمل على الأجهزة عالية الكفاءة، وكيفية حماية البرمجيات في هذه البيئة وتطوير واستخدام الخدمات المتاحة بها، وذلك لما توفره من حلول فعالة للمشاكل المعقدة وتقليل التكاليف مع سرعة فائقة في معالجة البيانات."
+                },
+                {
+                    "en": "High-Performance Computing (HPC) Engineer",
+                    "ar": "مهندس حوسبة عالية الكفاءة"
+                },
+                {
+                    "en": "Data Analyst and Performance Engineer",
+                    "ar": "محلل بيانات ومهندس أداء"
+                },
+                {
+                    "en": "System Performance Specialist",
+                    "ar": "متخصص أداء الأنظمة"
+                },
+                {
+                    "en": "Software Developer for Distributed Systems",
+                    "ar": "مطور برمجيات للأنظمة الموزعة"
+                },
+                {
+                    "en": "Cloud Architect for HPC Solutions",
+                    "ar": "مهندس بنية سحابية لحلول الحوسبة عالية الكفاءة"
+                },
+                {
+                    "en": "Cybersecurity Career Opportunities: Graduates are equipped with skills in programming, computer science, information security, and network security. They are able to work with information security systems and cybercrime investigations and are highly sought after in modern technological sectors.",
+                    "ar": "فرص عمل خريج هندسة الحاسوب مسار الأمن السيبراني: خريج هذا البرنامج يمتلك مهارات في البرمجة وعلوم الحاسب وأمن المعلومات والشبكات وجمع وتحليل الأدلة الجنائية الرقمية، ويؤهله ذلك للعمل في مجالات أمن المعلومات والجرائم الإلكترونية الحديثة."
+                },
+                {
+                    "en": "Network and Information Security Engineer (Network Security Consultant)",
+                    "ar": "مهندس أمن الشبكات والمعلومات (مستشار في أمن الشبكات)"
+                },
+                {
+                    "en": "Server Operating System Security Specialist",
+                    "ar": "متخصص في تأمين أنظمة تشغيل الخوادم"
+                },
+                {
+                    "en": "Software Security Specialist",
+                    "ar": "متخصص في تأمين البرمجيات"
+                },
+                {
+                    "en": "Electronic Content Protection Specialist",
+                    "ar": "متخصص في حماية المحتوى الإلكتروني"
+                },
+                {
+                    "en": "Data Security and Retrieval Specialist",
+                    "ar": "متخصص في تأمين وحفظ واسترجاع البيانات"
+                },
+                {
+                    "en": "Digital Forensics Investigator",
+                    "ar": "محقق أدلة جنائية حاسوبية أو رقمية"
                 }
             ]
         }
@@ -100,40 +220,6 @@
         "/images/f3.jpg",
         "/images/f4.jpg",
         "/images/f5.jpg"
-    ],
-    "facultyDoctors": [
-        {
-            "name": "Samanta Smith",
-            "role": {
-                "en": "Head manager",
-                "ar": "المدير الرئيسي"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Lucy Albea",
-            "role": {
-                "en": "Investor",
-                "ar": "مستثمر"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        }
     ],
     "facultyLevels": [
         {
@@ -152,38 +238,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Orientation & Preparation to Medical School",
-                                "ar": "أسبوع تعريفي و تقديمي لبرنامج الطب"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Foundation 1",
-                                "ar": "موديول تأسيسي 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Foundation 2",
-                                "ar": "موديول تأسيسي 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Medical Terminology",
-                                "ar": "مهارات التقديم"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Quality Orientation",
-                                "ar": "مدخل الجودة والاعتماد في مؤسسات التعليم العالي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 1",
-                                "ar": "مادة اختيارية 1"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -197,32 +259,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Musculoskeletal System",
-                                "ar": "الجهاز العضلي الهيكلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Blood and Lymph",
-                                "ar": "الدم و الجهاز الليمفاوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Communication Skills and Medical Professionalism",
-                                "ar": "مهارات التواصل والاحترافية الطبية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Issues",
-                                "ar": "القضايا المجتمعية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 2",
-                                "ar": "مادة اختيارية 2"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -245,32 +289,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Respiratory System",
-                                "ar": "الجهاز التنفسي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Cardiovascular System",
-                                "ar": "الجهاز الدوري"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 1",
-                                "ar": "المهارات الإكلينيكية الأساسية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Psychology",
-                                "ar": "علم النفس"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 3",
-                                "ar": "مادة اختيارية 3"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -284,32 +310,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Gastrointestinal System",
-                                "ar": "الجهاز الهضمي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "CNS & Special Senses",
-                                "ar": "الجهاز العصبي المركزي و الحواس الخاصة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 2",
-                                "ar": "المهارات الإكلينيكية الأساسية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Life Support",
-                                "ar": "دعم الحياة الأساسي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 4",
-                                "ar": "مادة اختيارية 4"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -332,38 +340,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Genitourinary System",
-                                "ar": "الجهاز البولي التناسلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Endocrine System",
-                                "ar": "جهاز الغدد الصماء"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Medicine",
-                                "ar": "طب المجتمع"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 3",
-                                "ar": "المهارات الإكلينيكية الأساسية 3"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 1",
-                                "ar": "اللغة الألمانية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 5",
-                                "ar": "مادة اختيارية 5"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -377,38 +361,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Forensic and Toxicology",
-                                "ar": "الطب الشرعي و السموم"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "ENT",
-                                "ar": "الأنف و الأذن و الحنجرة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ophthalmology",
-                                "ar": "طب و جراحة العيون"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Evidence Based Medicine, Research & Biostatistics",
-                                "ar": "الطب المبني على الدليل والبحث العلمي والإحصاء الحيوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 2",
-                                "ar": "اللغة الألمانة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 6",
-                                "ar": "مادة اختيارية 6"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -431,26 +391,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine I",
-                                "ar": "باطنة عامة 1"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery I",
-                                "ar": "جراحة عامة 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 1",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Patient Safety & Infection Control",
-                                "ar": "سلامة المريض و مكافحة العدوى"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -464,113 +412,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine II",
-                                "ar": "باطنة عامة 2"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery II",
-                                "ar": "جراحة عامة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 2",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ethical and Legal Issues in Medical Practice",
-                                "ar": "القضايا الأخلاقية والقانونية في الممارسة الطبية"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": {
-                "en": "Level 5",
-                "ar": "المستوى الخامس"
-            },
-            "semesters": [
-                {
-                    "id": "5-1",
-                    "name": {
-                        "en": "Ninth Semester",
-                        "ar": "الفصل الدراسي التاسع"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module I",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Pediatrics and Neonatology",
-                                "ar": "طب الأطفال و حديثي الولادة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Child Health",
-                                "ar": "صحة الطفل"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Clinical Nutrition",
-                                "ar": "تغذية علاجية"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "5-2",
-                    "name": {
-                        "en": "Tenth Semester",
-                        "ar": "الفصل الدراسي العاشر"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module II",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Obstetrics and Gynecology",
-                                "ar": "أمراض النساء والتوليد"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Women Health",
-                                "ar": "صحة المرأة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Field Training",
-                                "ar": "تدريب ميداني"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]

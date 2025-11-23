@@ -10,23 +10,23 @@
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/engineer",
                 "label": {
-                    "en": "Faculty of Computers and Artificial Intelligence",
-                    "ar": " كلية الحاسبات والذكاء الاصطناعي"
+                    "en": "Faculty of Engineering",
+                    "ar": "كلية الهندسة"
                 }
             }
         ],
-        "img": "/images/ai/banner.jfif"
+        "img": "/images/engineer/banner2.jpg"
     },
     "overview": {
         "title": {
-            "en": "Overview The Faculty of Computers and Artificial Intelligence ",
-            "ar": "نبذة عن  كلية الحاسبات والذكاء الاصطناعي"
+            "en": "Overview of the Faculty Engineering ",
+            "ar": "نظرة عامة على كلية الهندسة "
         },
         "para1": {
-            "en": "The Faculty of Computers and Artificial Intelligence is a specialized academic institution aimed at preparing highly skilled scientific and technical professionals capable of leading digital and technological advancements. The faculty combines cutting-edge disciplines such as artificial intelligence, the Internet of Things, big data analytics, and Intelligent Systems, positioning itself as a leader in supporting the Fourth Industrial Revolution.",
-            "ar": "كلية الحاسبات والذكاء الاصطناعي هي إحدى الكليات المتخصصة التي تهدف إلى إعداد كوادر علمية وتقنية قادرة على قيادة التطور الرقمي والتكنولوجي. تجمع الكلية بين التخصصات الحديثة مثل الذكاء الاصطناعي، إنترنت الأشياء، تحليل البيانات الضخمة، والأنظمة الذكية، مما يجعلها واحدة من المؤسسات التعليمية الرائدة في دعم الثورة الصناعية الرابعة. "
+            "en": "The Faculty of Engineering is one of the faculties at Menoufia National University, established by Presidential Decree No. 423 of 2022, to achieve excellence in engineering education, scientific research, and community service in engineering sciences at the local, regional, and international levels. Academic Programs of the Faculty  ( Architectural Engineering - Smart Cities Planning and Construction Program.- Mechanical Engineering - Materials Engineering and Manufacturing Management Program.- Electrical Engineering - Computer Engineering Program (with three sub-tracks: Cloud Computing, High-Performance Computing, and Cybersecurity).",
+            "ar": "    كلية الهندسة هى إحدى كليات جامعة المنوفية الأهلية والتى تأسست بقرار رئيس الجمهورية رقم 423 لسنة 2022 لتحقيق التميز في التعليم الهندسي والبحث العلمي وخدمة المجتمع فى العلوم الهندسية على المستوى المحلى والإقليمى والدولى. البرامج العلمية بالكلي) الهندسة المعمارية - برنامج هندسة تخطيط وتشييد المدن الذكية-     الهندسة الميكانيكية - برنامج هندسة المواد وإدارة التصنيع-      الهندسة الكهربية - برنامج هندسة الحاسوب (في ٣ مسارات فرعية: الحوسبة السحابية - الحوسبة عالية الكفاءة - الأمن السيبراني.)("
         },
         "para2": {
             "en": "",
@@ -57,7 +57,7 @@
         "/images/f4.jpg",
         "/images/f5.jpg"
     ],
-    "overviewImage": "/images/medicine/overview.jpg",
+    "overviewImage": "/images/engineer/banner.jpg",
     "facultyDoctors": [
         {
             "name": "Samanta Smith",
@@ -95,29 +95,29 @@
     "programData": [
         {
             "id": 1,
-            "img": "/images/ai/dsprogram2.jpg",
-            "path": "/faculties/ai/program/ds",
+            "img": "/images/engineer/smartcities.jpg",
+            "path": "/faculties/engineer/program/SmartCities",
             "title": {
-                "en": "Data Sciences Program",
-                "ar": "برنامج علوم البيانات"
+                "en": "Smart Cities Planning and Construction Program.",
+                "ar": "برنامج  هندسة تخطيط وتشييد المدن الذكية"
             }
         },
         {
             "id": 2,
-            "img": "/images/ai/mlprogram.jpg",
-            "path": "/faculties/ai/program/ml",
+            "img": "/images/engineer/materialsengineering.jpg",
+            "path": "/faculties/engineer/program/MaterialsEngineering",
             "title": {
-                "en": "Machine Intelligence Program",
-                "ar": "برنامج ذكاء الآلة"
+                "en": "Materials Engineering and Manufacturing Management Program",
+                "ar": "برنامج هندسة المواد وإدارة التصنيع"
             }
         },
         {
             "id": 3,
-            "img": "/images/ai/iotprogram.jpg",
-            "path": "/faculties/ai/program/iot",
+            "img": "/images/engineer/computerengineering.jpg",
+            "path": "/faculties/engineer/program/ComputerEngineering",
             "title": {
-                "en": "Internet of Things and Big Data Analytics Program",
-                "ar": "برنامج انترنت الأشياء وتحليل البيانات الضخمة"
+                "en": "Computer Engineering Program",
+                "ar": " برنامج هندسة الحاسوب"
             }
         }
     ]

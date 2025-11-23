@@ -10,30 +10,30 @@
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/engineer",
                 "label": {
-                    "en": "home",
-                    "ar": "الرئيسية"
+                    "en": "Faculty of Engineering",
+                    "ar": "كلية الهندسة"
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/engineer/program/SmartCities",
                 "label": {
-                    "en": "Faculty of Medicine",
-                    "ar": " كلية الطب والجراحة"
+                    "en": "Smart Cities Planning and Construction Program",
+                    "ar": "برنامج تخطيط وتشييد المدن الذكية "
                 }
             }
         ],
-        "img": "/images/ai/banner.jfif"
+        "img": "/images/engineer/banner2.jpg"
     },
     "overview": {
         "title": {
-            "en": "Overview of the Data Sciences Program ",
-            "ar": "نبذه عن برنامج علوم البيانات"
+            "en": "Smart Cities Planning and Construction Program",
+            "ar": "برنامج تخطيط وتشييد المدن الذكية   "
         },
         "para1": {
-            "en": "",
-            "ar": ""
+            "en": "In light of the accelerated urban development that the country is currently witnessing, particularly the construction of fourth-generation cities, which are characterized as smart cities, there is a need to graduate engineers, architects, and planners capable of planning, designing, executing, and managing such cities. This aligns with the current global directives towards sustainable urban development and Egypt's Vision 2030, which aims to meet the national demand for transforming Egyptian cities into smart cities.​",
+            "ar": " في إطار التنمية الحضرية المضطردة التي تشهدها الدولة حالياً وخاصة تشييد مدن الجيل الرابع، التي من أهم سماتها أن تكون مدن ذكية، يجب العمل على تخريج مهندسين ومعماريين ومخططين لديهم القدرة على التعامل مع تخطيط وتصميم وتنفيذ وإدارة هذه النوعية من المدن، بما يتفق مع التوجيهات العالمية الحالية نحو التنمية العمرانية المستدامة، وبما يتفق مع إطار 'رؤية 2030' التي اقرتها جمهورية مصر العربية، وتلبية الطلب الوطني لتحويل المدن المصرية إلى ذكية. "
         },
         "para2": {
             "en": " ",
@@ -48,15 +48,15 @@
             "ar": " "
         },
         "visionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "Smart cities are an emerging multidisciplinary approach. Accordingly, the vision of the program is to establish a leading academic program that excels in teaching, scientific research, community service, and the development of the urban environment. The program aims to educate students in urban and regional planning as well as civil engineering to construct smart Egyptian cities. It also aims to create and disseminate smart systems through which natural resources can be managed efficiently, achieve sustainability, and raise awareness of the multidisciplinary nature of urban economics, theories of urban development and planning, and the urban and demographic environment.",
+            "ar": "المدن الذكية هي نهج ناشئ متعدد التخصصات وبناء على ذلك تتمثل الرؤية في إنشاء برنامج أكاديمي رائد يتمتع بالتميز في التدريس والبحث العلمي وخدمة المجتمع وتنمية البيئة الحضرية. يهدف البرنامج إلى تعليم التخطيط العمراني والحضري والهندسة المدنية وذلك لتشييد مدن مصرية ذكية ولإنشاء ونشر أنظمة ذكية يمكن من خلالها إدارة الموارد الطبيعية وتحقيق الاستدامة وتنمية الوعي بالطبيعة متعددة التخصصات للاقتصاد الحضري، ونظريات تطوير وتخطيط المدن، والبيئة الحضرية والديموغرافية."
         },
         "missionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "The mission of the program is to prepare the next generation of engineers and urban planners by providing them with essential and specialized knowledge necessary for effectively managing both built and natural environments. The program is committed to conducting innovative research aimed at enhancing overall quality of life and providing community planning services. Additionally, it seeks to promote innovation, creativity, employability, knowledge exchange, and interdisciplinary learning",
+            "ar": "تثقيف الجيل القادم من المهندسين والمخططين الحضريين وحصولهم على المعرفة الأساسية والمتخصصة ليتمكنوا من إجادة الإشراف على البيئات المبنية والطبيعية، وإجراء البحوث المبتكرة التي تعمل على تحسين نوعية الحياة للجميع، وتقديم خدمات التخطيط المجتمعي. كما سيعزز لديهم الابتكار والإبداع وإمكانية التوظيف وتبادل المعرفة والتعلم متعدد"
         }
     },
-    "overviewImage": "/images/medicine/overview.jpg",
+    "overviewImage": "/images/engineer/banner.jpg",
     "facultyGoals": [
         {
             "id": "1",
@@ -65,13 +65,53 @@
                 "ar": "أهداف البرنامج"
             },
             "title": {
-                "en": "",
-                "ar": ""
+                "en": "The Smart Cities Planning and Construction Program aims to:",
+                "ar": " يهدف برنامج تخطيط وتشييد المدن الذكية إلى:"
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Educate engineers and urban planners on the use of innovative technologies and planning methods for designing, implementing, and managing smart cities.",
+                    "ar": "تثقيف المهندسين والمخططين الحضريين حول استخدام التقنيات المبتكرة وأساليب التخطيط لتصميم وتنفيذ وإدارة المدن الذكية."
+                },
+                {
+                    "en": "Promote sustainability and resilience in both the built and natural environments.",
+                    "ar": "تعزيز الاستدامة والمرونة في البيئات المبنية والطبيعية."
+                },
+                {
+                    "en": "Enhance the university's role as a regional institution capable of providing professional and public services to communities across the country.",
+                    "ar": "تعزيز دور الجامعة كمؤسسة إقليمية لها دور يمكنها من تقديم الخدمات المهنية والعامة للمجتمعات في جميع أنحاء الدولة."
+                },
+                {
+                    "en": "Prepare graduates capable of applying engineering sciences and methods in practical life, as well as critical thinking and the use of technical language to improve their communication skills.",
+                    "ar": "إعداد خريج قادر علي تطبيق العلوم الهندسية وأساليبها في الحياة العملية إضافة إلى التفكير النقدي واستخدام اللغة التقنية لتحسين مهاراته في التواصل."
+                },
+                {
+                    "en": "Prepare graduates to apply solutions provided by the Fourth Industrial Revolution (4IR), along with concepts and sciences of urban environmental management.",
+                    "ar": "إعداد خريج قادر على تطبيق الحلول التي توفرها الثورة الصناعية الرابعة المعروفة باسم 4IR، بالإضافة إلى مفاهيم وعلوم الإدارة الحضرية البيئية."
+                },
+                {
+                    "en": "Prepare graduates to select appropriate information and communication technologies (ICT) to address urban environmental challenges.",
+                    "ar": "إعداد خريج قادر علي اختيار تكنولوجيا المعلومات والاتصالات المناسبة لمواجهة التحديات البيئية الحضرية."
+                },
+                {
+                    "en": "Equip graduates to compete in the labor market under the new and changing conditions of the international community.",
+                    "ar": "إعداد خريج قادر علي المنافسة في سوق العمل في ظل الظروف الجديدة والمتغيرة للمجتمع الدولي."
+                },
+                {
+                    "en": "Prepare graduates to learn and work with new technologies by mastering appropriate research methods and problem-solving techniques.",
+                    "ar": "إعداد خريج قادر على تعلم التكنولوجيات الجديدة والعمل بها عن طريق التعرف على طريقة البحث المناسبة وتقنيات حل المشكلات."
+                },
+                {
+                    "en": "Engage internally and externally with the latest developments in engineering studies, research, and innovations by participating in international and local conferences, workshops, and seminars.",
+                    "ar": "التفاعل داخلياً وخارجياً مع أحدث ما وصلت إليه الدراسات والبحوث والإبتكارات الهندسية من خلال المشاركة فى المؤتمرات الدولية والمحلية وعقد ورش العمل والندوات والمؤتمرات."
+                },
+                {
+                    "en": "Contribute to driving production forward using modern techniques and methodologies at the university and its units, as well as at the national and regional levels, by exchanging expertise and establishing contracts and agreements with local and international scientific and practical institutions.",
+                    "ar": "المساهمة فى دفع عجلة الإنتاج بأساليب وتقنيات حديثة على مستوى الجامعة ووحداتها وكذلك على مستوى الدولة والمنطقة من خلال تبادل الخبرات وإبرام العقود والإتفاقيات مع الهيئات والمؤسسات العلمية والعملية المحلية والدولية."
+                },
+                {
+                    "en": "Develop and implement quality assurance systems, including (but not limited to) codes of practice, standards, health and safety requirements, and environmental concerns.",
+                    "ar": "تطوير وتنفيذ أنظمة ضمان الجودة، بما في ذلك (على سبيل المثال لا الحصر) مدونات الممارسات والمعايير، ومتطلبات الصحة والسلامة، والمخاوف البيئية."
                 }
             ]
         },
@@ -87,8 +127,8 @@
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Graduates of this program have a wide range of job opportunities, as they can engage in the planning, design, implementation, and management of smart cities. This is particularly relevant, considering all new cities currently under construction and those planned for the future. ",
+                    "ar": "  تتنوع فرص العمل لخريجي هذا البرنامج، من خلال تخطيط وتصميم وتنفيذ وإدارة هذه النوعية من المدن، وخاصة أن جميع المدن الجديدة التي يتم تنفيذها حاليًا ومستقبلًا ستكون مدن ذكية، مما يستدعي الحاجة إلى مهندسين متخصصين في هذا المجال."
                 }
             ]
         }
@@ -100,40 +140,6 @@
         "/images/f3.jpg",
         "/images/f4.jpg",
         "/images/f5.jpg"
-    ],
-    "facultyDoctors": [
-        {
-            "name": "Samanta Smith",
-            "role": {
-                "en": "Head manager",
-                "ar": "المدير الرئيسي"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Lucy Albea",
-            "role": {
-                "en": "Investor",
-                "ar": "مستثمر"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        }
     ],
     "facultyLevels": [
         {
@@ -152,38 +158,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Orientation & Preparation to Medical School",
-                                "ar": "أسبوع تعريفي و تقديمي لبرنامج الطب"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Foundation 1",
-                                "ar": "موديول تأسيسي 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Foundation 2",
-                                "ar": "موديول تأسيسي 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Medical Terminology",
-                                "ar": "مهارات التقديم"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Quality Orientation",
-                                "ar": "مدخل الجودة والاعتماد في مؤسسات التعليم العالي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 1",
-                                "ar": "مادة اختيارية 1"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -197,32 +179,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Musculoskeletal System",
-                                "ar": "الجهاز العضلي الهيكلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Blood and Lymph",
-                                "ar": "الدم و الجهاز الليمفاوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Communication Skills and Medical Professionalism",
-                                "ar": "مهارات التواصل والاحترافية الطبية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Issues",
-                                "ar": "القضايا المجتمعية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 2",
-                                "ar": "مادة اختيارية 2"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -245,32 +209,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Respiratory System",
-                                "ar": "الجهاز التنفسي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Cardiovascular System",
-                                "ar": "الجهاز الدوري"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 1",
-                                "ar": "المهارات الإكلينيكية الأساسية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Psychology",
-                                "ar": "علم النفس"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 3",
-                                "ar": "مادة اختيارية 3"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -284,32 +230,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Gastrointestinal System",
-                                "ar": "الجهاز الهضمي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "CNS & Special Senses",
-                                "ar": "الجهاز العصبي المركزي و الحواس الخاصة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 2",
-                                "ar": "المهارات الإكلينيكية الأساسية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Life Support",
-                                "ar": "دعم الحياة الأساسي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 4",
-                                "ar": "مادة اختيارية 4"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -332,38 +260,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Genitourinary System",
-                                "ar": "الجهاز البولي التناسلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Endocrine System",
-                                "ar": "جهاز الغدد الصماء"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Medicine",
-                                "ar": "طب المجتمع"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 3",
-                                "ar": "المهارات الإكلينيكية الأساسية 3"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 1",
-                                "ar": "اللغة الألمانية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 5",
-                                "ar": "مادة اختيارية 5"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -377,38 +281,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Forensic and Toxicology",
-                                "ar": "الطب الشرعي و السموم"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "ENT",
-                                "ar": "الأنف و الأذن و الحنجرة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ophthalmology",
-                                "ar": "طب و جراحة العيون"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Evidence Based Medicine, Research & Biostatistics",
-                                "ar": "الطب المبني على الدليل والبحث العلمي والإحصاء الحيوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 2",
-                                "ar": "اللغة الألمانة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 6",
-                                "ar": "مادة اختيارية 6"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -431,26 +311,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine I",
-                                "ar": "باطنة عامة 1"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery I",
-                                "ar": "جراحة عامة 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 1",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Patient Safety & Infection Control",
-                                "ar": "سلامة المريض و مكافحة العدوى"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -464,113 +332,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine II",
-                                "ar": "باطنة عامة 2"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery II",
-                                "ar": "جراحة عامة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 2",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ethical and Legal Issues in Medical Practice",
-                                "ar": "القضايا الأخلاقية والقانونية في الممارسة الطبية"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": {
-                "en": "Level 5",
-                "ar": "المستوى الخامس"
-            },
-            "semesters": [
-                {
-                    "id": "5-1",
-                    "name": {
-                        "en": "Ninth Semester",
-                        "ar": "الفصل الدراسي التاسع"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module I",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Pediatrics and Neonatology",
-                                "ar": "طب الأطفال و حديثي الولادة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Child Health",
-                                "ar": "صحة الطفل"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Clinical Nutrition",
-                                "ar": "تغذية علاجية"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "5-2",
-                    "name": {
-                        "en": "Tenth Semester",
-                        "ar": "الفصل الدراسي العاشر"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module II",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Obstetrics and Gynecology",
-                                "ar": "أمراض النساء والتوليد"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Women Health",
-                                "ar": "صحة المرأة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Field Training",
-                                "ar": "تدريب ميداني"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]

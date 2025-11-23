@@ -10,34 +10,34 @@
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/engineer",
                 "label": {
-                    "en": "home",
-                    "ar": "الرئيسية"
+                    "en": "Faculty of Engineering",
+                    "ar": "كلية الهندسة"
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/engineer/program/iot",
                 "label": {
-                    "en": "Faculty of Medicine",
-                    "ar": " كلية الطب والجراحة"
+                    "en": " Materials Engineering and Manufacturing Management Program   ",
+                    "ar": " برنامج هندسة المواد وإدارة التصنيع  "
                 }
             }
         ],
-        "img": "/images/ai/banner.jfif"
+        "img": "/images/engineer/banner2.jpg"
     },
     "overview": {
         "title": {
-            "en": "Overview of the Data Sciences Program ",
-            "ar": "نبذه عن برنامج علوم البيانات"
+            "en": "Materials Engineering and Manufacturing Management Program              ",
+            "ar": "برنامج هندسة المواد وإدارة التصنيع  "
         },
         "para1": {
-            "en": "",
-            "ar": ""
+            "en": "In light of the societal and civilizational developments taking place worldwide, international communities strive to keep pace with progress in all aspects of life. This is achieved by developing modern living means that require the innovation of advanced technological tools and industrial methods. These developments aim to align with global trends and the Fourth Industrial Revolution witnessed by the modern world.",
+            "ar": "في ظل التطورات المجتمعية والحضارية التي يشهدها العالم، تسعى المجتمعات الدولية إلى مواكبة التقدم في جميع مناحي الحياة، وذلك من خلال تطوير أساليب الحياة العصرية التي تتطلب ابتكار أدوات تكنولوجية وأساليب صناعية متطورة، بما يتماشى مع التوجهات العالمية والثورة الصناعية الرابعة التي يشهدها العالم الحديث."
         },
         "para2": {
-            "en": " ",
-            "ar": " "
+            "en": "Within this context, the role of Materials Engineering and Manufacturing Management emerges to contribute to the innovation of advanced industrial materials and modern manufacturing technologies. This is achieved by utilizing mechatronics and industrial automation technologies, such as CNC (Computer Numerical Control) machines and industrial robots, to keep pace with modern developments, promote national industry, and establish a strong foundation to support the national economy for a better future.",
+            "ar": "في هذا السياق، يبرز دور هندسة المواد وإدارة التصنيع للمساهمة في ابتكار مواد صناعية متطورة وتقنيات تصنيع حديثة. ويتحقق ذلك من خلال توظيف تقنيات الميكاترونيك والأتمتة الصناعية، مثل آلات التحكم الرقمي بالحاسوب (CNC) والروبوتات الصناعية، لمواكبة التطورات الحديثة، والنهوض بالصناعة الوطنية، وإرساء أسس متينة لدعم الاقتصاد الوطني نحو مستقبل أفضل."
         },
         "programTitle": {
             "en": " ",
@@ -48,15 +48,15 @@
             "ar": " "
         },
         "visionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "To graduate mechanical engineers distinguished by their outstanding education in the fields of Materials Engineering, Industrial Automation, and Mechatronics. Graduates of the program will be strong competitors in the labor market, both locally and in the Middle East. The program aspires to produce engineers who excel in solving industrial problems related to mechanical engineering in general, and specifically in the fields of Materials Engineering, Manufacturing Management, and Advanced Mechatronics Systems. Graduates will be able to conduct modern research and will be recognized for their excellence in communication skills.",
+            "ar": "تخريج مهندسي ميكانيكا معروفين بتعليمهم المتميز في مجال هندسة المواد والأتمتة الصناعية والميكاترونيات، و يكون الخريج منافسا قويا في سوق العمل ، سواء محليا أو في الشرق الأوسط. يسعى هذا البرنامج إلى تخريج مهندسين معروفين بقدراتهم في حل المشكلات الصناعية المتعلقة بالهندسة الميكانيكية ، بشكل عام ، وفي مجال هندسة المواد وإدارة التصنيع ونظم الميكاترونيات المتقدمة ، بشكل خاص ، قادرين على إجراء البحوث الحديثة ويشار لهم بالتميز فى مهارات الاتصال."
         },
         "missionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "To supply the business community with graduates who are capable of effectively utilizing scientific and technical knowledge in the fields of Materials Engineering, Manufacturing Management, Mechatronics Systems, and Industrial Automation. The knowledge and skills acquired during their studies enable them to meet society’s need for engineers in this field. Logical thinking, problem-solving, teamwork, and communication skills, which are developed through the program, also support the fulfillment of this mission. The program’s mission is reinforced by providing students with well-designed curricula, hands-on experience, and access to high-quality educational resources.",
+            "ar": "تزويد مجتمع الأعمال بالخريجين القادرين على الاستخدام الفعال للمعرفة العلمية والتقنية في مجال هندسة المواد وإدارة التصنيع ونظم الميكاترونك والأتمتة الصناعية التي اكتسبوها كطلاب للوفاء باحتياجات المجتمع للمهندسين في هذا التخصص. كما ستساهم مهارات التفكير المنطقي وحل المشكلات والعمل الجماعي والتواصل التي تم تطويرها من خلال البرنامج في تحقيق هذا الهدف. يتم دعم رسالة البرنامج من خلال تزويد الطلاب بمناهج مصممة بعناية وخبرة"
         }
     },
-    "overviewImage": "/images/medicine/overview.jpg",
+    "overviewImage": "/images/engineer/banner.jpg",
     "facultyGoals": [
         {
             "id": "1",
@@ -65,13 +65,53 @@
                 "ar": "أهداف البرنامج"
             },
             "title": {
-                "en": "",
-                "ar": ""
+                "en": "The Materials Engineering and Manufacturing Management Program aims to:",
+                "ar": " يهدف برنامج هندسة المواد وادارة التصنيع إلى:"
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Educate and prepare mechanical engineers by utilizing innovative technologies, modern mechatronics techniques, and planning methods to design, implement, and manage advanced industrial systems.",
+                    "ar": "تثقيف وإعداد مهندسي الميكانيكا من خلال استخدام التقنيات المبتكرة وتقنيات الميكاترونك الحديثة وأساليب التخطيط لتصميم وتنفيذ وإدارة النظم الصناعية المتطورة."
+                },
+                {
+                    "en": "Promote sustainability and resilience in industrial environments.",
+                    "ar": "تعزيز الاستدامة والمرونة في البيئات الصناعية."
+                },
+                {
+                    "en": "Enhance the university's role as a regional institution capable of providing professional and public services to communities across the country.",
+                    "ar": "تعزيز دور الجامعة كمؤسسة إقليمية لها دور يمكنها من تقديم الخدمات المهنية والعامة للمجتمعات في جميع أنحاء الدولة."
+                },
+                {
+                    "en": "Prepare graduates capable of applying engineering sciences and methods in practical life, as well as critical thinking and the use of technical language to improve their communication skills.",
+                    "ar": "إعداد خريج قادر علي تطبيق العلوم الهندسية وأساليبها في الحياة العملية إضافة إلى التفكير النقدي واستخدام اللغة التقنية لتحسين مهاراته في التواصل."
+                },
+                {
+                    "en": "Prepare graduates to apply solutions provided by the Fourth Industrial Revolution (4IR), along with concepts and sciences of urban environmental management.",
+                    "ar": "إعداد خريج قادر على تطبيق الحلول التي توفرها الثورة الصناعية الرابعة المعروفة باسم 4IR، بالإضافة إلى مفاهيم وعلوم الإدارة الحضرية البيئية."
+                },
+                {
+                    "en": "Prepare graduates to select appropriate information and communication technologies (ICT) to address urban environmental challenges.",
+                    "ar": "إعداد خريج قادر علي اختيار تكنولوجيا المعلومات والاتصالات المناسبة لمواجهة التحديات البيئية الحضرية."
+                },
+                {
+                    "en": "Equip graduates to compete in the labor market under the new and changing conditions of the international community.",
+                    "ar": "إعداد خريج قادر علي المنافسة في سوق العمل في ظل الظروف الجديدة والمتغيرة للمجتمع الدولي."
+                },
+                {
+                    "en": "Prepare graduates to learn and work with new technologies by mastering appropriate research methods and problem-solving techniques.",
+                    "ar": "إعداد خريج قادر على تعلم التكنولوجيا الجديدة والعمل بها عن طريق التعرف على طريقة البحث المناسبة وتقنيات حل المشكلات."
+                },
+                {
+                    "en": "Engage internally and externally with the latest developments in engineering studies, research, and innovations by participating in international and local conferences, workshops, and seminars.",
+                    "ar": "التفاعل داخلياً وخارجياً مع أحدث ما وصلت إليه الدراسات والبحوث والإبتكارات الهندسية من خلال المشاركة فى المؤتمرات الدولية والمحلية وعقد ورش العمل والندوات والمؤتمرات."
+                },
+                {
+                    "en": "Contribute to driving production forward using modern techniques and methodologies at the university and its units, as well as at the national and regional levels, by exchanging expertise and establishing contracts and agreements with local and international scientific and practical institutions.",
+                    "ar": "المساهمة فى دفع عجلة الإنتاج بأساليب وتقنيات حديثة على مستوى الجامعة ووحداتها وكذلك على مستوى الدولة والمنطقة من خلال تبادل الخبرات وإبرام العقود والإتفاقيات مع الهيئات والمؤسسات العلمية والعملية المحلية والدولية."
+                },
+                {
+                    "en": "Develop and implement quality assurance systems, including (but not limited to) codes of practice, standards, health and safety requirements, and environmental concerns.",
+                    "ar": "تطوير وتنفيذ أنظمة ضمان الجودة، بما في ذلك (على سبيل المثال لا الحصر) مدونات الممارسات والمعايير، ومتطلبات الصحة والسلامة، والمخاوف البيئية."
                 }
             ]
         },
@@ -82,13 +122,37 @@
                 "ar": "المسار الوظيفي وفرص العمل"
             },
             "title": {
-                "en": "",
-                "ar": ""
+                "en": "Graduates of this program have access to diverse career opportunities in areas such as:",
+                "ar": "بإمكان خريجي هذا البرنامج الاستفادة من فرص وظيفية متنوعة في مجالات متعددة، مثل:"
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Design, modeling, and manufacturing of products.",
+                    "ar": "تصميم ونمذجة وتصنيع المنتجات."
+                },
+                {
+                    "en": "Industrial operations management and planning, according to the latest advanced industrial technologies and advanced mechatronic systems.",
+                    "ar": "إدارة وتخطيط العمليات الصناعية وفق أحدث التقنيات الصناعية المتقدمة وأنظمة الميكاترونكس الحديثة."
+                },
+                {
+                    "en": "Operation and maintenance of CNC machines and various types of industrial robots.",
+                    "ar": "تشغيل وصيانة ماكينات الـ CNC ومختلف أنواع الروبوتات الصناعية."
+                },
+                {
+                    "en": "Fields related to welding technology, advanced composite materials, and sheet metal works.",
+                    "ar": "المجالات المرتبطة بتكنولوجيا اللحام والمواد المركبة المتقدمة وأعمال تشكيل الصفائح المعدنية."
+                },
+                {
+                    "en": "Automotive industry, including the design and manufacture of automotive components.",
+                    "ar": "صناعة السيارات، بما في ذلك تصميم وتصنيع مكونات المركبات."
+                },
+                {
+                    "en": "Manufacturing of wind turbines and solar panels.",
+                    "ar": "تصنيع توربينات الرياح والألواح الشمسية."
+                },
+                {
+                    "en": "Quality control systems for industrial processes.",
+                    "ar": "أنظمة مراقبة وضبط الجودة للعمليات الصناعية."
                 }
             ]
         }
@@ -100,40 +164,6 @@
         "/images/f3.jpg",
         "/images/f4.jpg",
         "/images/f5.jpg"
-    ],
-    "facultyDoctors": [
-        {
-            "name": "Samanta Smith",
-            "role": {
-                "en": "Head manager",
-                "ar": "المدير الرئيسي"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Lucy Albea",
-            "role": {
-                "en": "Investor",
-                "ar": "مستثمر"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        }
     ],
     "facultyLevels": [
         {
@@ -152,38 +182,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Orientation & Preparation to Medical School",
-                                "ar": "أسبوع تعريفي و تقديمي لبرنامج الطب"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Foundation 1",
-                                "ar": "موديول تأسيسي 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Foundation 2",
-                                "ar": "موديول تأسيسي 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Medical Terminology",
-                                "ar": "مهارات التقديم"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Quality Orientation",
-                                "ar": "مدخل الجودة والاعتماد في مؤسسات التعليم العالي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 1",
-                                "ar": "مادة اختيارية 1"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -197,32 +203,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Musculoskeletal System",
-                                "ar": "الجهاز العضلي الهيكلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Blood and Lymph",
-                                "ar": "الدم و الجهاز الليمفاوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Communication Skills and Medical Professionalism",
-                                "ar": "مهارات التواصل والاحترافية الطبية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Issues",
-                                "ar": "القضايا المجتمعية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 2",
-                                "ar": "مادة اختيارية 2"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -245,32 +233,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Respiratory System",
-                                "ar": "الجهاز التنفسي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Cardiovascular System",
-                                "ar": "الجهاز الدوري"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 1",
-                                "ar": "المهارات الإكلينيكية الأساسية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Psychology",
-                                "ar": "علم النفس"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 3",
-                                "ar": "مادة اختيارية 3"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -284,32 +254,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Gastrointestinal System",
-                                "ar": "الجهاز الهضمي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "CNS & Special Senses",
-                                "ar": "الجهاز العصبي المركزي و الحواس الخاصة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 2",
-                                "ar": "المهارات الإكلينيكية الأساسية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Life Support",
-                                "ar": "دعم الحياة الأساسي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 4",
-                                "ar": "مادة اختيارية 4"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -332,38 +284,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Genitourinary System",
-                                "ar": "الجهاز البولي التناسلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Endocrine System",
-                                "ar": "جهاز الغدد الصماء"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Medicine",
-                                "ar": "طب المجتمع"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 3",
-                                "ar": "المهارات الإكلينيكية الأساسية 3"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 1",
-                                "ar": "اللغة الألمانية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 5",
-                                "ar": "مادة اختيارية 5"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -377,38 +305,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Forensic and Toxicology",
-                                "ar": "الطب الشرعي و السموم"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "ENT",
-                                "ar": "الأنف و الأذن و الحنجرة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ophthalmology",
-                                "ar": "طب و جراحة العيون"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Evidence Based Medicine, Research & Biostatistics",
-                                "ar": "الطب المبني على الدليل والبحث العلمي والإحصاء الحيوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 2",
-                                "ar": "اللغة الألمانة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 6",
-                                "ar": "مادة اختيارية 6"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -431,26 +335,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine I",
-                                "ar": "باطنة عامة 1"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery I",
-                                "ar": "جراحة عامة 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 1",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Patient Safety & Infection Control",
-                                "ar": "سلامة المريض و مكافحة العدوى"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -464,113 +356,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine II",
-                                "ar": "باطنة عامة 2"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery II",
-                                "ar": "جراحة عامة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 2",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ethical and Legal Issues in Medical Practice",
-                                "ar": "القضايا الأخلاقية والقانونية في الممارسة الطبية"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": {
-                "en": "Level 5",
-                "ar": "المستوى الخامس"
-            },
-            "semesters": [
-                {
-                    "id": "5-1",
-                    "name": {
-                        "en": "Ninth Semester",
-                        "ar": "الفصل الدراسي التاسع"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module I",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Pediatrics and Neonatology",
-                                "ar": "طب الأطفال و حديثي الولادة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Child Health",
-                                "ar": "صحة الطفل"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Clinical Nutrition",
-                                "ar": "تغذية علاجية"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "5-2",
-                    "name": {
-                        "en": "Tenth Semester",
-                        "ar": "الفصل الدراسي العاشر"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module II",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Obstetrics and Gynecology",
-                                "ar": "أمراض النساء والتوليد"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Women Health",
-                                "ar": "صحة المرأة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Field Training",
-                                "ar": "تدريب ميداني"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
