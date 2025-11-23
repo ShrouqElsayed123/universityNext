@@ -52,19 +52,31 @@ export default function Navbar() {
     }, 600);
   };
 
-  const dropdownVariants = { hidden: { opacity: 0, y: -5 }, visible: { opacity: 1, y: 0 }, exit: { opacity: 0, y: -5 } };
+  const dropdownVariants = {
+    hidden: { opacity: 0, y: -10, scale: 0.95 },
+    visible: {
+      opacity: 1,
+      y: 0,
+      scale: 1,
+      transition: { duration: 0.15, ease: "easeOut" }
+    },
+    exit: {
+      opacity: 0,
+      y: -8,
+      scale: 0.95,
+      transition: { duration: 0.1 }
+    }
+  };
 
   return (
     <div className="w-full border-b max-w-screen-xl mx-auto">
       <nav className="bg-white border-b border-gray-200 dark:bg-gray-900 dark:border-gray-700">
         <div className="flex flex-wrap items-center justify-between p-2">
 
-          {/* LOGO */}
           <Link href="/">
             <Image src="/images/logo.png" alt="logo" width={80} height={80} className="object-contain" />
           </Link>
 
-          {/* MOBILE MENU BUTTON */}
           <button
             onClick={() => setIsOpen(!isOpen)}
             className="md:hidden text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 p-2 rounded-lg"
@@ -74,68 +86,235 @@ export default function Navbar() {
             </svg>
           </button>
 
-          {/* NAV LINKS */}
           <div className={`w-full md:flex md:items-center md:w-auto ${isOpen ? 'block' : 'hidden'}`}>
             <ul className="flex flex-col md:flex-row md:items-center md:gap-6 mt-4 md:mt-0 text-lg font-medium">
 
               {navItems.map((item, index) => {
+
+                /* -------------------- LINK -------------------- */
                 if (item.type === 'link') {
+                  const isActive = pathname === item.path;
+
                   return (
                     <li key={index}>
-                      <Link href={item.path} className={pathname === item.path ? 'text-mainColor block py-2 px-3 font-bold md:p-0' : 'block py-2 px-3 md:p-0'}>
+                      <Link
+                        href={item.path}
+                        className={`block py-2 px-3 md:p-0 transition-all
+                          ${isActive
+                            ? 'text-mainColor font-bold'
+                            : 'text-gray-700 dark:text-gray-300 hover:text-mainColor'
+                          }`}
+                      >
                         {item.title[currentLang]}
                       </Link>
                     </li>
                   );
                 }
 
+                /* -------------------- DROPDOWN -------------------- */
                 if (item.type === 'dropdown') {
+                  const isOpenDropdown = openDropdown === item.title[currentLang];
+
                   return (
-                    <li key={index} className="relative" ref={openDropdown === item.title[currentLang] ? dropdownRef : null}>
+                    <li key={index} className="relative" ref={isOpenDropdown ? dropdownRef : null}>
                       <button
-                        onClick={() => setOpenDropdown(openDropdown === item.title[currentLang] ? null : item.title[currentLang])}
-                        className="flex items-center justify-between gap-1 py-2 px-3 md:p-0 w-full"
+                        onClick={() => setOpenDropdown(isOpenDropdown ? null : item.title[currentLang])}
+                        className="flex items-center justify-between gap-2 py-2 px-3 md:px-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 transition-all duration-200 w-full"
                       >
                         {item.title[currentLang]}
-                        <svg className="w-4 h-4" fill="currentColor"><path d="M5.5 7l4.5 4.5L14.5 7" /></svg>
+
+                        <svg
+                          className="w-4 h-4 transition-transform duration-300"
+                          style={{ transform: isOpenDropdown ? "rotate(180deg)" : "rotate(0deg)" }}
+                          fill="currentColor"
+                        >
+                          <path d="M5.5 7l4.5 4.5L14.5 7" />
+                        </svg>
                       </button>
 
                       <AnimatePresence>
-                        {openDropdown === item.title[currentLang] && (
-                          <motion.ul
-                            initial="hidden"
-                            animate="visible"
-                            exit="exit"
-                            variants={dropdownVariants}
-                            className={`mt-2 bg-white border rounded shadow-md z-50 ${isMobile ? 'pl-4 py-2 space-y-1' : 'absolute top-full left-0 w-56'}`}
-                          >
-                            {item.submenu?.map((sub, subIndex) => (
-                              <li key={subIndex}>
-                                <Link href={sub.path} className="block px-3 py-2 hover:bg-gray-100 rounded" onClick={() => { setIsOpen(false); setOpenDropdown(null); }}>
-                                  {sub.title[currentLang]}
-                                </Link>
-                              </li>
-                            ))}
-                          </motion.ul>
+                        {isOpenDropdown && (
+                          <div className="relative">
+
+                            {!isMobile && (
+                              <div className="absolute top-full left-6 w-3 h-3 bg-white
+                               dark:bg-gray-800 rotate-45 -mt-[6px] border-l border-t border-gray-200 dark:border-gray-700"></div>
+                            )}
+
+                            <motion.ul
+                              initial="hidden"
+                              animate="visible"
+                              exit="exit"
+                              variants={dropdownVariants}
+                              className={`mt-3 bg-white 
+                                 rounded-sm shadow-lg z-50 overflow-hidden border-t-4 border-mainColor
+                                ${isMobile ? 'pl-4 py-2 space-y-1' : 'absolute top-full left-0 w-56'}`}
+                            >
+                              {item.submenu?.map((sub, subIndex) => {
+                                const isActive = pathname === sub.path;
+
+                                return (
+                                  <li key={subIndex}>
+                                    <Link
+                                      href={sub.path}
+                                      className={`block px-4 py-2 border-b-2 transition-all duration-200 
+                                      ${isActive
+                                                ? 'text-mainColor   bg-blue-50 dark:bg-gray-700'
+                                                : 'text-gray-500  border-gray-50   hover:bg-gray-100 '
+                                              }
+                                        `}
+                                      onClick={() => {
+                                        setIsOpen(false);
+                                        setOpenDropdown(null);
+                                      }}
+                                    >
+                                      {sub.title[currentLang]}
+                                    </Link>
+                                  </li>
+                                );
+                              })}
+                            </motion.ul>
+                          </div>
                         )}
                       </AnimatePresence>
                     </li>
                   );
                 }
 
+                /* -------------------- MEGA MENU -------------------- */
+                if (item.type === 'megamenu') {
+                  const isMegaOpen = openDropdown === item.title[currentLang];
+
+                  return (
+                    <li key={index} className="relative" ref={isMegaOpen ? dropdownRef : null}>
+                      <button
+                        onClick={() => setOpenDropdown(isMegaOpen ? null : item.title[currentLang])}
+                        className="flex items-center justify-between gap-2 py-2 px-3 md:px-2 rounded-md hover:bg-gray-100
+                         dark:hover:bg-gray-800 transition-all duration-200 w-full "
+                      >
+                        {item.title[currentLang]}
+
+                        <svg
+                          className="w-4 h-4 transition-transform duration-300"
+                          style={{ transform: isMegaOpen ? "rotate(180deg)" : "rotate(0deg)" }}
+                          fill="currentColor"
+                        >
+                          <path d="M5.5 7l4.5 4.5L14.5 7" />
+                        </svg>
+                      </button>
+
+                      <AnimatePresence>
+
+                        {/* Desktop */}
+                        {!isMobile && isMegaOpen && (
+                          <motion.div
+                            initial={{ opacity: 0, y: -10, scale: 0.98 }}
+                            animate={{ opacity: 1, y: 0, scale: 1, transition: { duration: 0.2 } }}
+                            exit={{ opacity: 0, y: -10, scale: 0.98 }}
+                            className="absolute left-0 top-full mt-3 w-[850px] 
+                            bg-white dark:bg-gray-800   dark:border-gray-700 
+                            shadow-xl rounded-sm p-6 z-50 border-t-4 border-mainColor"
+                          >
+                            <div className="grid grid-cols-3 gap-2">
+                              {item.columns?.map((col, cIndex) => (
+                                <div key={cIndex}>
+                                  <h3 className="font-bold text-mainColor  dark:text-white mb-3">
+                                    {col.title[currentLang]}
+                                  </h3>
+
+                                  <ul className="space-y-2">
+                                    {col.items?.map((sub, sIndex) => {
+                                      const isActive = pathname === sub.path;
+
+                                      return (
+                                        <li key={sIndex}>
+                                          <Link
+                                            href={sub.path}
+                                            className={`block px-2 py-1 border-b-2  transition-all
+                                              ${isActive
+                                                ? 'text-mainColor   bg-blue-50 dark:bg-gray-700'
+                                                : 'text-gray-500  border-gray-50   hover:bg-gray-100 '
+                                              }`}
+                                            onClick={() => {
+                                              setOpenDropdown(null);
+                                              setIsOpen(false);
+                                            }}
+                                          >
+                                            {sub.title[currentLang]}
+                                          </Link>
+                                        </li>
+                                      );
+                                    })}
+                                  </ul>
+                                </div>
+                              ))}
+                            </div>
+                          </motion.div>
+                        )}
+
+                        {/* Mobile */}
+                        {isMobile && isMegaOpen && (
+                          <motion.ul
+                            initial="hidden"
+                            animate="visible"
+                            exit="exit"
+                            variants={dropdownVariants}
+                            className="pl-4 py-2 space-y-1 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl mt-2"
+                          >
+                            {item.columns?.map((col, cIndex) => (
+                              <div key={cIndex} className="pb-2">
+                                <h3 className="font-semibold text-gray-900 dark:text-white mb-2">
+                                  {col.title[currentLang]}
+                                </h3>
+
+                                {col.items?.map((sub, sIndex) => {
+                                  const isActive = pathname === sub.path;
+
+                                  return (
+                                    <li key={sIndex} className="ml-3">
+                                      <Link
+                                        href={sub.path}
+                                        className={`block px-2 py-1 rounded-md transition-all
+                                          ${isActive
+                                            ? 'text-mainColor font-semibold bg-blue-50 dark:bg-gray-700'
+                                            : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'
+                                          }`}
+                                        onClick={() => {
+                                          setIsOpen(false);
+                                          setOpenDropdown(null);
+                                        }}
+                                      >
+                                        {sub.title[currentLang]}
+                                      </Link>
+                                    </li>
+                                  );
+                                })}
+                              </div>
+                            ))}
+                          </motion.ul>
+                        )}
+
+                      </AnimatePresence>
+                    </li>
+                  );
+                }
+
                 if (item.type === 'button') {
-                  return <li key={index}><div className="btn-filled2">{item.title[currentLang]}</div></li>;
+                  return (
+                    <li key={index}>
+                      <div className="btn-filled2">{item.title[currentLang]}</div>
+                    </li>
+                  );
                 }
               })}
 
-              {/* LANGUAGE SWITCHER */}
               <li>
                 <button
                   onClick={toggleLanguage}
                   className="flex items-center justify-between w-24 h-11 px-2 rounded-full bg-gray-100 shadow-inner hover:shadow-lg"
                 >
                   {loading ? (
-                    <div className="w-5 h-5 border-2 border-gray-300 border-t-blue-600 rounded-full animate-spin mx-auto"></div>
+                    <div className="w-5 h-5 border-2 border-gray-300 border-t-maintext-mainColor rounded-full animate-spin mx-auto"></div>
                   ) : currentLang === 'ar' ? (
                     <>
                       <Image src="/images/egypt.svg" width={36} height={36} className="rounded-full" alt="Egypt Flag" />

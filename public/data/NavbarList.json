@@ -43,77 +43,101 @@
             "en": "Faculties",
             "ar": "الكليات"
         },
-        "type": "dropdown",
-        "submenu": [
+        "type": "megamenu",
+        "columns": [
             {
                 "title": {
-                    "en": "Faculty of Medicine",
-                    "ar": "كلية الطب"
+                    "en": "Medical Faculties",
+                    "ar": "الكليات الطبية"
                 },
-                "path": "/faculties/medicine"
+                "items": [
+                    {
+                        "title": {
+                            "en": "Faculty of Medicine",
+                            "ar": "كلية الطب"
+                        },
+                        "path": "/faculties/medicine"
+                    },
+                    {
+                        "title": {
+                            "en": "Faculty of Dentistry",
+                            "ar": "كلية طب الأسنان"
+                        },
+                        "path": "/faculties/dentistry"
+                    },
+                    {
+                        "title": {
+                            "en": "Faculty of Pharmacy",
+                            "ar": "كلية الصيدلة"
+                        },
+                        "path": "/faculties/pharmacy"
+                    },
+                    {
+                        "title": {
+                            "en": "Physical Therapy",
+                            "ar": "كلية العلاج الطبيعي"
+                        },
+                        "path": "/faculties/physicaltherapy"
+                    },
+                    {
+                        "title": {
+                            "en": "Nursing",
+                            "ar": "كلية التمريض"
+                        },
+                        "path": "/faculties/nursing"
+                    },
+                    {
+                        "title": {
+                            "en": "Veterinary Medicine",
+                            "ar": "كلية الطب البيطري"
+                        },
+                        "path": "/faculties/veterinarymedicine"
+                    },
+                    {
+                        "title": {
+                            "en": "Applied Health Technology",
+                            "ar": "التكنولوجيا الصحية التطبيقية"
+                        },
+                        "path": "/faculties/appliedhealth"
+                    }
+                ]
             },
             {
                 "title": {
-                    "en": "Faculty of Dentistry",
-                    "ar": "كلية طب الأسنان"
+                    "en": "Engineering & Technology",
+                    "ar": "الهندسية والتكنولوجية"
                 },
-                "path": "/faculties/dentistry"
+                "items": [
+                    {
+                        "title": {
+                            "en": "Engineering",
+                            "ar": "كلية الهندسة"
+                        },
+                        "path": "/faculties/engineer"
+                    },
+                    {
+                        "title": {
+                            "en": "Computer Science & AI",
+                            "ar": "علوم الحاسب والذكاء الاصطناعي"
+                        },
+                        "path": "/faculties/ai"
+                    }
+                ]
             },
             {
                 "title": {
-                    "en": "Faculty of Physical Therapy",
-                    "ar": "كلية العلاج الطبيعي"
+                    "en": "Humanities",
+                    "ar": "العلوم الإنسانية"
                 },
-                "path": "/faculties/physicaltherapy"
-            },
-            {
-                "title": {
-                    "en": "Faculty of Pharmacy",
-                    "ar": "كلية الصيدلة"
-                },
-                "path": "/faculties/pharmacy"
-            },
-            {
-                "title": {
-                    "en": "Faculty of Veterinary Medicine",
-                    "ar": "كلية الطب البيطري"
-                },
-                "path": "/faculties/veterinarymedicine"
-            },
-            {
-                "title": {
-                    "en": "Faculty of Applied Health Sciences Technology",
-                    "ar": "كلية التكنولوجيا الصحية التطبيقية"
-                },
-                "path": "/faculties/appliedhealth"
-            },
-            {
-                "title": {
-                    "en": "Faculty of Nursing",
-                    "ar": "كلية التمريض"
-                },
-                "path": "/faculties/nursing"
-            },
-            {
-                "title": {
-                    "en": "Faculty of Engineering",
-                    "ar": "كلية الهندسة"
-                },
-                "path": "/faculties/engineer"
-            },
-            {
-                "title": {
-                    "en": "Faculty of Computer Science and Artificial Intelligence",
-                    "ar": "كلية علوم الحاسب والذكاء الاصطناعي"
-                },
-                "path": "/faculties/ai"
-            },
-            {
-                "title": {
-                    "en": "Faculty of Humanities and Social Sciences",
-                    "ar": "كلية العلوم الإنسانية والاجتماعية"
-                },
-                "path": "/faculties/humanities"
+                "items": [
+                    {
+                        "title": {
+                            "en": "Humanities & Social Sciences",
+                            "ar": "العلوم الإنسانية والاجتماعية"
+                        },
+                        "path": "/faculties/humanities"
+                    }
+                ]
             }
         ]
     },
