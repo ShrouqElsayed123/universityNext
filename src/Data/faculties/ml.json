@@ -10,17 +10,17 @@
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/ai",
                 "label": {
-                    "en": "home",
-                    "ar": "الرئيسية"
+                    "en": "Faculty of Computers and Artificial Intelligence",
+                    "ar": " كلية الحاسبات والذكاء الاصطناعي"
                 }
             },
             {
                 "to": "/",
                 "label": {
-                    "en": "Faculty of Medicine",
-                    "ar": " كلية الطب والجراحة"
+                    "en": "Machine Intelligence Program",
+                    "ar": "برنامج ذكاء الآلة"
                 }
             }
         ],
@@ -28,12 +28,12 @@
     },
     "overview": {
         "title": {
-            "en": "Overview of the Data Sciences Program ",
-            "ar": "نبذه عن برنامج علوم البيانات"
+            "en": "Overview of Machine Intelligence Program  ",
+            "ar": "نبذة عن برنامج ذكاء الآلة"
         },
         "para1": {
-            "en": "",
-            "ar": ""
+            "en": " The Machine Intelligence Program is an advanced academic initiative designed to prepare graduates capable of designing and developing intelligent systems that simulate human thinking, analyze data, and make independent decisions. The program integrates the latest artificial intelligence and machine learning technologies, focusing on diverse applications such as robotics, natural language processing, computer vision, and systems automation. It aims to equip students with the knowledge and practical skills needed to understand intelligent algorithms, develop predictive models, and work on complex projects that serve various fields, including healthcare, industry, transportation, and education.",
+            "ar": "برنامج ذكاء الآلة هو برنامج أكاديمي متطور يهدف إلى تخريج كوادر قادرة على تصميم وتطوير أنظمة ذكية تُحاكي التفكير البشري وتعمل على تحليل البيانات واتخاذ القرارات بشكل مستقل. يجمع البرنامج بين أحدث تقنيات الذكاء الاصطناعي والتعلم الآلي، ويركز على تطبيقات متنوعة تشمل الروبوتات، معالجة اللغة الطبيعية، الرؤية الحاسوبية، وأتمتة الأنظمة. ويسعى البرنامج إلى تزويد الطلاب بالمعرفة والمهارات العملية اللازمة لفهم الخوارزميات الذكية، تطوير النماذج التنبؤية، والعمل في مشاريع معقدة تخدم العديد من المجالات مثل الطب، الصناعة، النقل، والتعليم. "
         },
         "para2": {
             "en": " ",
@@ -48,15 +48,15 @@
             "ar": " "
         },
         "visionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "Creating an innovative generation equipped with the skills needed to develop artificial intelligence technologies and data analysis, leveraging them to build intelligent systems that drive progress and prosperity.",
+            "ar": "خلق جيل مبتكر يمتلك المهارات اللازمة لتطوير تقنيات الذكاء الاصطناعي وتحليل البيانات، وتوظيفها في بناء أنظمة ذكية لتحقيق التطور والنماء.​"
         },
         "missionPara": {
-            "en": " ",
-            "ar": " "
+            "en": " Preparing specialized and distinguished scientific cadres equipped with deep skills and knowledge in the field of artificial intelligence and data processing, enabling them to keep pace with rapid developments in this domain. This supports the production of innovative research and applications capable of competing locally, regionally, and internationally, while contributing to community development and industrial advancement in alignment with Egypt's sustainable development vision.",
+            "ar": " إعداد كوادر علمية متخصصة ومتميزة تمتلك المهارات والمعرفة المتعمقة في مجال الذكاء الاصطناعي ومعالجة البيانات، بما يؤهلها لمواكبة التطورات المتسارعة في هذا المجال. ويدعم إنتاج أبحاث وتطبيقات مبتكرة قادرة على المنافسة محليًا وإقليميًا ودوليًا، مع المساهمة في تنمية المجتمع وتطوير الصناعات، بما يتماشى مع رؤية مصر للتنمية المستدامة."
         }
     },
-    "overviewImage": "/images/medicine/overview.jpg",
+    "overviewImage": "/images/ai/mloverview2.jpg",
     "facultyGoals": [
         {
             "id": "1",
@@ -70,8 +70,56 @@
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Develop a strong understanding of core machine learning concepts, including supervised, unsupervised, and reinforcement learning.",
+                    "ar": "تطوير فهم قوي للمفاهيم الأساسية في التعلم الآلي، بما في ذلك التعلم الخاضع للإشراف، التعلم غير الخاضع للإشراف، والتعلم المعزز."
+                },
+                {
+                    "en": "Grasp the fundamentals of statistical analysis and probability theory.",
+                    "ar": "استيعاب أساسيات التحليل الإحصائي ونظرية الاحتمالات."
+                },
+                {
+                    "en": "Explore the ethical considerations and societal impact of AI.",
+                    "ar": "استكشاف الاعتبارات الأخلاقية وتأثير الذكاء الاصطناعي على المجتمع."
+                },
+                {
+                    "en": "Master programming languages for data analysis and machine learning.",
+                    "ar": "إتقان لغات البرمجة المستخدمة في تحليل البيانات والتعلم الآلي."
+                },
+                {
+                    "en": "Acquiring expertise in data mining techniques, including data cleaning, preprocessing, and feature engineering.",
+                    "ar": "اكتساب خبرة في تقنيات استخراج البيانات، بما في ذلك تنظيف البيانات، المعالجة المسبقة، وهندسة انتقاء الخصائص."
+                },
+                {
+                    "en": "Gain proficiency in using machine learning libraries and frameworks.",
+                    "ar": "تحقيق إتقان استخدام مكتبات وأطر العمل الخاصة بالتعلم الآلي."
+                },
+                {
+                    "en": "Develop practical skills in building, training, and deploying machine learning models.",
+                    "ar": "تطوير المهارات العملية في بناء وتدريب ونشر نماذج التعلم الآلي."
+                },
+                {
+                    "en": "Apply machine learning techniques to real-world problems in various domains, such as healthcare, finance, and autonomous systems.",
+                    "ar": "تطبيق تقنيات التعلم الآلي لحل المشكلات الواقعية في مجالات متنوعة، مثل الرعاية الصحية، والتمويل، والأنظمة المستقلة."
+                },
+                {
+                    "en": "Foster critical thinking and problem-solving skills to identify opportunities for AI-driven solutions.",
+                    "ar": "تعزيز التفكير النقدي ومهارات حل المشكلات لتحديد الفرص للحلول المدعومة بالذكاء الاصطناعي."
+                },
+                {
+                    "en": "Encourage creativity and innovation in designing novel AI applications.",
+                    "ar": "تشجيع الإبداع والابتكار في تصميم تطبيقات ذكاء اصطناعي جديدة."
+                },
+                {
+                    "en": "Stay updated with the latest advancements in machine learning and AI research.",
+                    "ar": "مواكبة أحدث التطورات في أبحاث التعلم الآلي والذكاء الاصطناعي."
+                },
+                {
+                    "en": "Develop effective communication and teamwork skills to collaborate with diverse teams.",
+                    "ar": "تطوير مهارات الاتصال والعمل الجماعي للتعاون مع فرق متنوعة."
+                },
+                {
+                    "en": "Learn to present technical concepts clearly and concisely to both technical and non-technical audiences.",
+                    "ar": "تعلم كيفية تقديم المفاهيم التقنية بوضوح لكل من الجمهور التقني وغير التقني."
                 }
             ]
         },
@@ -87,8 +135,48 @@
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Machine Learning Engineer: Designs and develops machine learning models to identify patterns and predict future outcomes based on data.",
+                    "ar": "مهندس تعلم آلي: تصميم وتطوير نماذج التعلم الآلي لاستخلاص الأنماط والتنبؤ بالمستقبل بناءً على البيانات."
+                },
+                {
+                    "en": "Data Analyst: Analyzes large datasets and utilizes AI techniques to extract insights that support decision-making.",
+                    "ar": "محلل بيانات: تحليل البيانات الكبيرة واستخدام تقنيات الذكاء الاصطناعي لاستخراج الرؤى التي تدعم اتخاذ القرارات."
+                },
+                {
+                    "en": "Computer Vision Specialist: Works on developing systems using computer vision, such as facial recognition and image analysis.",
+                    "ar": "متخصص في الرؤية الحاسوبية: العمل على تطوير أنظمة تستخدم الرؤية الحاسوبية مثل أنظمة التعرف على الوجه وتحليل الصور."
+                },
+                {
+                    "en": "Robotics Developer: Designs and programs intelligent robots for industries like manufacturing, agriculture, and healthcare.",
+                    "ar": "مطور روبوتات: تصميم وبرمجة الروبوتات الذكية للعمل في مجالات مثل الصناعة والزراعة والرعاية الصحية."
+                },
+                {
+                    "en": "Natural Language Processing Engineer: Develops text and speech processing systems, such as virtual assistants and machine translation software.",
+                    "ar": "مهندس معالجة اللغة الطبيعية: تطوير أنظمة معالجة النصوص والخطاب، مثل المساعدات الافتراضية وبرامج الترجمة الآلية."
+                },
+                {
+                    "en": "AI Engineer: Designs comprehensive AI-based solutions to optimize operational processes.",
+                    "ar": "مهندس ذكاء اصطناعي: تصميم حلول شاملة تعتمد على الذكاء الاصطناعي لتحسين العمليات التشغيلية."
+                },
+                {
+                    "en": "Business Intelligence Analyst: Provides strategic insights to businesses by analyzing data.",
+                    "ar": "محلل ذكاء الأعمال: تقديم رؤى استراتيجية للشركات بناءً على تحليل البيانات."
+                },
+                {
+                    "en": "Autonomous Systems Developer: Creates technologies like self-driving cars and autonomous robotic systems.",
+                    "ar": "مطور أنظمة مستقلة: تطوير تقنيات مثل السيارات ذاتية القيادة والأنظمة الروبوتية المستقلة."
+                },
+                {
+                    "en": "Real-Time Data Analyst: Analyzes real-time data to support decisions in sectors like finance and energy.",
+                    "ar": "أخصائي تحليل البيانات الزمن الحقيقي: تحليل بيانات الزمن الحقيقي لدعم القرارات في مجالات مثل التمويل والطاقة."
+                },
+                {
+                    "en": "AI Researcher: Contributes to the development of new algorithms and models in artificial intelligence.",
+                    "ar": "باحث في الذكاء الاصطناعي: المساهمة في تطوير الخوارزميات والنماذج الجديدة في مجال الذكاء الاصطناعي."
+                },
+                {
+                    "en": "Smart Game Designer: Develops AI-driven games to enhance player interaction.",
+                    "ar": "مصمم ألعاب ذكية: تطوير ألعاب تعتمد على الذكاء الاصطناعي لتحسين تفاعل اللاعبين."
                 }
             ]
         }
@@ -152,38 +240,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Orientation & Preparation to Medical School",
-                                "ar": "أسبوع تعريفي و تقديمي لبرنامج الطب"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Foundation 1",
-                                "ar": "موديول تأسيسي 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Foundation 2",
-                                "ar": "موديول تأسيسي 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Medical Terminology",
-                                "ar": "مهارات التقديم"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Quality Orientation",
-                                "ar": "مدخل الجودة والاعتماد في مؤسسات التعليم العالي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 1",
-                                "ar": "مادة اختيارية 1"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -197,32 +261,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Musculoskeletal System",
-                                "ar": "الجهاز العضلي الهيكلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Blood and Lymph",
-                                "ar": "الدم و الجهاز الليمفاوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Communication Skills and Medical Professionalism",
-                                "ar": "مهارات التواصل والاحترافية الطبية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Issues",
-                                "ar": "القضايا المجتمعية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 2",
-                                "ar": "مادة اختيارية 2"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -245,32 +291,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Respiratory System",
-                                "ar": "الجهاز التنفسي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Cardiovascular System",
-                                "ar": "الجهاز الدوري"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 1",
-                                "ar": "المهارات الإكلينيكية الأساسية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Psychology",
-                                "ar": "علم النفس"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 3",
-                                "ar": "مادة اختيارية 3"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -284,32 +312,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Gastrointestinal System",
-                                "ar": "الجهاز الهضمي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "CNS & Special Senses",
-                                "ar": "الجهاز العصبي المركزي و الحواس الخاصة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 2",
-                                "ar": "المهارات الإكلينيكية الأساسية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Life Support",
-                                "ar": "دعم الحياة الأساسي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 4",
-                                "ar": "مادة اختيارية 4"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -332,38 +342,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Genitourinary System",
-                                "ar": "الجهاز البولي التناسلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Endocrine System",
-                                "ar": "جهاز الغدد الصماء"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Medicine",
-                                "ar": "طب المجتمع"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 3",
-                                "ar": "المهارات الإكلينيكية الأساسية 3"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 1",
-                                "ar": "اللغة الألمانية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 5",
-                                "ar": "مادة اختيارية 5"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -377,38 +363,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Forensic and Toxicology",
-                                "ar": "الطب الشرعي و السموم"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "ENT",
-                                "ar": "الأنف و الأذن و الحنجرة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ophthalmology",
-                                "ar": "طب و جراحة العيون"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Evidence Based Medicine, Research & Biostatistics",
-                                "ar": "الطب المبني على الدليل والبحث العلمي والإحصاء الحيوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 2",
-                                "ar": "اللغة الألمانة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 6",
-                                "ar": "مادة اختيارية 6"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -431,26 +393,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine I",
-                                "ar": "باطنة عامة 1"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery I",
-                                "ar": "جراحة عامة 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 1",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Patient Safety & Infection Control",
-                                "ar": "سلامة المريض و مكافحة العدوى"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -464,113 +414,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine II",
-                                "ar": "باطنة عامة 2"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery II",
-                                "ar": "جراحة عامة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 2",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ethical and Legal Issues in Medical Practice",
-                                "ar": "القضايا الأخلاقية والقانونية في الممارسة الطبية"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": {
-                "en": "Level 5",
-                "ar": "المستوى الخامس"
-            },
-            "semesters": [
-                {
-                    "id": "5-1",
-                    "name": {
-                        "en": "Ninth Semester",
-                        "ar": "الفصل الدراسي التاسع"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module I",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Pediatrics and Neonatology",
-                                "ar": "طب الأطفال و حديثي الولادة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Child Health",
-                                "ar": "صحة الطفل"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Clinical Nutrition",
-                                "ar": "تغذية علاجية"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "5-2",
-                    "name": {
-                        "en": "Tenth Semester",
-                        "ar": "الفصل الدراسي العاشر"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module II",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Obstetrics and Gynecology",
-                                "ar": "أمراض النساء والتوليد"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Women Health",
-                                "ar": "صحة المرأة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Field Training",
-                                "ar": "تدريب ميداني"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]

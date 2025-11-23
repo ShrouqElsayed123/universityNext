@@ -36,20 +36,20 @@ export default function FacultyDoctors({ team }) {
                             team.map((member, index) => (
                                 <div
                                     key={index}
-                                    className={`flex flex-col items-center text-center shadow-lg rounded-2xl py-2 hover:shadow-xl transition ${index % 2 === 0 ? "translate-y-3" : "-translate-y-3"
+                                    className={`flex flex-col items-center text-center shadow-lg rounded-2xl py-2 hover:shadow-xl transition 
                                         }`}
                                 >
-                                    <div className="relative mb-4 z-20 border rounded-full border-t-secondaryColor border-l-secondaryColor border-mainColor">
+                                    <div className="relative mb-4 z-20 w-40 h-40 border rounded-full border-t-secondaryColor border-l-secondaryColor border-mainColor overflow-hidden">
                                         <Image
                                             src={member.image}
                                             alt={member.name}
-                                            width={160}
-                                            height={160}
-                                            className="object-cover rounded-full z-20 p-2"
+                                            fill
+                                            className="object-cover"
                                         />
                                     </div>
 
-                                    <h3 className="text-lg font-semibold text-gray-900">{member.name}</h3>
+
+                                    <h3 className="text-lg font-semibold text-gray-900">{member.name[lang]}</h3>
                                     <p className="text-mainColor font-medium">{member.role[lang]}</p>
                                 </div>
                             ))}

@@ -85,7 +85,7 @@
                     "en": "Faculty of Applied Health Sciences Technology",
                     "ar": "كلية التكنولوجيا الصحية التطبيقية"
                 },
-                "path": "/faculties/healthsciences"
+                "path": "/faculties/appliedhealth"
             },
             {
                 "title": {
@@ -99,7 +99,7 @@
                     "en": "Faculty of Engineering",
                     "ar": "كلية الهندسة"
                 },
-                "path": "/faculties/engineering"
+                "path": "/faculties/engineer"
             },
             {
                 "title": {

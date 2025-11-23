@@ -6,9 +6,8 @@ import { useTranslation, Trans } from "react-i18next";
 import { HiOutlineBuildingLibrary } from "react-icons/hi2";
 import Image from "next/image";
 
-const images = ["/images/f1.jpg", "/images/f2.jpg", "/images/f3.jpg", "/images/f4.jpg", "/images/f5.jpg"];
 
-export default function PeekSlider() {
+export default function PeekSlider({ images }) {
     const [index, setIndex] = useState(0);
     const [flipped, setFlipped] = useState(false);
     const { t } = useTranslation();
@@ -28,7 +27,7 @@ export default function PeekSlider() {
     };
 
     return (
-        <section className="h-[80vh] flex flex-col items-center justify-start bg-gray-50 py-10">
+        <section className="h-[100vh] flex flex-col items-center justify-start bg-gray-50 py-10">
             {/* Header */}
             <div className="text-center flex items-center flex-col gap-3">
                 <div className="flex items-center font-Playwrite gap-2 text-secondaryColorLight1 cursor-pointer select-none border-b-[1px] border-secondaryColorLight1 w-fit">

@@ -10,14 +10,14 @@
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/ai",
                 "label": {
                     "en": "Faculty of Computers and Artificial Intelligence",
                     "ar": " كلية الحاسبات والذكاء الاصطناعي"
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/ai/program/iot",
                 "label": {
                     "en": "Data Sciences Program",
                     "ar": " برنامج علوم البيانات"
@@ -56,7 +56,7 @@
             "ar": "إعداد كوادر علمية متخصصة ومتميزة تمتلك المهارات والمعرفة العميقة في مجال علوم البيانات وتحليلها، بما يمكنها من مواكبة التطورات السريعة واستثمار البيانات بفعالية. ودعم إنتاج أبحاث وتطبيقات مبتكرة قادرة على المنافسة محليًا وإقليميًا ودوليًا، مع الإسهام في تنمية المجتمع وتعزيز الصناعات المختلفة، بما يتماشى مع رؤية مصر للتنمية المستدامة."
         }
     },
-    "overviewImage": "/images/medicine/overview.jpg",
+    "overviewImage": "/images/ai/dsoverview2.jpg",
     "facultyGoals": [
         {
             "id": "1",
@@ -232,38 +232,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Orientation & Preparation to Medical School",
-                                "ar": "أسبوع تعريفي و تقديمي لبرنامج الطب"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Foundation 1",
-                                "ar": "موديول تأسيسي 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Foundation 2",
-                                "ar": "موديول تأسيسي 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Medical Terminology",
-                                "ar": "مهارات التقديم"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Quality Orientation",
-                                "ar": "مدخل الجودة والاعتماد في مؤسسات التعليم العالي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 1",
-                                "ar": "مادة اختيارية 1"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -277,32 +253,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Musculoskeletal System",
-                                "ar": "الجهاز العضلي الهيكلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Blood and Lymph",
-                                "ar": "الدم و الجهاز الليمفاوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Communication Skills and Medical Professionalism",
-                                "ar": "مهارات التواصل والاحترافية الطبية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Issues",
-                                "ar": "القضايا المجتمعية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 2",
-                                "ar": "مادة اختيارية 2"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -325,32 +283,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Respiratory System",
-                                "ar": "الجهاز التنفسي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Cardiovascular System",
-                                "ar": "الجهاز الدوري"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 1",
-                                "ar": "المهارات الإكلينيكية الأساسية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Psychology",
-                                "ar": "علم النفس"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 3",
-                                "ar": "مادة اختيارية 3"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -364,32 +304,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Gastrointestinal System",
-                                "ar": "الجهاز الهضمي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "CNS & Special Senses",
-                                "ar": "الجهاز العصبي المركزي و الحواس الخاصة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 2",
-                                "ar": "المهارات الإكلينيكية الأساسية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Life Support",
-                                "ar": "دعم الحياة الأساسي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 4",
-                                "ar": "مادة اختيارية 4"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -412,38 +334,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Genitourinary System",
-                                "ar": "الجهاز البولي التناسلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Endocrine System",
-                                "ar": "جهاز الغدد الصماء"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Medicine",
-                                "ar": "طب المجتمع"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 3",
-                                "ar": "المهارات الإكلينيكية الأساسية 3"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 1",
-                                "ar": "اللغة الألمانية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 5",
-                                "ar": "مادة اختيارية 5"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -457,38 +355,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Forensic and Toxicology",
-                                "ar": "الطب الشرعي و السموم"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "ENT",
-                                "ar": "الأنف و الأذن و الحنجرة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ophthalmology",
-                                "ar": "طب و جراحة العيون"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Evidence Based Medicine, Research & Biostatistics",
-                                "ar": "الطب المبني على الدليل والبحث العلمي والإحصاء الحيوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 2",
-                                "ar": "اللغة الألمانة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 6",
-                                "ar": "مادة اختيارية 6"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -511,26 +385,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine I",
-                                "ar": "باطنة عامة 1"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery I",
-                                "ar": "جراحة عامة 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 1",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Patient Safety & Infection Control",
-                                "ar": "سلامة المريض و مكافحة العدوى"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -544,113 +406,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine II",
-                                "ar": "باطنة عامة 2"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery II",
-                                "ar": "جراحة عامة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 2",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ethical and Legal Issues in Medical Practice",
-                                "ar": "القضايا الأخلاقية والقانونية في الممارسة الطبية"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": {
-                "en": "Level 5",
-                "ar": "المستوى الخامس"
-            },
-            "semesters": [
-                {
-                    "id": "5-1",
-                    "name": {
-                        "en": "Ninth Semester",
-                        "ar": "الفصل الدراسي التاسع"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module I",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Pediatrics and Neonatology",
-                                "ar": "طب الأطفال و حديثي الولادة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Child Health",
-                                "ar": "صحة الطفل"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Clinical Nutrition",
-                                "ar": "تغذية علاجية"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "5-2",
-                    "name": {
-                        "en": "Tenth Semester",
-                        "ar": "الفصل الدراسي العاشر"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module II",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Obstetrics and Gynecology",
-                                "ar": "أمراض النساء والتوليد"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Women Health",
-                                "ar": "صحة المرأة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Field Training",
-                                "ar": "تدريب ميداني"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]

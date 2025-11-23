@@ -10,27 +10,27 @@
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/appliedhealth",
                 "label": {
-                    "en": "Faculty of Computers and Artificial Intelligence",
-                    "ar": " كلية الحاسبات والذكاء الاصطناعي"
+                    "en": " Faculty of Applied Health Sciences​",
+                    "ar": " كلية تكنولوجيا العلوم الصحية التطبيقية"
                 }
             }
         ],
-        "img": "/images/ai/banner.jfif"
+        "img": "/images/appliedhealth/banner.jpg"
     },
     "overview": {
         "title": {
-            "en": "Overview The Faculty of Computers and Artificial Intelligence ",
-            "ar": "نبذة عن  كلية الحاسبات والذكاء الاصطناعي"
+            "en": "  Overview of the Faculty of Applied Health Sciences   ",
+            "ar": "          نبذة عن كلية تكنولوجيا العلوم الصحية التطبيقية "
         },
         "para1": {
-            "en": "The Faculty of Computers and Artificial Intelligence is a specialized academic institution aimed at preparing highly skilled scientific and technical professionals capable of leading digital and technological advancements. The faculty combines cutting-edge disciplines such as artificial intelligence, the Internet of Things, big data analytics, and Intelligent Systems, positioning itself as a leader in supporting the Fourth Industrial Revolution.",
-            "ar": "كلية الحاسبات والذكاء الاصطناعي هي إحدى الكليات المتخصصة التي تهدف إلى إعداد كوادر علمية وتقنية قادرة على قيادة التطور الرقمي والتكنولوجي. تجمع الكلية بين التخصصات الحديثة مثل الذكاء الاصطناعي، إنترنت الأشياء، تحليل البيانات الضخمة، والأنظمة الذكية، مما يجعلها واحدة من المؤسسات التعليمية الرائدة في دعم الثورة الصناعية الرابعة. "
+            "en": "  The Faculty  of Applied Health Sciences is an ambitious college that strives to introduce a number of new programs that keep pace with the rapid developments in the labor market and the rapid growth of health informatics. In light of the developments in health education, the need to update health education programs has become urgent to stay abreast of these advancements. ",
+            "ar": " تعد كلية تكنولوجيا العلوم الصحية التطبيقية من الكليات الطموحة التي تسعى إلى تقديم عدد من البرامج الجديدة التي تواكب التطورات السريعة في سوق العمل والنمو السريع لعلم المعلومات الصحية، وفي ظل التطورات التي يشهدها التعليم الصحي أصبحت الحاجة إلى تحديث برامج التعليم الصحي أمراً ملحاً لمواكبة هذه التطورات. ولقد تميزت جامعة المنوفية الأهلية بإنشاء كلية تكنولوجيا العلوم الصحية التطبيقية بقرار رئيس الجمهورية رقم 423 لسنة 2022  "
         },
         "para2": {
-            "en": "",
-            "ar": "  "
+            "en": "The Faculty of Applied Health Sciences Technology at Menoufia National University aims to implement academic programs that align with national quality and accreditation standards: (Medical Laboratory Technology Program - Radiology and Medical Imaging Technology Program - Dental Prosthetics Technology Program - Respiratory Care Technology Program)",
+            "ar": " تهدف كلية تكنولوجيا العلوم الصحية التطبيقية بجامعة المنوفية الأهلية إلى تنفيذ برامج أكاديمية تتوافق مع معايير الجودة والاعتماد الوطنية: (برنامج تكنولوجيا المختبرات الطبية - برنامج تقنية الأشعة والتصوير الطبي - برنامج تكنولوجيا تصنييع تركيبات الاسنان - برنامج تكنولوجيا الرعاية التنفسية) "
         },
         "programTitle": {
             "en": "",
@@ -51,43 +51,66 @@
     },
     "goalsImage": "/images/ai/aigoal.png",
     "facultyGallery": [
-        "/images/f1.jpg",
-        "/images/f2.jpg",
-        "/images/f3.jpg",
-        "/images/f4.jpg",
-        "/images/f5.jpg"
+        "/images/appliedhealth/f1.jpg",
+        "/images/appliedhealth/f2.jpg",
+        "/images/appliedhealth/f3.jpg",
+        "/images/appliedhealth/f4.jpg",
+        "/images/appliedhealth/f5.jpg"
     ],
-    "overviewImage": "/images/medicine/overview.jpg",
+    "overviewImage": "/images/appliedhealth/appliedhealthoverview.jpg",
     "facultyDoctors": [
         {
-            "name": "Samanta Smith",
+            "name": {
+                "en": "Prof. Dr. Hayam AbdelSamie",
+                "ar": "ا.د هيام عبد السميع"
+            },
             "role": {
-                "en": "Head manager",
-                "ar": "المدير الرئيسي"
+                "en": " Program Manager",
+                "ar": " مدير البرنامج"
+            },
+            "image": "/images/appliedhealth/teachers/t1.jpg"
+        },
+        {
+            "name": {
+                "en": "Prof. Dr. Iman AbdelFattah",
+                "ar": "ا.د ايمان عبد الفتاح  "
+            },
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/appliedhealth/teachers/t2.jpg"
+        },
+        {
+            "name": {
+                "en": "د ايمان ابراهيم",
+                "ar": "Dr. Iman Ibrahim"
+            },
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/appliedhealth/teachers/t3.jpg"
+        },
+        {
+            "name": {
+                "en": "Prof. Dr. Hala Saeed",
+                "ar": "ا.د هالة سعيد"
+            },
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
             },
             "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
         },
         {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
+            "name": {
+                "en": "د. ياسر سعد الدين",
+                "ar": "Dr. Yasser Saad El-Din"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Colin Power",
             "role": {
-                "en": "Partner",
-                "ar": "شريك"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Lucy Albea",
-            "role": {
-                "en": "Investor",
-                "ar": "مستثمر"
+                "en": "coordinator",
+                "ar": "منسق"
             },
             "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
         }
@@ -95,13 +118,39 @@
     "programData": [
         {
             "id": 1,
-            "img": "/images/ai/dsprogram2.jpg",
-            "path": "/faculties/ai/program/ds",
+            "img": "/images/appliedhealth/medicallaboratory.jpg",
+            "path": "/faculties/appliedhealth/program/MedicalLaboratory",
             "title": {
-                "en": "Data Sciences Program",
-                "ar": "برنامج علوم البيانات"
+                "en": "Medical Laboratory Technology Program​",
+                "ar": "برنامج تكنولوجيا المختبرات الطبية"
+            }
+        },
+        {
+            "id": 2,
+            "img": "/images/appliedhealth/radiology2.jpg",
+            "path": "/faculties/appliedhealth/program/Radiology",
+            "title": {
+                "en": "Radiology and Medical Imaging Technology Program ",
+                "ar": "برنامج تقنية الأشعة والتصوير الطبي"
+            }
+        },
+        {
+            "id": 3,
+            "img": "/images/appliedhealth/dental.jpg",
+            "path": "/faculties/appliedhealth/program/DentalProsthetics",
+            "title": {
+                "en": "Dental Prosthetics Technology Program ",
+                "ar": "برنامج تكنولوجيا تصنييع تركيبات الاسنان "
+            }
+        },
+        {
+            "id": 4,
+            "img": "/images/appliedhealth/respiratory.jpg",
+            "path": "/faculties/appliedhealth/program/RespiratoryCare",
+            "title": {
+                "en": "Respiratory Care Technology Program",
+                "ar": " برنامج تكنولوجيا الرعاية التنفسية"
             }
         }
-    
     ]
 }

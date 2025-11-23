@@ -52,9 +52,9 @@ export default async function ProgramPage({ params }) {
                 img={data.goalsImage}
             />
 
-            <PeekSlider />
+            {/* <PeekSlider /> */}
             <FacultyLevels facultyData={data} />
-            <FacultyDoctors team={data.facultyDoctors} />
+            {/* <FacultyDoctors team={data.facultyDoctors} /> */}
 
 
 

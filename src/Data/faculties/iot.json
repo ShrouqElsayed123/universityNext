@@ -10,17 +10,17 @@
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/ai",
                 "label": {
-                    "en": "home",
-                    "ar": "الرئيسية"
+                    "en": "Faculty of Computers and Artificial Intelligence",
+                    "ar": " كلية الحاسبات والذكاء الاصطناعي"
                 }
             },
             {
                 "to": "/",
                 "label": {
-                    "en": "Faculty of Medicine",
-                    "ar": " كلية الطب والجراحة"
+                    "en": "Internet of Things and Big Data Analytics Program",
+                    "ar": "برنامج انترنت الأشياء وتحليل البيانات الضخمة"
                 }
             }
         ],
@@ -28,12 +28,12 @@
     },
     "overview": {
         "title": {
-            "en": "Overview of the Data Sciences Program ",
-            "ar": "نبذه عن برنامج علوم البيانات"
+            "en": "Internet of Things and Big Data Analytics Program",
+            "ar": "برنامج انترنت الأشياء وتحليل البيانات الضخمة"
         },
         "para1": {
-            "en": "",
-            "ar": ""
+            "en": "The Internet of Things (IoT) and Big Data Analytics Program is a specialized academic program that combines advanced technology, big data analysis, and IoT technology. It aims to prepare distinguished professionals who are capable of working with modern technologies and utilizing big data to support decision-making and achieve sustainable development. The program also prepares graduates to work in areas such as designing IoT systems, developing intelligent computing applications, and employing them as interactive solutions that integrate with the surrounding environment within embedded systems.",
+            "ar": "برنامج إنترنت الأشياء وتحليل البيانات الضخمة هو برنامج أكاديمي متخصص يجمع بين مجالي التكنولوجيا المتقدمة وتحليل البيانات الضخمة وتكنولوجيا انترنت الاشياء، ويهدف إلى إعداد كوادر متميزة قادرة على التعامل مع التقنيات الحديثة والاستفادة من البيانات الضخمة لدعم اتخاذ القرارات وتحقيق التطوير المستدامة. كما أنه يؤهل الخريجين للعمل في مجالات تصميم أنظمة إنترنت الأشياء وتطوير برامج الحوسبة الذكية وتوظيفها كتطبيق قابل للتفاعل مع البيئة المحيطة داخل كافة الانظمة المدمجة"
         },
         "para2": {
             "en": " ",
@@ -48,15 +48,15 @@
             "ar": " "
         },
         "visionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "Creating an innovative generation capable of embedding intelligence technologies and data processing into systems and things to achieve development and growth.",
+            "ar": "  الرؤية  خلق جيل مبتكر قادر على إيداع تقنيات الذكاء ومعالجة البيانات في الأنظمة والأشياء لتحقيق التطور والنماء."
         },
         "missionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "Developing highly specialized and unique scientific cadres equipped with the skills and knowledge in the field of the Internet of Things and big data analysis, enabling them to keep pace with developments in this field and innovate research and applications capable of competing locally, regionally, and internationally, thereby contributing to the growth of the surrounding community and the development of its industries in line with Egypt's sustainable development plan.",
+            "ar": "إعداد كوادر علمية متخصصة ومتفردة تمتلك من المهارات والمعرفة في مجال إنترنت الأشياء وتحليل البيانات الضخمة ما يؤهلها لمواكبة التطور في هذا المجال وابتكار أبحاث وتطبيقات قادرة على المنافسة محليًا وإقليميًا ودوليًا تنمو بالمجتمع المحيط وتطور صناعته في ظل خطة مصر للتنمية المستدامة"
         }
     },
-    "overviewImage": "/images/medicine/overview.jpg",
+    "overviewImage": "/images/ai/iotoverview2.jpg",
     "facultyGoals": [
         {
             "id": "1",
@@ -70,8 +70,48 @@
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Develop a deep understanding of fundamental IoT concepts, including device connectivity, data acquisition, and communication protocols.",
+                    "ar": "تطوير فهم عميق للمفاهيم الأساسية لإنترنت الأشياء، بما في ذلك اتصال الأجهزة، واكتساب البيانات، وبروتوكولات الاتصال."
+                },
+                {
+                    "en": "Grasp the core principles of Big Data, including data generation, storage, processing, and analysis.",
+                    "ar": "استيعاب المبادئ الأساسية للبيانات الضخمة، بما يشمل توليد البيانات وتخزينها ومعالجتها وتحليلها."
+                },
+                {
+                    "en": "Acquire knowledge of advanced data mining and machine learning techniques for extracting valuable insights from large datasets.",
+                    "ar": "اكتساب المعرفة بالتقنيات المتقدمة للتنقيب عن البيانات والتعلم الآلي لاستخلاص رؤى قيمة من مجموعات البيانات الكبيرة."
+                },
+                {
+                    "en": "Explore the ethical and societal implications of IoT and Big Data technologies.",
+                    "ar": "استكشاف الآثار الأخلاقية والمجتمعية لتقنيات إنترنت الأشياء والبيانات الضخمة."
+                },
+                {
+                    "en": "Gain hands-on experience in designing, implementing, and deploying IoT systems.",
+                    "ar": "الحصول على خبرة عملية في تصميم وتنفيذ ونشر أنظمة إنترنت الأشياء."
+                },
+                {
+                    "en": "Develop proficiency in programming languages and tools relevant to IoT and Big Data development.",
+                    "ar": "تطوير الكفاءة في لغات البرمجة والأدوات المتعلقة بتطوير إنترنت الأشياء والبيانات الضخمة."
+                },
+                {
+                    "en": "Master data analysis techniques, including data cleaning, preprocessing, and visualization.",
+                    "ar": "إتقان تقنيات تحليل البيانات، بما في ذلك تنظيف البيانات ومعالجتها وتصورها."
+                },
+                {
+                    "en": "Acquire skills in building predictive models and making data-driven decisions.",
+                    "ar": "اكتساب مهارات بناء النماذج التنبؤية واتخاذ القرارات المبنية على البيانات."
+                },
+                {
+                    "en": "Develop the ability to work effectively in multidisciplinary teams and collaborate with experts from various fields.",
+                    "ar": "تطوير القدرة على العمل بفعالية ضمن فرق متعددة التخصصات والتعاون مع خبراء من مختلف المجالات."
+                },
+                {
+                    "en": "Encourage innovative thinking to address real-world challenges using IoT and Big Data solutions.",
+                    "ar": "تشجيع التفكير الابتكاري لمعالجة التحديات الواقعية باستخدام حلول إنترنت الأشياء والبيانات الضخمة."
+                },
+                {
+                    "en": "Emphasize the development of scalable and sustainable technology systems.",
+                    "ar": "التركيز على تطوير أنظمة تقنية قابلة للتوسع ومستدامة."
                 }
             ]
         },
@@ -87,8 +127,56 @@
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Smart Solutions Designer: Combines IoT and data analytics to develop intelligent systems.",
+                    "ar": "مصمم حلول ذكية: الجمع بين إنترنت الأشياء وتحليل البيانات لتطوير أنظمة ذكية."
+                },
+                {
+                    "en": "Real-Time Data Analyst: Manages and analyzes data from sensors in real-time.",
+                    "ar": "محلل البيانات الزمنية: إدارة وتحليل البيانات الناتجة عن أجهزة الاستشعار في الوقت الفعلي."
+                },
+                {
+                    "en": "Integrated Systems Engineer: Merges IoT and data analytics to improve organizational efficiency.",
+                    "ar": "مهندس أنظمة متكاملة: الدمج بين إنترنت الأشياء وتحليل البيانات لتحسين كفاءة المؤسسات."
+                },
+                {
+                    "en": "New Technologies Developer: Conducts research and development to create innovative products based on IoT and Big Data.",
+                    "ar": "مطور تقنيات جديدة: البحث والتطوير لتطوير منتجات مبتكرة تعتمد على إنترنت الأشياء والبيانات الضخمة."
+                },
+                {
+                    "en": "IoT Solutions Developer: Creates applications and software supporting IoT systems.",
+                    "ar": "مطور حلول إنترنت الأشياء: إنشاء تطبيقات وبرمجيات تدعم أنظمة إنترنت الأشياء."
+                },
+                {
+                    "en": "Communication Protocol Engineer: Enhances connectivity between devices across various networks.",
+                    "ar": "مهندس بروتوكولات اتصال: العمل على تحسين الاتصال بين الأجهزة عبر الشبكات المختلفة."
+                },
+                {
+                    "en": "IoT Project Manager: Leads teams and coordinates processes for developing and deploying IoT solutions.",
+                    "ar": "إدارة مشاريع إنترنت الأشياء: قيادة الفرق وتنسيق العمليات لتطوير ونشر حلول إنترنت الأشياء."
+                },
+                {
+                    "en": "Data Analyst: Analyzes Big Data to extract valuable insights for decision-making.",
+                    "ar": "محلل بيانات: تحليل البيانات الضخمة واستخراج المعلومات القيمة لدعم القرارات."
+                },
+                {
+                    "en": "Data Developer: Utilizes AI and machine learning techniques to develop predictive models.",
+                    "ar": "مطور بيانات: استخدام تقنيات الذكاء الاصطناعي والتعلم الآلي لتطوير نماذج تنبؤية."
+                },
+                {
+                    "en": "Data Engineer: Designs and builds systems for data flow and storage.",
+                    "ar": "مهندس بيانات: تصميم وبناء أنظمة تدفق البيانات والتخزين."
+                },
+                {
+                    "en": "Data Storage Expert: Optimizes methods for storing large datasets.",
+                    "ar": "خبير في تخزين البيانات: تحسين طرق تخزين البيانات الكبيرة."
+                },
+                {
+                    "en": "IoT Engineer: Responsible for designing, developing, and deploying connected devices and intelligent solutions.",
+                    "ar": "مهندس إنترنت الأشياء: مسؤول عن تصميم وتطوير ونشر الأجهزة المتصلة والحلول الذكية."
+                },
+                {
+                    "en": "Business Intelligence Analyst: Provides operational and strategic insights based on data.",
+                    "ar": "محلل ذكاء الأعمال: تقديم رؤى تشغيلية واستراتيجية بناءً على البيانات."
                 }
             ]
         }
@@ -152,38 +240,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Orientation & Preparation to Medical School",
-                                "ar": "أسبوع تعريفي و تقديمي لبرنامج الطب"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Foundation 1",
-                                "ar": "موديول تأسيسي 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Foundation 2",
-                                "ar": "موديول تأسيسي 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Medical Terminology",
-                                "ar": "مهارات التقديم"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Quality Orientation",
-                                "ar": "مدخل الجودة والاعتماد في مؤسسات التعليم العالي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 1",
-                                "ar": "مادة اختيارية 1"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -197,32 +261,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Musculoskeletal System",
-                                "ar": "الجهاز العضلي الهيكلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Blood and Lymph",
-                                "ar": "الدم و الجهاز الليمفاوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Communication Skills and Medical Professionalism",
-                                "ar": "مهارات التواصل والاحترافية الطبية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Issues",
-                                "ar": "القضايا المجتمعية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 2",
-                                "ar": "مادة اختيارية 2"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -245,32 +291,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Respiratory System",
-                                "ar": "الجهاز التنفسي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Cardiovascular System",
-                                "ar": "الجهاز الدوري"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 1",
-                                "ar": "المهارات الإكلينيكية الأساسية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Psychology",
-                                "ar": "علم النفس"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 3",
-                                "ar": "مادة اختيارية 3"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -284,32 +312,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Gastrointestinal System",
-                                "ar": "الجهاز الهضمي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "CNS & Special Senses",
-                                "ar": "الجهاز العصبي المركزي و الحواس الخاصة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 2",
-                                "ar": "المهارات الإكلينيكية الأساسية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Life Support",
-                                "ar": "دعم الحياة الأساسي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 4",
-                                "ar": "مادة اختيارية 4"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -332,38 +342,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Genitourinary System",
-                                "ar": "الجهاز البولي التناسلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Endocrine System",
-                                "ar": "جهاز الغدد الصماء"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Medicine",
-                                "ar": "طب المجتمع"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 3",
-                                "ar": "المهارات الإكلينيكية الأساسية 3"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 1",
-                                "ar": "اللغة الألمانية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 5",
-                                "ar": "مادة اختيارية 5"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -377,38 +363,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Forensic and Toxicology",
-                                "ar": "الطب الشرعي و السموم"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "ENT",
-                                "ar": "الأنف و الأذن و الحنجرة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ophthalmology",
-                                "ar": "طب و جراحة العيون"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Evidence Based Medicine, Research & Biostatistics",
-                                "ar": "الطب المبني على الدليل والبحث العلمي والإحصاء الحيوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 2",
-                                "ar": "اللغة الألمانة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 6",
-                                "ar": "مادة اختيارية 6"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -431,26 +393,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine I",
-                                "ar": "باطنة عامة 1"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery I",
-                                "ar": "جراحة عامة 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 1",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Patient Safety & Infection Control",
-                                "ar": "سلامة المريض و مكافحة العدوى"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -464,113 +414,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine II",
-                                "ar": "باطنة عامة 2"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery II",
-                                "ar": "جراحة عامة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 2",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ethical and Legal Issues in Medical Practice",
-                                "ar": "القضايا الأخلاقية والقانونية في الممارسة الطبية"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": {
-                "en": "Level 5",
-                "ar": "المستوى الخامس"
-            },
-            "semesters": [
-                {
-                    "id": "5-1",
-                    "name": {
-                        "en": "Ninth Semester",
-                        "ar": "الفصل الدراسي التاسع"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module I",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Pediatrics and Neonatology",
-                                "ar": "طب الأطفال و حديثي الولادة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Child Health",
-                                "ar": "صحة الطفل"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Clinical Nutrition",
-                                "ar": "تغذية علاجية"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "5-2",
-                    "name": {
-                        "en": "Tenth Semester",
-                        "ar": "الفصل الدراسي العاشر"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module II",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Obstetrics and Gynecology",
-                                "ar": "أمراض النساء والتوليد"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Women Health",
-                                "ar": "صحة المرأة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Field Training",
-                                "ar": "تدريب ميداني"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]

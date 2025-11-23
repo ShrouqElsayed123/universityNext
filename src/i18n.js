@@ -48,6 +48,9 @@ const resources = {
             course: "Faculty levels and  <highlight>courses</highlight>",
             tgoal: "Goals",
             goal: "Faculty  <highlight>objectives</highlight>",
+            program: "Faculty  <highlight>Programs</highlight>",
+            tprogram: "programs"
+
         }
     },
     ar: {
@@ -88,6 +91,8 @@ const resources = {
             tgoal: "الأهداف",
             goal: "أهداف   <highlight>الكلية</highlight>",
 
+            program: "برامج   <highlight>الكلية</highlight>",
+            tprogram: "البرامج"
         }
     }
 };

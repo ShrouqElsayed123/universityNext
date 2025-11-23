@@ -1,5 +1,5 @@
 // app/faculty/[slug]/page.js
-import AiProgram from "@/components/FaculitiesComponent/AiProgram";
+import ProgramCom from "@/components/FaculitiesComponent/ProgramCom";
 import FacultyDoctors from "@/components/FaculitiesComponent/FacultyDoctors";
 import FacultyGoals from "@/components/FaculitiesComponent/FacultyGoals";
 import FacultyLevels from "@/components/FaculitiesComponent/FacultyLevels";
@@ -61,25 +61,31 @@ export default async function Page({ params }) {
                     )
             }
 
-            <PeekSlider />
-            <FacultyDoctors team={data.facultyDoctors} />
-            {data.type == "hasPrograms" ?
-                (
-                  <AiProgram data={data.programData} />
-                ) : (
-                    <>
-                        <FacultyGoals
-                            data={data.facultyGoals}
-                            img={data.goalsImage}
-                        />
-
-
-                        <FacultyLevels facultyData={data} />
-
-                    </>
-                )
+            {data.type == "hasPrograms" &&
+                <>
+                    <ProgramCom data={data.programData} />
+                    <PeekSlider images={data.facultyGallery} />
+                    <FacultyDoctors team={data.facultyDoctors} />
+                </>
             }
 
-        </div>
+            {data.type !== "hasPrograms" &&
+
+                <>
+                    <PeekSlider images={data.facultyGallery} />
+                    <FacultyDoctors team={data.facultyDoctors} />
+                    <FacultyGoals
+                        data={data.facultyGoals}
+                        img={data.goalsImage}
+                    />
+
+
+                    <FacultyLevels facultyData={data} />
+
+                </>
+
+            }
+
+        </div >
     );
 }

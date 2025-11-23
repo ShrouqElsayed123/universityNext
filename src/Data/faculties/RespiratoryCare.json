@@ -10,50 +10,42 @@
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/appliedhealth",
                 "label": {
-                    "en": "home",
-                    "ar": "الرئيسية"
+                    "en": " Faculty of Applied Health Sciences​",
+                    "ar": " كلية تكنولوجيا العلوم الصحية التطبيقية"
                 }
             },
             {
-                "to": "/",
+                "to": "/faculties/appliedhealth/program/RespiratoryCare",
                 "label": {
-                    "en": "Faculty of Medicine",
-                    "ar": " كلية الطب والجراحة"
+                    "en": "Respiratory Care Technology Program",
+                    "ar": " برنامج تكنولوجيا الرعاية التنفسية"
                 }
             }
         ],
-        "img": "/images/ai/banner.jfif"
+        "img": "/images/appliedhealth/banner.jpg"
     },
     "overview": {
         "title": {
-            "en": "Overview of the Data Sciences Program ",
-            "ar": "نبذه عن برنامج علوم البيانات"
+            "en": "Technology of respiratory therapy Program",
+            "ar": "برنامج تكنولوجيا الرعاية التنفسية"
         },
         "para1": {
-            "en": "",
-            "ar": ""
+            "en": "This program focuses on producing skilled respiratory therapy technicians through advanced technological education that keeps pace with current medical innovations, aiming to improve the quality of healthcare services.",
+            "ar": "يُعنى البرنامج بتخريج فنيين في العلاج التنفسي ذوي كفاءة عالية، من خلال تعليم تكنولوجي متطور يواكب المستجدات الطبية، للمساهمة في تحسين جودة الرعاية الصحية."
         },
         "para2": {
             "en": " ",
             "ar": " "
         },
-        "programTitle": {
-            "en": " ",
-            "ar": " "
-        },
-        "programPara": {
-            "en": " ",
-            "ar": " "
-        },
         "visionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "A program that contributes to providing highly skilled respiratory therapist capable of competing in the local and regional labor markets in the field of respiratory care technology, aiming to enhance the quality of healthcare services.",
+            "ar": "    برنامج يساهم في توفير أخصائي علاج تنفسي ذو مهارات عالية قادر على المنافسة في أسواق العمل المحلية والإقليمية في مجال تكنولوجيا الرعاية التنفسية، بهدف تعزيز جودة الخدمات الصحية."
         },
         "missionPara": {
-            "en": " ",
-            "ar": " "
+            "en": "To graduate respiratory therapist who are committed to professional ethics, proficient in specialized technical skills, and capable of assisting in the provision of outstanding and safe healthcare based on evidence and best practices, serving various healthcare institutions. The graduate will also be able to participate in scientific research, serve the community, and be prepared for continuous education and teamwork, equipped with management skills and adhering to educational quality standards. ",
+            "ar": "تخريج معالجين تنفسيين ملتزمين بأخلاقيات المهنة، متمكنين من المهارات الفنية التخصصية، قادرين على المساعدة في تقديم رعاية صحية متميزة وآمنة مبنية على الأدلة وأفضل الممارسات، لخدمة مؤسسات الرعاية الصحية المختلفة، كما سيكون الخريج قادراً على المشاركة في البحث العلمي وخدمة المجتمع، ومستعداً للتعليم المستمر والعمل الجماعي، ومجهزاً بمهارات الإدارة والالتزام بمعايير الجودة التعليمية."
         }
     },
     "overviewImage": "/images/medicine/overview.jpg",
@@ -70,8 +62,40 @@
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Preparing respiratory therapist with advanced scientific skills, alongside a focus on personal skills.",
+                    "ar": "إعداد أخصائي علاج تنفسي يتمتع بمهارات علمية متقدمة، إلى جانب التركيز على المهارات الشخصية."
+                },
+                {
+                    "en": "Aligning the graduate's skills and qualifications with labor market requirements.",
+                    "ar": "مواءمة مهارات ومؤهلات الخريج مع متطلبات سوق العمل."
+                },
+                {
+                    "en": "Equipping graduates and training them in self-learning and continuous learning methods.",
+                    "ar": "إعداد الخريجين وتدريبهم على أساليب التعلم الذاتي والتعلم المستمر."
+                },
+                {
+                    "en": "Emphasizing scientific research and linking it with technological advancements and labor market needs.",
+                    "ar": "التركيز على البحث العلمي وربطه بالتطورات التكنولوجية واحتياجات سوق العمل."
+                },
+                {
+                    "en": "Continuous development of programs to keep up with rapid technological progress.",
+                    "ar": "التطوير المستمر للبرامج لمواكبة التقدم التكنولوجي السريع."
+                },
+                {
+                    "en": "Establishing collaboration protocols with various hospitals, healthcare institutions, and companies that support student training.",
+                    "ar": "إنشاء بروتوكولات التعاون مع مختلف المستشفيات ومؤسسات الرعاية الصحية والشركات التي تدعم تدريب الطلاب."
+                },
+                {
+                    "en": "Establishing international collaboration protocols with corresponding colleges and institutions that support student training.",
+                    "ar": "إنشاء بروتوكولات التعاون الدولي مع الكليات والمؤسسات المعنية التي تدعم تدريب الطلاب."
+                },
+                {
+                    "en": "Expanding the development of laboratories and workshops at the college.",
+                    "ar": "التوسع في تطوير المختبرات والورش بالكلية."
+                },
+                {
+                    "en": "Enhancing infrastructure to facilitate e-learning and simulation-based learning methods.",
+                    "ar": "تعزيز البنية التحتية لتسهيل التعلم الإلكتروني وطرق التعلم المبنية على المحاكاة."
                 }
             ]
         },
@@ -87,54 +111,37 @@
             },
             "content": [
                 {
-                    "en": " ",
-                    "ar": " "
+                    "en": "Job opportunities are available both domestically and internationally in all private and public healthcare institutions, as the graduate receives a professional practice license as a specialist.",
+                    "ar": "تتوفر فرص العمل محلياً ودولياً في كافة المؤسسات الصحية الخاصة والعامة، حيث يحصل الخريج على رخصة مزاولة المهنة كمتخصص."
+                },
+                {
+                    "en": "The job titles include 'Radiology and Medical Imaging Technology Specialist,' 'Medical Laboratory Technology Specialist,' 'Dental Prosthetics Technology Specialist,' or 'Respiratory Care Technology Specialist.'",
+                    "ar": "تشمل المسميات الوظيفية 'أخصائي تكنولوجيا الأشعة والتصوير الطبي'، 'أخصائي تكنولوجيا المختبرات الطبية'، 'أخصائي تكنولوجيا الأطراف الاصطناعية للأسنان'، أو 'أخصائي تكنولوجيا الرعاية التنفسية'."
+                },
+                {
+                    "en": "Additionally, there are job opportunities in various research centers and in the academic field (teaching and scientific research).",
+                    "ar": "بالإضافة إلى ذلك، توجد فرص عمل في مراكز البحوث المختلفة وفي المجال الأكاديمي (التدريس والبحث العلمي)."
+                },
+                {
+                    "en": "The college also prepares graduates for postgraduate studies (Master's and Ph.D.).",
+                    "ar": "كما تقوم الكلية بإعداد الخريجين للدراسات العليا (الماجستير والدكتوراه)."
+                },
+                {
+                    "en": "The graduate has a comprehensive academic background in modern health knowledge and trends aligned with the evolving labor market in the healthcare field, specifically in respiratory care technology.",
+                    "ar": "يتمتع الخريج بخلفية أكاديمية شاملة في المعرفة الصحية الحديثة والاتجاهات المتوافقة مع سوق العمل المتطور في مجال الرعاية الصحية، وخاصة في تكنولوجيا الرعاية التنفسية."
+                },
+                {
+                    "en": "They are knowledgeable in handling equipment in intensive care units, as well as the basics of resuscitation and early detection of complications.",
+                    "ar": "وهم على دراية بالتعامل مع المعدات في وحدات العناية المركزة، وكذلك أساسيات الإنعاش والكشف المبكر عن المضاعفات."
+                },
+                {
+                    "en": "They are capable of assisting patients with respiratory devices under the supervision and direct instructions of a doctor, in accordance with quality and accreditation standards in healthcare facilities, while ensuring occupational safety for both themselves and the patient.",
+                    "ar": "وهم قادرون على مساعدة المرضى بأجهزة التنفس تحت إشراف وتوجيهات مباشرة من الطبيب، وفقًا لمعايير الجودة والاعتماد في المرافق الصحية، مع ضمان السلامة المهنية لهم وللمريض."
                 }
             ]
         }
     ],
     "goalsImage": "/images/medicine/medicinegoal.jpg",
-    "facultyGallery": [
-        "/images/f1.jpg",
-        "/images/f2.jpg",
-        "/images/f3.jpg",
-        "/images/f4.jpg",
-        "/images/f5.jpg"
-    ],
-    "facultyDoctors": [
-        {
-            "name": "Samanta Smith",
-            "role": {
-                "en": "Head manager",
-                "ar": "المدير الرئيسي"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        },
-        {
-            "name": "Lucy Albea",
-            "role": {
-                "en": "Investor",
-                "ar": "مستثمر"
-            },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
-        }
-    ],
     "facultyLevels": [
         {
             "id": "1",
@@ -152,38 +159,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Orientation & Preparation to Medical School",
-                                "ar": "أسبوع تعريفي و تقديمي لبرنامج الطب"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Foundation 1",
-                                "ar": "موديول تأسيسي 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Foundation 2",
-                                "ar": "موديول تأسيسي 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Medical Terminology",
-                                "ar": "مهارات التقديم"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Quality Orientation",
-                                "ar": "مدخل الجودة والاعتماد في مؤسسات التعليم العالي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 1",
-                                "ar": "مادة اختيارية 1"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -197,32 +180,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Musculoskeletal System",
-                                "ar": "الجهاز العضلي الهيكلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Blood and Lymph",
-                                "ar": "الدم و الجهاز الليمفاوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Communication Skills and Medical Professionalism",
-                                "ar": "مهارات التواصل والاحترافية الطبية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Issues",
-                                "ar": "القضايا المجتمعية"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 2",
-                                "ar": "مادة اختيارية 2"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -245,32 +210,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Respiratory System",
-                                "ar": "الجهاز التنفسي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Cardiovascular System",
-                                "ar": "الجهاز الدوري"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 1",
-                                "ar": "المهارات الإكلينيكية الأساسية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Psychology",
-                                "ar": "علم النفس"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 3",
-                                "ar": "مادة اختيارية 3"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -284,32 +231,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Gastrointestinal System",
-                                "ar": "الجهاز الهضمي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "CNS & Special Senses",
-                                "ar": "الجهاز العصبي المركزي و الحواس الخاصة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 2",
-                                "ar": "المهارات الإكلينيكية الأساسية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Life Support",
-                                "ar": "دعم الحياة الأساسي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 4",
-                                "ar": "مادة اختيارية 4"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -332,38 +261,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Genitourinary System",
-                                "ar": "الجهاز البولي التناسلي"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Endocrine System",
-                                "ar": "جهاز الغدد الصماء"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Community Medicine",
-                                "ar": "طب المجتمع"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Basic Clinical Skills 3",
-                                "ar": "المهارات الإكلينيكية الأساسية 3"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 1",
-                                "ar": "اللغة الألمانية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 5",
-                                "ar": "مادة اختيارية 5"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -377,38 +282,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Forensic and Toxicology",
-                                "ar": "الطب الشرعي و السموم"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "ENT",
-                                "ar": "الأنف و الأذن و الحنجرة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ophthalmology",
-                                "ar": "طب و جراحة العيون"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Evidence Based Medicine, Research & Biostatistics",
-                                "ar": "الطب المبني على الدليل والبحث العلمي والإحصاء الحيوي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "German Language 2",
-                                "ar": "اللغة الألمانة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Faculty Elective 6",
-                                "ar": "مادة اختيارية 6"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -431,26 +312,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine I",
-                                "ar": "باطنة عامة 1"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery I",
-                                "ar": "جراحة عامة 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 1",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Patient Safety & Infection Control",
-                                "ar": "سلامة المريض و مكافحة العدوى"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
@@ -464,113 +333,14 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "Internal Medicine II",
-                                "ar": "باطنة عامة 2"
+                                "en": "",
+                                "ar": ""
                             }
                         },
                         {
                             "name": {
-                                "en": "Surgery II",
-                                "ar": "جراحة عامة 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Artificial Intelligence in Medicine 2",
-                                "ar": "الذكاء الاصطناعي و الطب 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Ethical and Legal Issues in Medical Practice",
-                                "ar": "القضايا الأخلاقية والقانونية في الممارسة الطبية"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": {
-                "en": "Level 5",
-                "ar": "المستوى الخامس"
-            },
-            "semesters": [
-                {
-                    "id": "5-1",
-                    "name": {
-                        "en": "Ninth Semester",
-                        "ar": "الفصل الدراسي التاسع"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module I",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 1"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Pediatrics and Neonatology",
-                                "ar": "طب الأطفال و حديثي الولادة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Child Health",
-                                "ar": "صحة الطفل"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Clinical Nutrition",
-                                "ar": "تغذية علاجية"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "5-2",
-                    "name": {
-                        "en": "Tenth Semester",
-                        "ar": "الفصل الدراسي العاشر"
-                    },
-                    "courses": [
-                        {
-                            "name": {
-                                "en": "Integrated Clinical Module II",
-                                "ar": "حزمة دراسية اكلينيكية تكاملية 2"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Obstetrics and Gynecology",
-                                "ar": "أمراض النساء والتوليد"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Women Health",
-                                "ar": "صحة المرأة"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Research Project",
-                                "ar": "مشروع بحثي"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Field Training",
-                                "ar": "تدريب ميداني"
+                                "en": "",
+                                "ar": ""
                             }
                         }
                     ]
