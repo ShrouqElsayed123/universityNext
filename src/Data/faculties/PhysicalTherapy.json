@@ -49,6 +49,13 @@
             "ar": "إعداد خريجين في تخصص العلاج الطبيعي يتمتعون بمستوى علمي متميز وأداء مهني عالي، مع الالتزام بالأخلاقيات المهنية الرفيعة. يتم ذلك من خلال برامج تعليمية متفوقة وبحث علمي مبتكر يخدم المجتمع. حيث ترتبط العملية التعليمية في الجامعة بدمج التدريس والبحث العلمي والتطبيق العملي مع مجموعة من العلوم الإنسانية، مما يسهم في تخريج عقول مبدعة وخلاقة."
         }
     },
+    "overviewImages": [
+        "/images/physicaltherapy/f6.jpg",
+        "/images/physicaltherapy/f7.jpg",
+        "/images/physicaltherapy/f8.jpg",
+        "/images/physicaltherapy/f9.jpg",
+        "/images/physicaltherapy/f10.jpg"
+    ],
     "overviewImage": "/images/physicaltherapy/overview.jpg",
     "facultyGoals": [
         {
@@ -136,44 +143,56 @@
     ],
     "goalsImage": "/images/physicaltherapy/physicaltherapygoal.jpg",
     "facultyGallery": [
-        "/images/f1.jpg",
-        "/images/f2.jpg",
-        "/images/f3.jpg",
-        "/images/f4.jpg",
-        "/images/f5.jpg"
+        "/images/physicaltherapy/f1.jpg",
+        "/images/physicaltherapy/f2.jpg",
+        "/images/physicaltherapy/f3.jpg",
+        "/images/physicaltherapy/f4.jpg",
+        "/images/physicaltherapy/f5.jpg"
     ],
     "facultyDoctors": [
         {
-            "name": "Samanta Smith",
-            "role": {
-                "en": "Head manager",
-                "ar": "المدير الرئيسي"
+            "name": {
+                "en": "Prof. Dr. Manal Elsayed Farid Ahmed",
+                "ar": "أ .د . منال السيد فريد احمد "
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": " Program Manager",
+                "ar": " مدير البرنامج"
+            },
+            "image": "/images/physicaltherapy/teachers/t1.jpg"
         },
         {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
+            "name": {
+                "en": "Prof. Dr. Omaima Mahmoud",
+                "ar": "أ.د. اميمة محمود"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/physicaltherapy/teachers/t2.jpg"
         },
         {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
+            "name": {
+                "en": "Prof. Dr. Intisar El-Desouki ",
+                "ar": "أ.د . انتصار الدسوقي"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/physicaltherapy/teachers/t3.jpg"
         },
         {
-            "name": "Lucy Albea",
-            "role": {
-                "en": "Investor",
-                "ar": "مستثمر"
+            "name": {
+                "en": "Dr. Iman Saeed ",
+                "ar": "د. ايمان سعيد"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/physicaltherapy/teachers/t4.jpg"
         }
     ],
     "facultyLevels": [

@@ -19,7 +19,8 @@ export default function FacultyOverview({
     visionPara,
     missionPara,
     images,
-    overviewImage
+    overviewImage,
+    overviewImages
 }) {
     const { i18n } = useTranslation();
     const lang = i18n.language;
@@ -74,12 +75,12 @@ export default function FacultyOverview({
 
                         {/* content 2 */}
                         <div className="p-4 rounded-lg border">
-                            <h4 className="text-2xl font-semibold inline-block text-mainColor mb-1">
+                            <h4 className="text-2xl mb-3 font-semibold inline-block text-mainColor">
                                 <FaHeartbeat size={24} className="text-mainColor mr-2 inline-block" />
                                 <span>{programTitle[lang]}</span>
                             </h4>
                             <div className="flex flex-wrap gap-2 mb-4">
-                                {images.map((img, i) => (
+                                {overviewImages.map((img, i) => (
                                     <motion.div
                                         key={i}
                                         className="relative h-32 w-40 rounded-lg overflow-hidden cursor-pointer hover:scale-105 transition-transform duration-300"

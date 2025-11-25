@@ -50,6 +50,13 @@
         }
     },
     "overviewImage": "/images/nursing/overview.jpg",
+    "overviewImages": [
+        "/images/nursing/f7.jpg",
+        "/images/nursing/f8.jpg",
+        "/images/nursing/f9.jpg",
+        "/images/nursing/f10.jpg",
+        "/images/nursing/f11.jpg"
+    ],
     "facultyGoals": [
         {
             "id": "1",
@@ -132,44 +139,57 @@
     ],
     "goalsImage": "/images/nursing/nursinggoal.jpg",
     "facultyGallery": [
-        "/images/f1.jpg",
-        "/images/f2.jpg",
-        "/images/f3.jpg",
-        "/images/f4.jpg",
-        "/images/f5.jpg"
+        "/images/nursing/f1.jpg",
+        "/images/nursing/f2.jpg",
+        "/images/nursing/f3.jpg",
+        "/images/nursing/f4.jpg",
+        "/images/nursing/f6.jpg",
+        "/images/nursing/f5.jpg"
     ],
     "facultyDoctors": [
         {
-            "name": "Samanta Smith",
-            "role": {
-                "en": "Head manager",
-                "ar": "المدير الرئيسي"
+            "name": {
+                "en": "Prof. Dr. Manal Elsayed Farid Ahmed",
+                "ar": "أ .د . منال السيد فريد احمد "
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": " Program Manager",
+                "ar": " مدير البرنامج"
+            },
+            "image": "/images/nursing/teachers/t1.jpg"
         },
         {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
+            "name": {
+                "en": "Prof. Dr. Omaima Mahmoud",
+                "ar": "أ.د. اميمة محمود"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/nursing/teachers/t2.jpg"
         },
         {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
+            "name": {
+                "en": "Prof. Dr. Intisar El-Desouki ",
+                "ar": "أ.د . انتصار الدسوقي"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/nursing/teachers/t3.jpg"
         },
         {
-            "name": "Lucy Albea",
-            "role": {
-                "en": "Investor",
-                "ar": "مستثمر"
+            "name": {
+                "en": "Dr. Iman Saeed ",
+                "ar": "د. ايمان سعيد"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/nursing/teachers/t4.jpg"
         }
     ],
     "facultyLevels": [

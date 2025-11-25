@@ -55,9 +55,13 @@
         "/images/appliedhealth/f2.jpg",
         "/images/appliedhealth/f3.jpg",
         "/images/appliedhealth/f4.jpg",
-        "/images/appliedhealth/f5.jpg"
+        "/images/appliedhealth/f5.jpg",
+        "/images/appliedhealth/f6.jpg",
+        "/images/appliedhealth/f7.jpg",
+        "/images/appliedhealth/f8.jpg",
+        "/images/appliedhealth/f9.jpg"
     ],
-    "overviewImage": "/images/appliedhealth/appliedhealthoverview.jpg",
+    "overviewImage": "/images/appliedhealth/f7.jpg",
     "facultyDoctors": [
         {
             "name": {

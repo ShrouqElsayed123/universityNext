@@ -49,7 +49,14 @@
             "ar": "يسعى برنامج اللغة الإنجليزية والترجمة التخصصية بكلية العلوم الإنسانية، جامعة المنوفية الأهلية إلى تحقيق التميز في مجال اللغة الإنجليزية والترجمة التخصصية؛ لإعداد خريج قادر على تلبية احتياجات سوق العمل محليًا ودوليًا والبحث العلمي، وتحقيق الإسهام الفعال في خدمة المجتمع، والتواصل مع الثقافات الأخرى، بما يتماشى مع تحديات ومتطلبات العصر."
         }
     },
-    "overviewImage": "/images/medicine/overview.jpg",
+    "overviewImage": "/images/humanities/f2.jpg",
+    "overviewImages": [
+        "/images/humanities/f6.jpg",
+        "/images/humanities/f7.jpg",
+        "/images/humanities/f8.jpg",
+        "/images/humanities/f9.jpg",
+        "/images/humanities/f10.jpg"
+    ],
     "facultyGoals": [
         {
             "id": "1",
@@ -244,44 +251,56 @@
     ],
     "goalsImage": "/images/humanities/humanitiesgoal.png",
     "facultyGallery": [
-        "/images/f1.jpg",
-        "/images/f2.jpg",
-        "/images/f3.jpg",
-        "/images/f4.jpg",
-        "/images/f5.jpg"
+        "/images/humanities/f1.jpg",
+        "/images/humanities/f2.jpg",
+        "/images/humanities/f3.jpg",
+        "/images/humanities/f4.jpg",
+        "/images/humanities/f5.jpg"
     ],
     "facultyDoctors": [
         {
-            "name": "Samanta Smith",
-            "role": {
-                "en": "Head manager",
-                "ar": "المدير الرئيسي"
+            "name": {
+                "en": "Dr. Huda Suleiman",
+                "ar": "د.هدي سليمان "
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": " Program Manager",
+                "ar": " مدير البرنامج"
+            },
+            "image": "/images/humanities/teachers/t1.jpg"
         },
         {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
+            "name": {
+                "en": " ",
+                "ar": " "
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/humanities/teachers/t2.jpg"
         },
         {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
+            "name": {
+                "en": " Dr. Nermin Mahmoud",
+                "ar": " د.نيرمين محمود"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/humanities/teachers/t3.jpg"
         },
         {
-            "name": "Lucy Albea",
-            "role": {
-                "en": "Investor",
-                "ar": "مستثمر"
+            "name": {
+                "en": "Dr. Islam Mashhout",
+                "ar": "د.اسلام مشحوت"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/humanities/teachers/t4.jpg"
         }
     ],
     "facultyLevels": [
