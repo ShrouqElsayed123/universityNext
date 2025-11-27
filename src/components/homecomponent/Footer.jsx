@@ -1,3 +1,4 @@
+// import { Facebook } from 'lucide-react';
 import React from 'react'
 import { FaFacebook, FaYoutube } from "react-icons/fa";
 import { GoLocation } from "react-icons/go";
@@ -71,9 +72,9 @@ export default function Footer() {
         <div className="border-t border-gray-700 py-4 text-sm text-gray-400 flex flex-col sm:flex-row justify-between items-center max-w-screen-xl mx-auto px-4 text-center sm:text-right">
           {/* أيقونات التواصل */}
           <div className="flex space-x-4 rtl:space-x-reverse mb-2 sm:mb-0">
-            <a href="#" className="text-mainColor hover:text-white"> <i className="fa-brands fa-facebook footer-icon2" /></a>
-            <a href="#" className="text-mainColor hover:text-white"> <i className="fa-brands fa-youtube footer-icon2" /></a>
-            <a href="#" className="text-mainColor hover:text-white"> <i className="fa-solid fa-map-location-dot footer-icon2" /></a>
+            <a href="#" className="text-mainColor text-lg hover:text-white"><FaFacebook /></a>
+            <a href="#" className="text-mainColor text-lg hover:text-white"> <FaYoutube /></a>
+            <a href="#" className="text-mainColor text-lg hover:text-white"> <GoLocation /></a>
           </div>
 
           {/* الحقوق */}

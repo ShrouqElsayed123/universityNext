@@ -49,6 +49,13 @@
             "ar": "يعمل برنامج جراحة الفم والأسنان بجامعة المنوفية على إعداد متخصصين مهرة في مجال طب الأسنان، يتميزون علميًا وعمليًا، قادرين على المنافسة ومواكبة التطورات العلمية الحديثة. يهدف البرنامج إلى تلبية احتياجات سوق العمل، خدمة المجتمع، إجراء البحوث العلمية المتنوعة، وبناء شراكات محلية وعالمية في مجالات طب الأسنان وأمراض الفم."
         }
     },
+    "overviewImages": [
+        "/images/physicaltherapy/f6.jpg",
+        "/images/physicaltherapy/f7.jpg",
+        "/images/physicaltherapy/f8.jpg",
+        "/images/physicaltherapy/f9.jpg",
+        "/images/physicaltherapy/f10.jpg"
+    ],
     "facultyGoals": [
         {
             "id": "1",
