@@ -29,18 +29,19 @@ export default function NewsCard({ news }) {
 
                         {/* المحتوى */}
                         <div className="p-4 flex flex-col flex-1">
-                            <h2 className="text-lg font-semibold mb-1 line-clamp-2">{item?.title?.[language]}</h2>
-                            <p className="text-gray-600 mb-2 line-clamp-2">{item?.title?.[language]}</p>
-                            <p className="text-gray-700 mb-4 line-clamp-3">{item?.content?.[language]}</p>
-
-                            {/* الكاتب والتاريخ */}
                             <div className="flex justify-between items-center text-sm text-gray-500 mb-3">
                                 <span>By {item.author}</span>
                                 <span>{new Date(item.createdAt).toLocaleDateString()}</span>
                             </div>
+                            <h2 className="text-lg font-semibold mb-1 line-clamp-2">{item?.title?.[language]}</h2>
+                            {/* <p className="text-gray-600 mb-2 line-clamp-2">{item?.title?.[language]}</p> */}
+                            {/* <p className="text-gray-700 mb-4 line-clamp-3">{item?.content?.[language]}</p> */}
+
+                            {/* الكاتب والتاريخ */}
+
 
                             {/* زر قراءة المزيد */}
-                            <button className="bg-mainColor text-white py-2 px-4 rounded hover:bg-mainColor transition">
+                            <button className="bg-mainColor text-white py-2 px-4 rounded hover:bg-mainColorDark1 transition">
                                 Read more
                             </button>
                         </div>
