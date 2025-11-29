@@ -159,9 +159,9 @@ export default function Navbar() {
                                       href={sub.path}
                                       className={`block px-4 py-2 border-b-2 transition-all duration-200 
                                       ${isActive
-                                                ? 'text-mainColor   bg-blue-50 dark:bg-gray-700'
-                                                : 'text-gray-500  border-gray-50   hover:bg-gray-100 '
-                                              }
+                                          ? 'text-mainColor   bg-blue-50 dark:bg-gray-700'
+                                          : 'text-gray-500  border-gray-50   hover:bg-gray-100 '
+                                        }
                                         `}
                                       onClick={() => {
                                         setIsOpen(false);
@@ -211,9 +211,11 @@ export default function Navbar() {
                             initial={{ opacity: 0, y: -10, scale: 0.98 }}
                             animate={{ opacity: 1, y: 0, scale: 1, transition: { duration: 0.2 } }}
                             exit={{ opacity: 0, y: -10, scale: 0.98 }}
-                            className="absolute left-0 top-full mt-3 w-[850px] 
-                            bg-white dark:bg-gray-800   dark:border-gray-700 
-                            shadow-xl rounded-sm p-6 z-50 border-t-4 border-mainColor"
+                            className={`absolute top-full mt-3 w-[850px]
+  bg-white dark:bg-gray-800 dark:border-gray-700
+  shadow-xl rounded-sm p-6 z-50 border-t-4 border-mainColor
+  ${currentLang === "ar" ? "right-0" : "left-0"}`}
+
                           >
                             <div className="grid grid-cols-3 gap-2">
                               {item.columns?.map((col, cIndex) => (

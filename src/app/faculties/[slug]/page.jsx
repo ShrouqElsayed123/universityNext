@@ -10,6 +10,7 @@ import PeekSlider from "@/components/FaculitiesComponent/PeekSlider";
 // import ProgramCards from "@/components/FaculitiesComponent/ProgramCards";
 import fs from "fs";
 import path from "path";
+import PdfFlipbook from "@/components/FaculitiesComponent/PdfFlipbook";
 
 // **Server Component**: لا تضع "use client" هنا
 export default async function Page({ params }) {
@@ -33,6 +34,7 @@ export default async function Page({ params }) {
                 }))}
                 img={data.header.img}
             />
+            <PdfFlipbook pdfUrl="/data/1.pdf" />
 
             {/* باقي مكونات الصفحة يمكن إضافتها هنا */}
             {
