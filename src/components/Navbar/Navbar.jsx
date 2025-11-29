@@ -69,25 +69,26 @@ export default function Navbar() {
   };
 
   return (
-    <div className="w-full border-b max-w-screen-xl mx-auto">
+    <div className="w-full border-b ">
       <nav className="bg-white border-b border-gray-200 dark:bg-gray-900 dark:border-gray-700">
-        <div className="flex flex-wrap items-center justify-between p-2">
+        <div className="max-w-screen-xl mx-auto flex flex-wrap items-center justify-between p-2">
 
           <Link href="/">
             <Image src="/images/logo.png" alt="logo" width={80} height={80} className="object-contain" />
           </Link>
 
+          {/* menu open for responsive  */}
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="md:hidden text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 p-2 rounded-lg"
+            className="lg:hidden text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 p-2 rounded-lg"
           >
             <svg className="w-6 h-6" fill="none" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
             </svg>
           </button>
 
-          <div className={`w-full md:flex md:items-center md:w-auto ${isOpen ? 'block' : 'hidden'}`}>
-            <ul className="flex flex-col md:flex-row md:items-center md:gap-6 mt-4 md:mt-0 text-lg font-medium">
+          <div className={`w-full lg:flex lg:items-center lg:w-auto ${isOpen ? 'block' : 'hidden'}`}>
+            <ul className="flex flex-col lg:flex-row lg:items-center lg:gap-6 mt-4 lg:mt-0 text-lg font-medium">
 
               {navItems.map((item, index) => {
 
@@ -99,7 +100,7 @@ export default function Navbar() {
                     <li key={index}>
                       <Link
                         href={item.path}
-                        className={`block py-2 px-3 md:p-0 transition-all
+                        className={`block py-2 px-3 lg:p-0 transition-all text-xl
                           ${isActive
                             ? 'text-mainColor font-bold'
                             : 'text-gray-700 dark:text-gray-300 hover:text-mainColor'
@@ -119,7 +120,7 @@ export default function Navbar() {
                     <li key={index} className="relative" ref={isOpenDropdown ? dropdownRef : null}>
                       <button
                         onClick={() => setOpenDropdown(isOpenDropdown ? null : item.title[currentLang])}
-                        className="flex items-center justify-between gap-2 py-2 px-3 md:px-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 transition-all duration-200 w-full"
+                        className="flex items-center justify-between gap-2 py-2 px-3 lg:px-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-all duration-200 w-full"
                       >
                         {item.title[currentLang]}
 
@@ -159,9 +160,9 @@ export default function Navbar() {
                                       href={sub.path}
                                       className={`block px-4 py-2 border-b-2 transition-all duration-200 
                                       ${isActive
-                                                ? 'text-mainColor   bg-blue-50 dark:bg-gray-700'
-                                                : 'text-gray-500  border-gray-50   hover:bg-gray-100 '
-                                              }
+                                          ? 'text-mainColor   bg-blue-50 dark:bg-gray-700'
+                                          : 'text-gray-500  border-gray-50   hover:bg-gray-100 '
+                                        }
                                         `}
                                       onClick={() => {
                                         setIsOpen(false);
@@ -189,7 +190,7 @@ export default function Navbar() {
                     <li key={index} className="relative" ref={isMegaOpen ? dropdownRef : null}>
                       <button
                         onClick={() => setOpenDropdown(isMegaOpen ? null : item.title[currentLang])}
-                        className="flex items-center justify-between gap-2 py-2 px-3 md:px-2 rounded-md hover:bg-gray-100
+                        className="flex items-center justify-between gap-2 py-2 px-3 lg:px-2 rounded-lg hover:bg-gray-100
                          dark:hover:bg-gray-800 transition-all duration-200 w-full "
                       >
                         {item.title[currentLang]}
@@ -274,7 +275,7 @@ export default function Navbar() {
                                     <li key={sIndex} className="ml-3">
                                       <Link
                                         href={sub.path}
-                                        className={`block px-2 py-1 rounded-md transition-all
+                                        className={`block px-2 py-1 rounded-lg transition-all
                                           ${isActive
                                             ? 'text-mainColor font-semibold bg-blue-50 dark:bg-gray-700'
                                             : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'
