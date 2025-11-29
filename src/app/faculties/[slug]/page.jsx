@@ -59,6 +59,7 @@ export default async function Page({ params }) {
                             missionPara={data.overview.missionPara}
                             images={data.facultyGallery}
                             overviewImage={data.overviewImage}
+                            overviewImages={data.overviewImages}
                         />
                     )
             }

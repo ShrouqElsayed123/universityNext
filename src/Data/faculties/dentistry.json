@@ -49,6 +49,13 @@
             "ar": "يعمل برنامج جراحة الفم والأسنان بجامعة المنوفية على إعداد متخصصين مهرة في مجال طب الأسنان، يتميزون علميًا وعمليًا، قادرين على المنافسة ومواكبة التطورات العلمية الحديثة. يهدف البرنامج إلى تلبية احتياجات سوق العمل، خدمة المجتمع، إجراء البحوث العلمية المتنوعة، وبناء شراكات محلية وعالمية في مجالات طب الأسنان وأمراض الفم."
         }
     },
+    "overviewImages": [
+        "/images/physicaltherapy/f6.jpg",
+        "/images/physicaltherapy/f7.jpg",
+        "/images/physicaltherapy/f8.jpg",
+        "/images/physicaltherapy/f9.jpg",
+        "/images/physicaltherapy/f10.jpg"
+    ],
     "facultyGoals": [
         {
             "id": "1",
@@ -203,92 +210,50 @@
                 {
                     "id": "1-1",
                     "name": {
-                        "en": "Term 1",
-                        "ar": "الفصل الدراسي 1"
+                        "en": "Semester 101",
+                        "ar": "الفصل الدراسي الأول"
                     },
                     "courses": [
                         {
                             "name": {
                                 "en": "Quality control",
-                                "ar": "مدخل الى الجودة والاعتماد فى مؤسسات التعليم العالى 101"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Human Rights 102",
-                                "ar": "حقوق الانسان102"
+                                "ar": "مدخل إلى الجودة والاعتماد في مؤسسات التعليم العالي 101"
                             }
                         },
                         {
                             "name": {
                                 "en": "Biochemistry 101",
-                                "ar": "الكيمياء الحيوى 101"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Biochemistry 102",
-                                "ar": "الكيمياء الحيوى 102"
+                                "ar": "الكيمياء الحيوية 101"
                             }
                         },
                         {
                             "name": {
                                 "en": "Bio Physics 101",
-                                "ar": "الفيزياء الحيوى 101"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Bio Physics 102",
-                                "ar": "الفيزياء الحيوى 102"
+                                "ar": "الفيزياء الحيوية 101"
                             }
                         },
                         {
                             "name": {
                                 "en": "General Anatomy 101",
-                                "ar": "التشريح العام101"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "General Anatomy 102",
-                                "ar": "التشريح العام102"
+                                "ar": "التشريح العام 101"
                             }
                         },
                         {
                             "name": {
                                 "en": "General Physiology 101",
-                                "ar": "الفسيولوجيا العامه 101"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "General Physiology 102",
-                                "ar": "الفسيولوجيا العامه 102"
+                                "ar": "الفسيولوجيا العامة 101"
                             }
                         },
                         {
                             "name": {
                                 "en": "General Histology 101",
-                                "ar": "الهستولوجيا العامه 101"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "General Histology 102",
-                                "ar": "الهستولوجيا العامه 102"
+                                "ar": "الهستولوجيا العامة 101"
                             }
                         },
                         {
                             "name": {
                                 "en": "Dental Anatomy 101",
-                                "ar": "التشريح الوصفى للأسنان 101"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Dental Anatomy 102",
-                                "ar": "التشريح الوصفى للأسنان 102"
+                                "ar": "التشريح الوصفي للأسنان 101"
                             }
                         }
                     ]
@@ -296,10 +261,53 @@
                 {
                     "id": "1-2",
                     "name": {
-                        "en": "Term 2",
-                        "ar": "الفصل الدراسي 2"
+                        "en": "Semester 102",
+                        "ar": "الفصل الدراسي الثاني"
                     },
-                    "courses": []
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Human Rights 102",
+                                "ar": "حقوق الإنسان 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biochemistry 102",
+                                "ar": "الكيمياء الحيوية 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Bio Physics 102",
+                                "ar": "الفيزياء الحيوية 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Anatomy 102",
+                                "ar": "التشريح العام 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Physiology 102",
+                                "ar": "الفسيولوجيا العامة 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Histology 102",
+                                "ar": "الهستولوجيا العامة 102"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Dental Anatomy 102",
+                                "ar": "التشريح الوصفي للأسنان 102"
+                            }
+                        }
+                    ]
                 }
             ]
         },
@@ -313,8 +321,8 @@
                 {
                     "id": "2-1",
                     "name": {
-                        "en": "Term 1",
-                        "ar": "الفصل الدراسي 1"
+                        "en": "Semester 201",
+                        "ar": "الفصل الدراسي الثالث"
                     },
                     "courses": [
                         {
@@ -325,14 +333,65 @@
                         },
                         {
                             "name": {
-                                "en": "Dental Biomaterial 202",
-                                "ar": "مواد الأسنان الحيوية 202"
+                                "en": "Oral Biology 201",
+                                "ar": "بيولوجيا الفم 201"
                             }
                         },
                         {
                             "name": {
-                                "en": "Oral Biology 201",
-                                "ar": "بيولوجيا الفم 201"
+                                "en": "Technology of Operative Dentistry 201",
+                                "ar": "تقنية علاج الأسنان التحفظي 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Prosthodontics 201",
+                                "ar": "تقنية التعويضات السنية 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Technology of Fixed Prosthodontics 201",
+                                "ar": "تقنية التعويضات الثابتة 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Pathology 201",
+                                "ar": "الباثولوجي العام 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "General Pharmacology 201",
+                                "ar": "الفارماكولوجي العام 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Microbiology 201",
+                                "ar": "الميكروبيولوجي 201"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Molar Endodontics 201",
+                                "ar": "معالجة جذور الأسنان 201"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "2-2",
+                    "name": {
+                        "en": "Semester 202",
+                        "ar": "الفصل الدراسي الرابع"
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Dental Biomaterial 202",
+                                "ar": "مواد الأسنان الحيوية 202"
                             }
                         },
                         {
@@ -343,91 +402,47 @@
                         },
                         {
                             "name": {
-                                "en": "Technology of Operative Dentistry 201",
-                                "ar": "تقنية العلاج التحفظى 201"
-                            }
-                        },
-                        {
-                            "name": {
                                 "en": "Technology of Operative Dentistry 202",
-                                "ar": "تقنية العلاج التحفظى 202"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Technology of Prosthodontics 201",
-                                "ar": "تقنية الإستعاضة الصناعية المتحركه 201"
+                                "ar": "تقنية علاج الأسنان التحفظي 202"
                             }
                         },
                         {
                             "name": {
                                 "en": "Technology of Prosthodontics 202",
-                                "ar": "تقنية الإستعاضة الصناعية المتحركه 202"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Technology of Fixed Prosthodontics 201",
-                                "ar": "تقنية الإستعاضة السنية المثبته 201"
+                                "ar": "تقنية التعويضات السنية 202"
                             }
                         },
                         {
                             "name": {
                                 "en": "Technology of Fixed Prosthodontics 202",
-                                "ar": "تقنية الإستعاضة السنية المثبته 202"
+                                "ar": "تقنية التعويضات الثابتة 202"
                             }
                         },
                         {
                             "name": {
-                                "en": "General Pathology 201",
-                                "ar": "الباثولوجيا العامه 201"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "General Pharmacology 201",
-                                "ar": "الفارما كولوجى العامه 201"
+                                "en": "General Pathology 202",
+                                "ar": "الباثولوجي العام 202"
                             }
                         },
                         {
                             "name": {
                                 "en": "General Pharmacology 202",
-                                "ar": "الفارما كولوجى العامه 202"
+                                "ar": "الفارماكولوجي العام 202"
                             }
                         },
                         {
                             "name": {
-                                "en": "Microbiology201",
-                                "ar": "الميكروبيولوجى 201"
+                                "en": "Microbiology 202",
+                                "ar": "الميكروبيولوجي 202"
                             }
                         },
                         {
                             "name": {
-                                "en": "Microbiology202",
-                                "ar": "Microbiology202"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Elective 201",
-                                "ar": "مقرر إختيارى 201"
-                            }
-                        },
-                        {
-                            "name": {
-                                "en": "Elective 202",
-                                "ar": "مقرر إختيارى 202"
+                                "en": "Molar Endodontics 202",
+                                "ar": "معالجة جذور الأسنان 202"
                             }
                         }
                     ]
-                },
-                {
-                    "id": "2-2",
-                    "name": {
-                        "en": "Term 2",
-                        "ar": "الفصل الدراسي 2"
-                    },
-                    "courses": []
                 }
             ]
         },

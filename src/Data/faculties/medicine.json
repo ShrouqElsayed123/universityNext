@@ -49,6 +49,13 @@
             "ar": "يهدف برنامج الطب والجراحة إلى تقديم تعليم طبي متكامل يجمع بين المعرفة النظرية والتدريب العملي، لإعداد أطباء متميزين يمتلكون المهارات السريرية والكفاءات المهنية، مع الالتزام بأخلاقيات المهنة الطبية والمساهمة الفعالة في تطوير الرعاية الصحية والبحث العلمي لخدمة المجتمع المحلي والعالمي."
         }
     },
+    "overviewImages": [
+        "/images/physicaltherapy/f6.jpg",
+        "/images/physicaltherapy/f7.jpg",
+        "/images/physicaltherapy/f8.jpg",
+        "/images/physicaltherapy/f9.jpg",
+        "/images/physicaltherapy/f10.jpg"
+    ],
     "overviewImage": "/images/medicine/overview.jpg",
     "facultyGoals": [
         {

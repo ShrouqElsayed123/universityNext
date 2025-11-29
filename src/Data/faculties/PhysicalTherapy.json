@@ -49,6 +49,13 @@
             "ar": "إعداد خريجين في تخصص العلاج الطبيعي يتمتعون بمستوى علمي متميز وأداء مهني عالي، مع الالتزام بالأخلاقيات المهنية الرفيعة. يتم ذلك من خلال برامج تعليمية متفوقة وبحث علمي مبتكر يخدم المجتمع. حيث ترتبط العملية التعليمية في الجامعة بدمج التدريس والبحث العلمي والتطبيق العملي مع مجموعة من العلوم الإنسانية، مما يسهم في تخريج عقول مبدعة وخلاقة."
         }
     },
+    "overviewImages": [
+        "/images/physicaltherapy/f6.jpg",
+        "/images/physicaltherapy/f7.jpg",
+        "/images/physicaltherapy/f8.jpg",
+        "/images/physicaltherapy/f9.jpg",
+        "/images/physicaltherapy/f10.jpg"
+    ],
     "overviewImage": "/images/physicaltherapy/overview.jpg",
     "facultyGoals": [
         {
@@ -136,44 +143,56 @@
     ],
     "goalsImage": "/images/physicaltherapy/physicaltherapygoal.jpg",
     "facultyGallery": [
-        "/images/f1.jpg",
-        "/images/f2.jpg",
-        "/images/f3.jpg",
-        "/images/f4.jpg",
-        "/images/f5.jpg"
+        "/images/physicaltherapy/f1.jpg",
+        "/images/physicaltherapy/f2.jpg",
+        "/images/physicaltherapy/f3.jpg",
+        "/images/physicaltherapy/f4.jpg",
+        "/images/physicaltherapy/f5.jpg"
     ],
     "facultyDoctors": [
         {
-            "name": "Samanta Smith",
-            "role": {
-                "en": "Head manager",
-                "ar": "المدير الرئيسي"
+            "name": {
+                "en": "Prof. Dr. Manal Elsayed Farid Ahmed",
+                "ar": "أ .د . منال السيد فريد احمد "
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": " Program Manager",
+                "ar": " مدير البرنامج"
+            },
+            "image": "/images/physicaltherapy/teachers/t1.jpg"
         },
         {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
+            "name": {
+                "en": "Prof. Dr. Omaima Mahmoud",
+                "ar": "أ.د. اميمة محمود"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/physicaltherapy/teachers/t2.jpg"
         },
         {
-            "name": "Colin Power",
-            "role": {
-                "en": "Partner",
-                "ar": "شريك"
+            "name": {
+                "en": "Prof. Dr. Intisar El-Desouki ",
+                "ar": "أ.د . انتصار الدسوقي"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/physicaltherapy/teachers/t3.jpg"
         },
         {
-            "name": "Lucy Albea",
-            "role": {
-                "en": "Investor",
-                "ar": "مستثمر"
+            "name": {
+                "en": "Dr. Iman Saeed ",
+                "ar": "د. ايمان سعيد"
             },
-            "image": "https://i.pinimg.com/736x/f5/47/d8/f547d800625af9056d62efe8969aeea0.jpg"
+            "role": {
+                "en": "coordinator",
+                "ar": "منسق"
+            },
+            "image": "/images/physicaltherapy/teachers/t4.jpg"
         }
     ],
     "facultyLevels": [
@@ -187,14 +206,62 @@
                 {
                     "id": "1-1",
                     "name": {
-                        "en": "Term 1",
+                        "en": "Semester 1",
                         "ar": "الفصل الدراسي 1"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Human Anatomy I",
+                                "ar": "التشريح الآدمي (1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physiology I",
+                                "ar": "علم وظائف الأعضاء(1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Histology I",
+                                "ar": "علم الانسجة(1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Public Health",
+                                "ar": "صحة عامة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "English",
+                                "ar": "لغة انجليزية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Profession ethics and laws",
+                                "ar": "آداب وقوانين المهنة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biophysics",
+                                "ar": "الطبيعة الحيوية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Computer skills",
+                                "ar": "مهارات الكمبيوتر"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Psychology",
+                                "ar": "علم النفس"
                             }
                         }
                     ]
@@ -202,14 +269,62 @@
                 {
                     "id": "1-2",
                     "name": {
-                        "en": "Term 2",
+                        "en": "Semester 2",
                         "ar": "الفصل الدراسي 2"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Human Anatomy II",
+                                "ar": "التشريح الادمي(3)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physiology II",
+                                "ar": "علم وظائف الأعضاء(2)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biochemistry I",
+                                "ar": "كيمياء حيوية(1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Histology II",
+                                "ar": "علم الانسجة(2)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pathology I",
+                                "ar": "علم الامراض(1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Kinesiology",
+                                "ar": "دراسة الحركة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Human rights",
+                                "ar": "حقوق الانسان"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Communication skills",
+                                "ar": "مهارات الاتصال"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Sociology",
+                                "ar": "علم الاجتماع"
                             }
                         }
                     ]
@@ -226,14 +341,56 @@
                 {
                     "id": "2-1",
                     "name": {
-                        "en": "Term 1",
+                        "en": "Semester 1",
                         "ar": "الفصل الدراسي 1"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Neuroanatomy",
+                                "ar": "تشريح الجهاز العصبي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physiology III",
+                                "ar": "علم وظائف الأعضاء(3)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biochemistry II",
+                                "ar": "كيمياء حيوية(3)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Tests and Measurements I",
+                                "ar": "اختبارات ومقاييس(1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Hydrotherapy",
+                                "ar": "العلاج المائي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biomechanics I",
+                                "ar": "ميكانيكا حيوية (1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Electrotherapy I",
+                                "ar": "العلاج الكهربائي (1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Psychology of Hand caped",
+                                "ar": "علم نفس معاقين"
                             }
                         }
                     ]
@@ -241,14 +398,62 @@
                 {
                     "id": "2-2",
                     "name": {
-                        "en": "Term 2",
+                        "en": "Semester 2",
                         "ar": "الفصل الدراسي 2"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Human Anatomy II",
+                                "ar": "التشريح الادمي(3)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physiology IV",
+                                "ar": "علم وظائف الأعضاء(4)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Tests and Measurements II",
+                                "ar": "اختبارات ومقاييس(2)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Electrotherapy II",
+                                "ar": "العلاج الكهربائي(2)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Therapeutic Exercises I",
+                                "ar": "تمرينات علاجية (1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Exercise Physiology ",
+                                "ar": "فيسيولوجيا التمرينات"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Manual Therapy",
+                                "ar": "العلاج اليدوي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biomechanics II",
+                                "ar": "ميكانيكا حيوية(2)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Documentation in health professions",
+                                "ar": "التوثيق في المهن الصحية"
                             }
                         }
                     ]
@@ -265,14 +470,68 @@
                 {
                     "id": "3-1",
                     "name": {
-                        "en": "Term 1",
+                        "en": "Semester 1",
                         "ar": "الفصل الدراسي 1"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Radiology and Imaging I",
+                                "ar": "علم الأشعة والتصوير (1) "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pathology II",
+                                "ar": "علم الأمراض (2) "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Cardiovascular Pulmonary",
+                                "ar": "أمراض قلب وأوعية دموية وصدر "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Cardiovascular Pulmonary PT",
+                                "ar": "علاج طبيعي أمراض قلب وأوعية دموية وصدر "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Immunology",
+                                "ar": "علم المناعة "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Therapeutic Exercises II",
+                                "ar": "تمرينات علاجية (2) "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Principles of Rehabilitation",
+                                "ar": "مبادئ التأهيل "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Nutrition",
+                                "ar": "التغذية العلاجية "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Teaching and learning",
+                                "ar": "التعليم والتعلم "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective course  ",
+                                "ar": "مقرر اختياري"
                             }
                         }
                     ]
@@ -280,14 +539,68 @@
                 {
                     "id": "3-2",
                     "name": {
-                        "en": "Term 2",
+                        "en": "Semester 2",
                         "ar": "الفصل الدراسي 2"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Pharmacology",
+                                "ar": "علم الادوية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Internal medicine and Intensive Care",
+                                "ar": "أمرض باطنة وعناية مركزة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Internal medicine and Intensive Care Physical Therapy",
+                                "ar": "علاج طبيعي أمراض باطنة وعناية مركزة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physical Therapy Organization and Management",
+                                "ar": "إدارة خدمات العلاج الطبيعي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Obstetrics & Gynecology",
+                                "ar": "علم الامراض)1 أمراض نساء وتوليد ("
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Woman Health Physical Therapy",
+                                "ar": "علاج طبيعي لصحة المرأة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Obesity Management",
+                                "ar": "تقييم وعلاج السمنة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Radiology and imaging II",
+                                "ar": "علم الأشعة والتصوير (2)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Scientific thinking",
+                                "ar": "التفكير العلمي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective course",
+                                "ar": "مقرر اختياري"
                             }
                         }
                     ]
@@ -304,14 +617,62 @@
                 {
                     "id": "4-1",
                     "name": {
-                        "en": "Term 1",
+                        "en": "Semester 1",
                         "ar": "الفصل الدراسي 1"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Traumatology",
+                                "ar": "علم الإصابات"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Orthopedics and its Surgery",
+                                "ar": "أمراض العظام وجراحتها"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Musculoskeletal Physical Therapy I",
+                                "ar": "علاج طبيعي لأمراض الجهاز العضلي الهيكلي(1)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Orthotics and Prosthesis",
+                                "ar": "الجبائر والأطراف الصناعية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physical Therapy for Sports Injury",
+                                "ar": "علاج طبيعي للإصابات الرياضية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biostatistics",
+                                "ar": "إحصاء طبي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Community Medicine",
+                                "ar": "طب المجتمع"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Hospitals management",
+                                "ar": "إدارة المستشفيات"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective course",
+                                "ar": "مقرر اختياري"
                             }
                         }
                     ]
@@ -319,14 +680,62 @@
                 {
                     "id": "4-2",
                     "name": {
-                        "en": "Term 2",
+                        "en": "Semester 2",
                         "ar": "الفصل الدراسي 2"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Musculoskeletal Physical Therapy II",
+                                "ar": "علاج طبيعي لأمراض الجهاز العضلي الهيكلي(2)"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Clinical Reasoning in Orthopedics",
+                                "ar": "الاستفسار الإكلينيكي في العظام"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Dermatology",
+                                "ar": "أمراض جلدية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Burn and Plastic Surgery",
+                                "ar": "نظريات الحروق وجراحات التجميل"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physical Therapy for Burn and Plastic Surgery",
+                                "ar": "ع .ط للجلد والاغشية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Research and Evidence Based Practice",
+                                "ar": "البحث العلمي والممارسة الإكلينيكية المعتمدة علي الدلائل"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Ergonomics",
+                                "ar": "ميكانيكا العمل"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Quality principles",
+                                "ar": "مبادئ الجودة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective course",
+                                "ar": "مقرر اختياري"
                             }
                         }
                     ]
@@ -343,14 +752,68 @@
                 {
                     "id": "5-1",
                     "name": {
-                        "en": "Term 1",
+                        "en": "Semester 1",
                         "ar": "الفصل الدراسي 1"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Neurology and Neurosurgery",
+                                "ar": "أمراض عصبية وجراحتها"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physical Therapy for Neuromuscular disorders",
+                                "ar": "علاج طبيعي لاضطرابات الجهاز العصبي العضلي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Electro diagnosis",
+                                "ar": "التقييم الكهربائي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Psychiatry",
+                                "ar": "الأمراض النفسية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Neurological Rehabilitation",
+                                "ar": "تأهيل الأمراض العصبية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Motor Control",
+                                "ar": "التحكم الحركي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Vestibular rehabilitation",
+                                "ar": "تأهيل الاتزان"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pain management",
+                                "ar": "علاج الألم"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Occupational therapy for neurological disorders",
+                                "ar": "العلاج الوظائفي للأمراض العصبية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective course",
+                                "ar": "مقرر اختياري"
                             }
                         }
                     ]
@@ -358,14 +821,146 @@
                 {
                     "id": "5-2",
                     "name": {
-                        "en": "Term 2",
+                        "en": "Semester 2",
                         "ar": "الفصل الدراسي 2"
                     },
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Pediatric and its Surgery",
+                                "ar": "أمراض الاطفال وجراحتها"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Motor Development",
+                                "ar": "النمو والتطور "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pediatrics Physical Therapy And Its Surgery",
+                                "ar": "ع.ط أمراض الاطفال وجراحتها  "
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pediatrics Rehabilitation",
+                                "ar": "تأهيل الأطفال"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Geriatric",
+                                "ar": "أمراض مسنين"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Geriatric Rehabilitation",
+                                "ar": "تأهيل مسنين"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Differential Diagnosis in Physical Therapy",
+                                "ar": "التشخيص المقارن في العلاج الطبيعي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Scientific Writing and Capstone Project",
+                                "ar": "الكتابة العلمية ومشروع البحث الإكلينيكي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective course ",
+                                "ar": "مقرر اختياري"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": {
+                "en": "Elective Courses",
+                "ar": " المقررات الاختيارية"
+            },
+            "semesters": [
+                {
+                    "id": "5-1",
+                    "name": {
+                        "en": "courses",
+                        "ar": "الكورسات "
+                    },
+                    "courses": [
+                        {
+                            "name": {
+                                "en": "Advanced statistics",
+                                "ar": "الإحصاء المتقدم"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Infection control",
+                                "ar": "التحكم في العدوي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Study of microorganisms and immunity",
+                                "ar": "دراسة الكائنات الدقيقة والمناعة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Medical tests( clinical pathology)",
+                                "ar": "التحاليل الطبية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Genetics",
+                                "ar": "علم الجينات"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Alternative and complementary medicine",
+                                "ar": "تصميم الادوية للمنتجات الطبيعية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmaceutical design of natural products",
+                                "ar": "التصميم الصيدلى للمنتجات الطبيعية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Quality control of herbal medicines",
+                                "ar": "مراقبة جودة الادوية العشبية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Care of newborn babies",
+                                "ar": "العناية بالأطفال حديثي الولادة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Ultrasound to diagnose disorders of the musculoskeletal system",
+                                "ar": "الموجات الصوتية لتشخيص اضطرابات الجهاز العضلي الحركي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Principles of speech science",
+                                "ar": "مبادئ علم التخاطب"
                             }
                         }
                     ]

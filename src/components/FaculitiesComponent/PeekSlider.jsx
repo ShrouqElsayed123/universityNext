@@ -6,7 +6,6 @@ import { useTranslation, Trans } from "react-i18next";
 import { HiOutlineBuildingLibrary } from "react-icons/hi2";
 import Image from "next/image";
 
-
 export default function PeekSlider({ images }) {
     const [index, setIndex] = useState(0);
     const [flipped, setFlipped] = useState(false);
@@ -23,31 +22,36 @@ export default function PeekSlider({ images }) {
         setTimeout(() => {
             setIndex((prev) => (prev + 1) % images.length);
             setFlipped(false);
-        }, 300); // مدة نصف الفليب
+        }, 300); // half flip duration
     };
 
     return (
-        <section className="h-[100vh] flex flex-col items-center justify-start bg-gray-50 py-10">
+        <section className="w-full min-h-[60vh] md:min-h-[80vh] flex flex-col items-center justify-start bg-gray-50 py-10 px-4 md:px-8">
             {/* Header */}
-            <div className="text-center flex items-center flex-col gap-3">
+            <div className="text-center flex flex-col items-center gap-3 mb-8">
                 <div className="flex items-center font-Playwrite gap-2 text-secondaryColorLight1 cursor-pointer select-none border-b-[1px] border-secondaryColorLight1 w-fit">
-                    <HiOutlineBuildingLibrary className="w-6 h-6" />
-                    <span className="text-sm tracking-widest uppercase">{t('tgallery')}</span>
+                    <HiOutlineBuildingLibrary className="w-5 md:w-6 h-5 md:h-6" />
+                    <span className="text-xs md:text-sm tracking-widest uppercase">{t('tgallery')}</span>
                 </div>
-                <h2 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">
+                <h2 className="text-3xl md:text-5xl font-bold text-gray-900 dark:text-white">
                     <Trans i18nKey="fgallery" components={{ highlight: <span className="text-mainColor" /> }} />
                 </h2>
             </div>
 
             {/* Slider */}
-            <div className="relative w-full max-w-4xl h-full overflow-visible perspective-1000">
+            <div className="relative w-full max-w-4xl h-[250px] sm:h-[300px] md:h-[450px] lg:h-[600px] overflow-visible perspective-1000">
                 {images.map((img, i) => {
                     const offset = (i - index + images.length) % images.length;
-                    const xOffset = offset * 40;
-                    const scale = offset === 0 ? 1 : 0.85 - offset * 0.03;
+
+                    // responsive xOffset
+                    const xOffset =
+                        offset === 0
+                            ? 0
+                            : offset * (offset === 1 ? 30 : 50); // أصغر مسافة للأقرب، أكبر للأبعد
+                    const scale = offset === 0 ? 1 : 0.8 - offset * 0.05;
                     const rotateY = offset === 0 ? (flipped ? 180 : 0) : offset * 10;
                     const zIndex = images.length - offset;
-                    const opacity = 1;
+                    const opacity = offset > 2 ? 0 : 1;
 
                     return (
                         <motion.div
@@ -64,7 +68,7 @@ export default function PeekSlider({ images }) {
                         >
                             <Image
                                 src={img}
-                                alt=""
+                                alt={`Gallery Image ${i + 1}`}
                                 fill
                                 className="object-cover rounded-xl"
                                 style={{ transformStyle: "preserve-3d" }}

@@ -49,6 +49,13 @@
             "ar": "يسعى برنامج الطب البيطري لإمداد سوق العمل المحلى والإقليمى بأطباء بيطريين متميزين من خلال برامج تعليمية مميزة لتنمية الثروة الحيوانية والسمكية وضمان صحة وسلامة الغذاء، وتوفير خدمات مجتمعية واستشارات بيطرية متميزة وفقاً لرؤية مصر نحو التنمية المستدامة 2030"
         }
     },
+    "overviewImages": [
+        "/images/physicaltherapy/f6.jpg",
+        "/images/physicaltherapy/f7.jpg",
+        "/images/physicaltherapy/f8.jpg",
+        "/images/physicaltherapy/f9.jpg",
+        "/images/physicaltherapy/f10.jpg"
+    ],
     "overviewImage": "/images/veterinary/overview.jpg",
     "facultyGoals": [
         {

@@ -8,11 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "formidable": "^3.5.4",
     "framer-motion": "^12.23.24",
     "i18next-browser-languagedetector": "^8.2.0",
     "lucide-react": "^0.554.0",
+    "mongoose": "^9.0.0",
+    "multer": "^2.0.2",
     "next": "15.5.6",
     "pdfjs-dist": "^3.9.179",
+    "next-connect": "^1.0.0",
     "react": "19.1.0",
     "react-countup": "^6.5.3",
     "react-dom": "19.1.0",
