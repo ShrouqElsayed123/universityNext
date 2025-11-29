@@ -49,7 +49,7 @@
             "ar": "التميز في إعداد صيادلة مؤهلين بأحدث المفاهيم الصيدلية والطبية حتى يمكنهم المساهـمة في رفع كفاءة المنظومة العلاجية على المستوى المحلي والإقليمي في مجال الصيدلة الإكلينيكية من خلال التعامل مع الفريق الصحي في المستشفيات وتقديم الخدمات الصيدلية بمستوى مهاري محترف بالصيدليات العامة والخاصة وشركات الأدوية ومعامل الرقابة الدوائية وتحليل الأغذية بالإضافة إلى العمل في مجال الإعلام والتسويق الدوائي والمشاركة بفاعلية في البحث العلمي من خلال مراكز البحوث والجامعات لأجراء بحوث علمية متطورة تساهم في تطوير صناعة الدواء لخدمة و تلبية احتياجات المجتمع ."
         }
     },
-       "overviewImages": [
+    "overviewImages": [
         "/images/physicaltherapy/f6.jpg",
         "/images/physicaltherapy/f7.jpg",
         "/images/physicaltherapy/f8.jpg",
@@ -188,8 +188,56 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Pharmaceutical Analytical Chemistry I",
+                                "ar": "كيمياء تحليلية صيدلية I"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmaceutical Organic Chemistry I",
+                                "ar": "كيمياء عضوية صيدلية I"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmacy Orientation",
+                                "ar": "توجيه صيدلي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Medicinal Plants",
+                                "ar": "نباتات طبية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Medical Terminology",
+                                "ar": "مصطلحات طبية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Anatomy",
+                                "ar": "علم التشريح"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Information Technology and Scientific Writing",
+                                "ar": "تكنولوجيا المعلومات والكتابة العلمية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Mathematics",
+                                "ar": "رياضيات"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Quality Orientation",
+                                "ar": "توجيه الجودة (متطلب جامعة)"
                             }
                         }
                     ]
@@ -203,8 +251,50 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Pharmaceutical Analytical Chemistry II",
+                                "ar": "كيمياء تحليلية صيدلية II"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmaceutical Organic Chemistry II",
+                                "ar": "كيمياء عضوية صيدلية II"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Cell Biology",
+                                "ar": "بيولوجيا خلية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Histology",
+                                "ar": "علم الأنسجة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physical Pharmacy",
+                                "ar": "صيدلة فيزيائية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmacognosy I",
+                                "ar": "عقاقير I"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Psychology",
+                                "ar": "علم النفس"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Human Rights and Fighting Corruption",
+                                "ar": "حقوق الإنسان ومكافحة الفساد (متطلب جامعة)"
                             }
                         }
                     ]
@@ -227,8 +317,38 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "General Microbiology and Immunology",
+                                "ar": "الميكروبيولوجيا العامة والمناعة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biochemistry I",
+                                "ar": "كيمياء حيوية I"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmacognosy II",
+                                "ar": "عقاقير II"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Instrumental Analysis",
+                                "ar": "تحليل آلي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Physiology and Pathophysiology",
+                                "ar": "علم الأمراض والفسلجة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmaceutical Dosage Forms I",
+                                "ar": "أشكال جرعات دوائية I"
                             }
                         }
                     ]
@@ -242,8 +362,38 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Pharmacology I",
+                                "ar": "علم الأدوية I"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmaceutical Organic Chemistry III",
+                                "ar": "كيمياء عضوية صيدلية III"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pathology",
+                                "ar": "علم الأمراض"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmaceutical Dosage Forms II",
+                                "ar": "أشكال جرعات دوائية II"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biochemistry II",
+                                "ar": "كيمياء حيوية II"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Parasitology & Virology",
+                                "ar": "علم الطفيليات والفيروسات"
                             }
                         }
                     ]
@@ -266,8 +416,44 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Medicinal Chemistry-I",
+                                "ar": "كيمياء دوائيةI"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmacology-II",
+                                "ar": "IIعلم الأدوية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmaceutical Microbiology and Antimicrobials",
+                                "ar": "المكروبيولوجيا الصيدلية ومضادات الميكروبات"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmaceutical Dosage Forms-III",
+                                "ar": " تركيبات اشكال صيدلية III"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Biopharmaceutics and Pharmacokinetics",
+                                "ar": "صيدلة حيوية وحركية الدواء"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Natural products chemistry I",
+                                "ar": "كيمياء المنتجات الطبيعية I"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "First Aid and Basic Life Support",
+                                "ar": "الإسعافات الأولية"
                             }
                         }
                     ]
@@ -281,8 +467,44 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Pharmacology-III",
+                                "ar": "III علم الأدوية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Natural products chemistry- II",
+                                "ar": "كيمياء المنتجات الطبيعية II"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmaceutical Technology",
+                                "ar": "Pتكنولوجيا صيدلية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Drug Quality Control",
+                                "ar": "مراقبة جودة الدواء"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Medicinal Chemistry-II",
+                                "ar": "كيمياء دوائية II"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Drug Information",
+                                "ar": "معلومات دوائية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Hospital Pharmacy",
+                                "ar": "صيدلة المستشفيات"
                             }
                         }
                     ]
@@ -305,8 +527,44 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Drug Design",
+                                "ar": "تصميم الأدوية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Advanced Drug Delivery Systems",
+                                "ar": "انظمة توصيل الدواء الحديثة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Clinical Biochemistry",
+                                "ar": "الكيمياء الحيوية الاكلينيكية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Medical Microbiology",
+                                "ar": "المكروبيولوجيا الطبية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Basic & clinical Toxicology",
+                                "ar": "علم السموم الأساسي والسريري"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Community Pharmacy Practice",
+                                "ar": "ممارسة الصيدلة الأهلية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective course",
+                                "ar": "مقرر اختياري"
                             }
                         }
                     ]
@@ -320,8 +578,50 @@
                     "courses": [
                         {
                             "name": {
-                                "en": "",
-                                "ar": ""
+                                "en": "Clinical Pharmacokinetics",
+                                "ar": "حركية الدواء الإكلينيكية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Drug Interactions",
+                                "ar": "تفاعلات الأدوية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Clinical Pharmacy Practice",
+                                "ar": "ممارسة الصيدلة الإكلينيكية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Complementary and Alternative Therapy",
+                                "ar": "العلاج التكميلي والبديل"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Clinical Nutrition",
+                                "ar": "التغذية الاكلينيكية"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Public Health and Preventive Medicine",
+                                "ar": "الصحة العامة والطب الوقائي"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Pharmacy Legislation and Practice Ethics",
+                                "ar": "تشريعات الصيدلة وأخلاقيات المهنة"
+                            }
+                        },
+                        {
+                            "name": {
+                                "en": "Elective course",
+                                "ar": "مقرر اختياري"
                             }
                         }
                     ]

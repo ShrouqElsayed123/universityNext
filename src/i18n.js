@@ -50,7 +50,7 @@ const resources = {
             goal: "Faculty  <highlight>objectives</highlight>",
             program: "Faculty  <highlight>Programs</highlight>",
             tprogram: "programs",
-            courses: "Courses  <highlight>Programs</highlight> in the Program  ",
+            courses: "Courses  <highlight>Offered</highlight> in the Program  ",
             tcourses: "Courses"
 
         }

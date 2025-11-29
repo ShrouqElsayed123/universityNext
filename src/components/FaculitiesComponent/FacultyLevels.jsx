@@ -50,7 +50,7 @@ export default function FacultyLevels({ facultyData }) {
                 <div className="flex flex-col lg:flex-row items-center lg:items-start gap-6">
 
                     {/* Left Illustration */}
-                    <div className="w-full lg:w-1/2 flex justify-center items-center">
+                    <div className="w-full lg:w-1/3 flex justify-center items-center">
                         <Image
                             src="/images/courses4.svg"
                             alt={t("facultyIllustration")}
@@ -61,7 +61,7 @@ export default function FacultyLevels({ facultyData }) {
                     </div>
 
                     {/* Right Content */}
-                    <div className="w-full lg:w-1/2">
+                    <div className="w-full lg:w-2/3">
                         <h1 className="text-3xl font-bold mb-6">{facultyData.name}</h1>
 
                         {/* Tabs */}
@@ -129,7 +129,7 @@ export default function FacultyLevels({ facultyData }) {
                                                         {visibleCourses.map((course, index) => (
                                                             <div
                                                                 key={`${course.id}-${index}`}
-                                                                className="p-3 bg-gray-50 rounded-lg shadow hover:shadow-md transition flex items-center justify-center font-medium"
+                                                                className="p-3 text-sm bg-gray-50 rounded-lg shadow hover:shadow-md transition flex items-center justify-center font-medium"
                                                             >
                                                                 {course.name[lang]}
                                                             </div>
