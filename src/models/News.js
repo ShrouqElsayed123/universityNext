@@ -8,18 +8,18 @@ const NewsSchema = new mongoose.Schema(
         },
 
         title: {
-            ar: { type: String, required: true, trim: true },
-            en: { type: String, required: true, trim: true },
+            ar: { type: String, trim: true },
+            en: { type: String, trim: true },
         },
 
         content: {
-            ar: { type: String, required: true, trim: true },
-            en: { type: String, required: true, trim: true },
+            ar: { type: String, trim: true },
+            en: { type: String, trim: true },
         },
 
         author: {
             type: String,
-            required: true,
+
             trim: true,
         },
     },

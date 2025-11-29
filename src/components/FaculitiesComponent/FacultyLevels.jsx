@@ -35,13 +35,13 @@ export default function FacultyLevels({ facultyData }) {
                     <div className="flex items-center gap-2 font-Playwrite text-secondaryColorLight1 cursor-pointer select-none border-b-[1px] border-secondaryColorLight1 w-fit">
                         <HiOutlineBuildingLibrary className="w-6 h-6" />
                         <span className="text-sm tracking-widest uppercase">
-                            {t("tgallery")}
+                            {t("tcourses")}
                         </span>
                     </div>
 
                     <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
                         <Trans
-                            i18nKey="fgallery"
+                            i18nKey="courses"
                             components={{ highlight: <span className="text-mainColor" /> }}
                         />
                     </h2>
@@ -126,14 +126,15 @@ export default function FacultyLevels({ facultyData }) {
                                                     className="p-4 bg-white"
                                                 >
                                                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 max-h-36 overflow-y-auto">
-                                                        {visibleCourses.map((course) => (
+                                                        {visibleCourses.map((course, index) => (
                                                             <div
-                                                                key={course.id}
+                                                                key={`${course.id}-${index}`}
                                                                 className="p-3 bg-gray-50 rounded-lg shadow hover:shadow-md transition flex items-center justify-center font-medium"
                                                             >
                                                                 {course.name[lang]}
                                                             </div>
                                                         ))}
+
                                                     </div>
 
                                                     {term.courses.length > 4 && (

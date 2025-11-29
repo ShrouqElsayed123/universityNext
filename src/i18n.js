@@ -49,7 +49,9 @@ const resources = {
             tgoal: "Goals",
             goal: "Faculty  <highlight>objectives</highlight>",
             program: "Faculty  <highlight>Programs</highlight>",
-            tprogram: "programs"
+            tprogram: "programs",
+            courses: "Courses  <highlight>Programs</highlight> in the Program  ",
+            tcourses: "Courses"
 
         }
     },
@@ -92,7 +94,9 @@ const resources = {
             goal: "أهداف   <highlight>الكلية</highlight>",
 
             program: "برامج   <highlight>الكلية</highlight>",
-            tprogram: "البرامج"
+            tprogram: "البرامج",
+            courses: " المقررات   <highlight>الدراسية</highlight>  ",
+            tcourses: "الكورسات"
         }
     }
 };

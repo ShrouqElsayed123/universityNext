@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react'
 import { useTranslation } from "react-i18next";
 
@@ -31,7 +32,7 @@ export default function NewsCard({ news }) {
                         <div className="p-4 flex flex-col flex-1">
                             <div className="flex justify-between items-center text-sm text-gray-500 mb-3">
                                 <span>By {item.author}</span>
-                                <span>{new Date(item.createdAt).toLocaleDateString()}</span>
+                                <span>{item.published_date}</span>
                             </div>
                             <h2 className="text-lg font-semibold mb-1 line-clamp-2">{item?.title?.[language]}</h2>
                             {/* <p className="text-gray-600 mb-2 line-clamp-2">{item?.title?.[language]}</p> */}
@@ -41,9 +42,9 @@ export default function NewsCard({ news }) {
 
 
                             {/* زر قراءة المزيد */}
-                            <button className="bg-mainColor text-white py-2 px-4 rounded hover:bg-mainColorDark1 transition">
+                            <Link href={`/news/${item._id}`} className="bg-mainColor text-center text-white py-2 px-4 rounded hover:bg-mainColorDark1 transition">
                                 Read more
-                            </button>
+                            </Link >
                         </div>
                     </div>
                 ))}
