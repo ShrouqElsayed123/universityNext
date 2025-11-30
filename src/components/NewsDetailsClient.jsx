@@ -14,7 +14,7 @@ export default function NewsDetailsClient({ news }) {
                 {lang === "ar" ? news.title.ar : news.title.en}
             </h1>
             <p className="mb-4">{lang === "ar" ? news.content.ar : news.content.en}</p>
-            <p className="text-gray-500">Author: {news.author}</p>
+            {/* <p className="text-gray-500">Author: {news.author}</p> */}
         </div>
     );
 }

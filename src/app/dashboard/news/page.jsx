@@ -6,11 +6,13 @@ import React, { useEffect, useState } from "react";
 import { signOut } from "next-auth/react";
 import { useTranslation } from "react-i18next";
 import { useRouter } from "next/navigation";
+import Loading from "@/components/Loading";
 
 export default function DashboardNews() {
   const router = useRouter();
 
   const [news, setNews] = useState([]);
+  const [loading, setLoading] = useState(true); // ⬅️ NEW
   const { i18n } = useTranslation();
   const lang = i18n.language;
 
@@ -21,6 +23,8 @@ export default function DashboardNews() {
       if (data.success) setNews(data.data);
     } catch (error) {
       console.error("Error fetching news:", error);
+    } finally {
+      setLoading(false); // ⬅️ بعد ما الداتا ترجع
     }
   };
 
@@ -43,6 +47,12 @@ export default function DashboardNews() {
   const handleUpdate = (id) => {
     router.push(`/dashboard/news/edit/${id}`);
   };
+
+  if (loading) {
+    return (
+        <Loading />
+    );
+  }
 
 
   return (
@@ -69,32 +79,41 @@ export default function DashboardNews() {
         <tbody>
           {news.map((item) => (
             <tr key={item._id} className="hover:bg-gray-50">
-              <td className="py-2 px-4 border">{item.title?.[lang] || "No title"}</td>
+              <td className="py-2 px-4 border">
+                {item.title?.[lang] || "No title"}
+              </td>
               <td className="py-2 px-4 border">
                 {item.image ? (
-                  <img src={item.image} alt="news" className="w-20 h-12 object-cover rounded" />
+                  <img
+                    src={item.image}
+                    alt="news"
+                    className="w-20 h-12 object-cover rounded"
+                  />
                 ) : (
                   "No image"
                 )}
               </td>
-              <td className="py-2 px-4 border">{new Date(item.published_date).toLocaleDateString()}</td>
-              <td className="py-2 px-4 border w-full h-full flex gap-2 justify-center items-center">
-                <button
-                  className="flex items-center gap-1 text-blue-600 px-3 py-1 rounded border border-blue-300 hover:bg-blue-50 hover:text-blue-700 transition"
-                  onClick={() => handleUpdate(item._id)}
-                >
-                  <MdOutlineEdit />
-                  تعديل
-                </button>
-                <button
-                  className="flex items-center gap-1 text-red-600 px-3 py-1 rounded border border-red-300 hover:bg-red-50 hover:text-red-700 transition"
-                  onClick={() => handleDelete(item._id)}
-                >
-                  <MdDeleteOutline />
-                  حذف
-                </button>
+              <td className="py-2 px-4 border">
+                {new Date(item.published_date).toLocaleDateString()}
               </td>
-
+              <td className="py-2 px-4 border ">
+                <div className="flex gap-2 justify-center items-center">
+                  <button
+                    className="flex items-center gap-1 text-blue-600 px-3 py-1 rounded border border-blue-300 hover:bg-blue-50 hover:text-blue-700 transition"
+                    onClick={() => handleUpdate(item._id)}
+                  >
+                    <MdOutlineEdit />
+                    تعديل
+                  </button>
+                  <button
+                    className="flex items-center gap-1 text-red-600 px-3 py-1 rounded border border-red-300 hover:bg-red-50 hover:text-red-700 transition"
+                    onClick={() => handleDelete(item._id)}
+                  >
+                    <MdDeleteOutline />
+                    حذف
+                  </button>
+                </div>
+              </td>
             </tr>
           ))}
         </tbody>

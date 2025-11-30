@@ -1,5 +1,6 @@
 "use client";
 import NewsCard from "@/components/homecomponent/NewsCard";
+import Loading from "@/components/Loading";
 import { useEffect, useState } from "react";
 
 export default function NewsPage() {
@@ -25,7 +26,7 @@ export default function NewsPage() {
         getNews();
     }, []);
 
-    if (loading) return <p className="text-center mt-10">Loading...</p>;
+    if (loading) return <Loading />
 
     return (
         <NewsCard news={news} />

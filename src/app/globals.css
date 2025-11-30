@@ -77,3 +77,22 @@
 .animation-delay-1500 {
     animation-delay: 1.5s;
 }
+
+
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.loader-rotate {
+    animation: rotation 2s ease-in-out infinite alternate;
+}
+
+.loader-rotate-reverse {
+    animation: rotation 2s ease-in-out infinite alternate-reverse;
+}
