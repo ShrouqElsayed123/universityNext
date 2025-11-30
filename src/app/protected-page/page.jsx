@@ -1,18 +1,10 @@
-import { getServerSession } from "next-auth";
-import { authOptions } from "@/app/api/auth/[...nextauth]/route";
-import { redirect } from "next/navigation";
+import ProtectedWrapper from "@/components/ProtectedWrapper";
 
-export default async function ProtectedPage() {
-  const session = await getServerSession(authOptions);
-
-  if (!session) {
-    redirect("/login");
-  }
-
+export default function DashboardPage() {
   return (
-    <div className="text-center mt-10">
-      <h1>Welcome {session.user.name}</h1>
-      <p>This page is protected 🎉</p>
-    </div>
+    <ProtectedWrapper>
+      <h1>Dashboard</h1>
+      <p>Only logged-in users can see this.</p>
+    </ProtectedWrapper>
   );
 }

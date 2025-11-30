@@ -31,11 +31,12 @@ export default function NewsCard({ news }) {
                         {/* المحتوى */}
                         <div className="p-4 flex flex-col flex-1">
                             <div className="flex justify-between items-center text-sm text-gray-500 mb-3">
-                                <span>By {item.author}</span>
+                                <span>{language == 'ar' ? "بواسطه : " : "By : "} {item.author?.[language] || (language === 'ar' ? 'رندا يونس' : 'Randa Younis')}</span>
                                 <span>{item.published_date}</span>
                             </div>
-                            <h2 className="text-lg font-semibold mb-1 line-clamp-2">{item?.title?.[language]}</h2>
-                            {/* <p className="text-gray-600 mb-2 line-clamp-2">{item?.title?.[language]}</p> */}
+                            <h2 className="text-lg font-semibold mb-1 line-clamp-2">
+                                {item?.title?.[language] || (language === 'ar' ? 'لا عنوان' : 'No title')}
+                            </h2>                            {/* <p className="text-gray-600 mb-2 line-clamp-2">{item?.title?.[language]}</p> */}
                             {/* <p className="text-gray-700 mb-4 line-clamp-3">{item?.content?.[language]}</p> */}
 
                             {/* الكاتب والتاريخ */}

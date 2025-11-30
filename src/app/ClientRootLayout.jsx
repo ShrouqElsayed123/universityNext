@@ -6,6 +6,7 @@ import I18nProvider from '../components/I18nProvider';
 import Navbar from '../components/Navbar/Navbar';
 import Footer from '../components/homecomponent/Footer';
 import { Markazi_Text, Roboto, Playfair_Display, Playwrite_CZ } from 'next/font/google';
+import { SessionProvider } from 'next-auth/react';
 
 const markazi = Markazi_Text({ subsets: ['arabic', 'latin'], variable: '--font-arabic' });
 const roboto = Roboto({ subsets: ['latin'], variable: '--font-english' });
@@ -31,7 +32,9 @@ export default function ClientRootLayout({ children }) {
             <I18nProvider>
                 <Navbar />
                 <main className="flex-grow flex items-center justify-center">
-                    <div className="w-full mx-auto">{children}</div>
+                    <div className="w-full mx-auto">
+                        <SessionProvider>{children}</SessionProvider>
+                    </div>
                 </main>
                 <Footer />
             </I18nProvider>
