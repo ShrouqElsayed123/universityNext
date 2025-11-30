@@ -34,7 +34,7 @@ export default async function Page({ params }) {
                 }))}
                 img={data.header.img}
             />
-            <PdfFlipbook pdfUrl="/data/1.pdf" />
+            {/* <PdfFlipbook pdfUrl="/data/1.pdf" /> */}
 
             {/* باقي مكونات الصفحة يمكن إضافتها هنا */}
             {
